@@ -2,15 +2,20 @@ import requests
 from bs4 import BeautifulSoup
 import csv
 
+# URL from Bulbapedia
 url = 'https://bulbapedia.bulbagarden.net/wiki/List_of_TMs_in_Pok%C3%A9mon_Scarlet_and_Violet'
 page = requests.get(url)
 
+# Beautiful Soup to parse html content
 soup = BeautifulSoup(page.content, "html.parser")
 
+# First table being the content of the tms we want
 table = soup.find_all('table')[0]
 
+# Table Rows
 rows = table.find_all('tr')
 
+# Headers of the information we want
 HEADERS = [
     'TM Number',
     'Name',
@@ -25,11 +30,13 @@ HEADERS = [
     'Sell Price',
 ]
 
+# Writing the csv file to store data to not need multiple calls
 with open('PKMN-SV-TMS.csv', 'w',
           newline='', encoding='utf-8') as outfile:
     writer = csv.writer(outfile)
     writer.writerow(HEADERS)
 
+    # Information to be stripped and to be written
     count = 0
     for row in rows[2:]:
         count += 1
