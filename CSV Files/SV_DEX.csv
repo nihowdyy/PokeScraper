@@ -52,8 +52,8 @@ No.,Name,Image,Type,Abilities,Base
 50,Masquerain,https://j-img.game8.co/2216477/611d7528462fa06faf39cc541e9852ec.png/show?1540444401,Bug&Flying,Intimidate&Unnerve,Surskit
 51,Buizel,https://j-img.game8.co/2216657/aa7d38eae34c987a7c526d32f9e72bc9.png/show?1540444734,Water,Swift Swim&Water Veil,Buizel
 52,Floatzel,https://j-img.game8.co/2216682/31bf83804604bedcba347db37b76808d.png/show?1540444735,Water,Swift Swim&Water Veil,Buizel
-53,Paldean Wooper,https://j-img.game8.co/7641735/bee75ee8be35062998395f71520be32c.png/show,Poison&Ground,Poison Point&Water Absorb&Unaware,Paldean Wooper
-54,Clodsire,https://j-img.game8.co/7641788/927259bb21061e6fecb3b4a0e63038bf.png/show,Poison&Ground,Poison Point&Water Absorb&Unaware,Paldean Wooper
+53,Paldean Wooper,https://j-img.game8.co/7641735/bee75ee8be35062998395f71520be32c.png/show,Poison&Ground,Poison Point&Water Absorb&Unaware,Wooper
+54,Clodsire,https://j-img.game8.co/7641788/927259bb21061e6fecb3b4a0e63038bf.png/show,Poison&Ground,Poison Point&Water Absorb&Unaware,Wooper
 55,Psyduck,https://j-img.game8.co/4649555/bfb6775d3396e61fead29c07458fb222.png/show,Water,Damp&Cloud Nine&Swift Swim,Psyduck
 56,Golduck,https://j-img.game8.co/4649556/cc66e48a2b993420de891818dec15d6a.png/show,Water,Damp&Cloud Nine&Swift Swim,Psyduck
 57,Chewtle,https://j-img.game8.co/4508597/d2cc0ccfd2212c122d1f6c194236d3e5.png/show,Water,Strong Jaw&Shell Armor&Swift Swim,Chewtle
@@ -228,9 +228,9 @@ No.,Name,Image,Type,Abilities,Base
 220,Altaria,https://j-img.game8.co/2216560/ff7a90363a123415c7d7211ecd512d4e.png/show?1540444403,Dragon&Flying,Natural Cure&Cloud Nine,Swablu
 221,Skiddo,https://j-img.game8.co/2217722/01b6c3d3cdf3578407391f6067611896.png/show?1540450165,Grass,Sap Sipper&Grass Pelt,Skiddo
 222,Gogoat,https://j-img.game8.co/2217739/650d24cec00b59875112454f3c0ad52a.png/show?1540450166,Grass,Sap Sipper&Grass Pelt,Skiddo
-223,Paldean Tauros (Fighting Form),https://j-img.game8.co/7641746/21abdadb4f0f04d30e939b6232af9aa3.png/show,Fighting,Intimidate&Anger Point&Cud Chew,Paldean Tauros (Fighting Form)
-223.1,Paldean Tauros (Fighting/Fire Form),https://j-img.game8.co/7641741/bb38b2f144cd5d7d2b71d8deea12fb88.png/show,Fighting&Fire,Intimidate&Anger Point&Cud Chew,Paldean Tauros (Fighting Form)
-223.2,Paldean Tauros (Fighting/Water Form),https://j-img.game8.co/7641737/861e2eff09cbdfa8a1c059a90ddd120a.png/show,Fighting&Water,Intimidate&Anger Point&Cud Chew,Paldean Tauros (Fighting Form)
+223,Paldean Tauros (Fighting Form),https://j-img.game8.co/7641746/21abdadb4f0f04d30e939b6232af9aa3.png/show,Fighting,Intimidate&Anger Point&Cud Chew,Tauros
+223.1,Paldean Tauros (Fighting/Fire Form),https://j-img.game8.co/7641741/bb38b2f144cd5d7d2b71d8deea12fb88.png/show,Fighting&Fire,Intimidate&Anger Point&Cud Chew,Tauros
+223.2,Paldean Tauros (Fighting/Water Form),https://j-img.game8.co/7641737/861e2eff09cbdfa8a1c059a90ddd120a.png/show,Fighting&Water,Intimidate&Anger Point&Cud Chew,Tauros
 224,Litleo,https://j-img.game8.co/2217703/508c4365c95060c1b930c77cd43be340.png/show?1540450165,Fire&Normal,Rivalry&Unnerve&Moxie,Litleo
 225,Pyroar,https://j-img.game8.co/2217734/47b7b360f3cfada5fde6dd58780a8ec4.png/show?1540450165,Fire&Normal,Rivalry&Unnerve&Moxie,Litleo
 226,Stunky,https://j-img.game8.co/4507074/c6b691c1dd2a663097ce9ddf31dc0059.png/show,Poison&Dark,Stench&Aftermath&Keen Eye,Stunky
