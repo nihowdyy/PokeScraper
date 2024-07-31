@@ -27,7 +27,7 @@ rows = table.find_all('tr')
 
 # Directory Path & File Path
 directory = 'CSV Files'
-file_name = 'NAT_DEX.csv'
+file_name = 'SV_DEX.csv'
 file_path = os.path.join(directory, file_name)
 
 # If Directory does not exist, create it
