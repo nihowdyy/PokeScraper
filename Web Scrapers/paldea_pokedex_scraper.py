@@ -46,7 +46,9 @@ with open(file_path, 'w',
         number = dex_num.text.strip()
 
         cells = row.find_all('td')
+        # Remove Illegal characters
         name = cells[0].text.strip()
+        name = name.replace('/', '&')
         image = cells[0].findAll('img')[0]['data-src']
         # Seperate the Pokemon Types
         text_pieces = [str(piece).strip() for piece in cells[1].stripped_strings]

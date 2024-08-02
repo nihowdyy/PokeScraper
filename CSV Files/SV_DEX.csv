@@ -1,419 +1,419 @@
-No.,Name,Image,Type,Abilities,Base
-1,Sprigatito,https://j-img.game8.co/7641790/d32c3882be3f4ef08bada0ba68dac958.png/show,Grass,Overgrow&Protean,Sprigatito
-2,Floragato,https://j-img.game8.co/7641816/e3e6bd3f2291323661d545d8565e08ea.png/show,Grass,Overgrow&Protean,Sprigatito
-3,Meowscarada,https://j-img.game8.co/7641744/2a98829b743036f4fd23af03c5e79d11.png/show,Grass&Dark,Overgrow&Protean,Sprigatito
-4,Fuecoco,https://j-img.game8.co/7641739/ecfdabdc71e53574412d02c6cfd017f6.png/show,Fire,Blaze&Unaware,Fuecoco
-5,Crocalor,https://j-img.game8.co/7641797/7c5b8da63de5cd82e77173c9c540ac1c.png/show,Fire,Blaze&Unaware,Fuecoco
-6,Skeledirge,https://j-img.game8.co/7641750/0a0004933b3df1961871ad01be1fca33.png/show,Fire&Ghost,Blaze&Unaware,Fuecoco
-7,Quaxly,https://j-img.game8.co/7641775/d7fc1892a2e22da61d03f8b717d250a9.png/show,Water,Torrent&Moxie,Quaxly
-8,Quaxwell,https://j-img.game8.co/7641798/3b0ecc06b6f34de358b53f0567cd38f3.png/show,Water,Torrent&Moxie,Quaxly
-9,Quaquaval,https://j-img.game8.co/7641838/6610fe110adce294928685b2e6c05242.png/show,Water&Fighting,Torrent&Moxie,Quaxly
-10,Lechonk,https://j-img.game8.co/7641736/318d97e148e9d14d2ea034349a7da94b.png/show,Normal,Aroma Veil&Gluttony&Thick Fat,Lechonk
-11,Oinkologne (Male),https://j-img.game8.co/7641812/aa070425f0a262acc3d71a8adf6cdb66.png/show,Normal,Lingering Aroma&Gluttony&Thick Fat,Lechonk
-11.1,Oinkologne (Female),https://j-img.game8.co/7641834/009aa8880e3c14f76bb62566a66720c3.png/show,Normal,Aroma Veil&Gluttony&Thick Fat,Lechonk
-12,Tarountula,https://j-img.game8.co/7641751/5ed4fb1d5f1a05d920891d753ed62d41.png/show,Bug,Insomnia&Stakeout,Tarountula
-13,Spidops,https://j-img.game8.co/7641850/c231cf195083f9f49d84476271985f75.png/show,Bug,Insomnia&Stakeout,Tarountula
-14,Nymble,https://j-img.game8.co/7641780/8c9037162a841d137158353aaefde95f.png/show,Bug,Swarm&Tinted Lens,Nymble
-15,Lokix,https://j-img.game8.co/7641776/097f70a22945c5984e9b47d11e5bb5a7.png/show,Bug&Dark,Swarm&Tinted Lens,Nymble
-16,Hoppip,https://j-img.game8.co/2216382/5bc46c335e2ed8b6e979a7ecda9e85a3.png/show?1540444326,Grass&Flying,Chlorophyll&Leaf Guard&Infiltrator,Hoppip
-17,Skiploom,https://j-img.game8.co/2216397/070cdf00dbdef7aa47d25ae97db82f02.png/show?1540444326,Grass&Flying,Chlorophyll&Leaf Guard&Infiltrator,Hoppip
-18,Jumpluff,https://j-img.game8.co/2216366/3de9309b365ff7a706a0cf45544c7d4f.png/show?1540444326,Grass&Flying,Chlorophyll&Leaf Guard&Infiltrator,Hoppip
-19,Fletchling,https://j-img.game8.co/2217673/568006baadb7876d73a733bca3970d18.png/show?1540450165,Normal&Flying,Big Pecks&Gale Wings,Fletchling
-20,Fletchinder,https://j-img.game8.co/2217678/92d640f9ba6d2987a72e7637813cf4e7.png/show?1540450165,Fire&Flying,Flame Body&Gale Wings,Fletchling
-21,Talonflame,https://j-img.game8.co/2217676/56931d380dfe2f2e0188119fc5ef58b2.png/show,Fire&Flying,Flame Body&Gale Wings,Fletchling
-22,Pawmi,https://j-img.game8.co/7641767/0150e11cd242123ed72927467a3ea588.png/show,Electric,Static&Natural Cure&Iron Fist,Pawmi
-23,Pawmo,https://j-img.game8.co/7641807/6d811ce1e6fcbecfbc7ae194fd8a63f8.png/show,Electric&Fighting,Volt Absorb&Natural Cure&Iron Fist,Pawmi
-24,Pawmot,https://j-img.game8.co/7641762/b31eb49faff2029d961cb2aaae138ae8.png/show,Electric&Fighting,Volt Absorb&Natural Cure&Iron Fist,Pawmi
-25,Houndour,https://j-img.game8.co/2216445/16e763d44f385867255687f943afd601.png/show?1540444327,Dark&Fire,Early Bird&Flash Fire&Unnerve,Houndour
-26,Houndoom,https://j-img.game8.co/2216439/e482a12c9fdfe6bcc88ea859fcbfeb27.png/show?1540444328,Dark&Fire,Early Bird&Flash Fire&Unnerve,Houndour
-27,Yungoos,https://j-img.game8.co/2217803/2a8847497667d8e9a3f863bc2cf2adfe.png/show?1540450839,Normal,Stakeout&Strong Jaw&Adaptability,Yungoos
-28,Gumshoos,https://j-img.game8.co/2217809/9851c70f5c3082c4da7fb42b471dbbf6.png/show?1540450839,Normal,Stakeout&Strong Jaw&Adaptability,Yungoos
-29,Skwovet,https://j-img.game8.co/4508532/107854127d68087b57b293a65d59e4f3.png/show,Normal,Cheek Pouch&Gluttony,Skwovet
-30,Greedent,https://j-img.game8.co/4508580/a9b74757d8ff7de2d2d57f03d5236fd6.png/show,Normal,Cheek Pouch&Gluttony,Skwovet
-31,Sunkern,https://j-img.game8.co/2216411/b598236abbc2cf877c4de23d9fa60413.png/show?1540444327,Grass,Chlorophyll&Solar Power&Early Bird,Sunkern
-32,Sunflora,https://j-img.game8.co/2216385/3294ffd07c77fdbd20668e8ed9dc5bc3.png/show?1540444326,Grass,Chlorophyll&Solar Power&Early Bird,Sunkern
-33,Kricketot,https://j-img.game8.co/2216685/b1ff118ea155932292d241a8543144cf.png/show?1540444735,Bug,Shed Skin&Run Away,Kricketot
-34,Kricketune,https://j-img.game8.co/2216666/a47946ab1308893dabcd7461e65eefd4.png/show?1540444735,Bug,Swarm&Technician,Kricketot
-35,Scatterbug,https://j-img.game8.co/2217671/6a48882f9daec55357645e8b4162be02.png/show?1540450165,Bug,Shield Dust&Compound Eyes&Friend Guard,Scatterbug
-36,Spewpa,https://j-img.game8.co/2217715/4e30270677f9dfa1231a97ff27cd31ce.png/show?1540450165,Bug,Shed Skin&Friend Guard,Scatterbug
-37,Vivillon,https://j-img.game8.co/2217693/3800e531037f5e4a129ee31b6c1c2bec.png/show?1540450165,Bug&Flying,Shield Dust&Compound Eyes&Friend Guard,Scatterbug
-38,Combee,https://j-img.game8.co/4507039/7e017254013fb62857fffbc9c36e73fd.png/show,Bug&Flying,Honey Gather&Hustle,Combee
-39,Vespiquen,https://j-img.game8.co/4507020/664cc1b88bbbb086d3461fef5701048f.png/show,Bug&Flying,Pressure&Unnerve,Combee
-40,Rookidee,https://j-img.game8.co/4508560/d5b453c06ebaa1cd63fe9d21e4980cff.png/show,Flying,Unnerve&Keen Eye&Big Pecks,Rookidee
-41,Corvisquire,https://j-img.game8.co/4508603/751cbbef3666eab47be2b28d45afb0b1.png/show,Flying,Unnerve&Keen Eye&Big Pecks,Rookidee
-42,Corviknight,https://j-img.game8.co/4508584/160d11e39bf5cccdba356f6c605c7c91.png/show,Flying&Steel,Unnerve&Pressure&Mirror Armor,Rookidee
-43,Happiny,https://j-img.game8.co/4515224/de4129d0d0fb82b606e35f330830101b.png/show,Normal,Natural Cure&Serene Grace&Friend Guard,Happiny
-44,Chansey,https://j-img.game8.co/3930098/8b5a145e255f74aadb3d84635ea2dd5d.png/show,Normal,Natural Cure&Serene Grace&Healer,Happiny
-45,Blissey,https://j-img.game8.co/4515226/544a3da9aa586d1f3dbd49663be64f33.png/show,Normal,Natural Cure&Serene Grace&Healer,Happiny
-46,Azurill,https://j-img.game8.co/2216484/c30b9e898c5da1efd4c4646534612b7c.png/show?1540444401,Normal&Fairy,Thick Fat&Huge Power&Sap Sipper,Azurill
-47,Marill,https://j-img.game8.co/2216373/1475756d39b3f92d782844112bbab5f8.png/show?1540444326,Water&Fairy,Thick Fat&Huge Power&Sap Sipper,Azurill
-48,Azumarill,https://j-img.game8.co/2216402/560d23085d6c15466c66a14c6a948042.png/show?1540444327,Water&Fairy,Thick Fat&Huge Power&Sap Sipper,Azurill
-49,Surskit,https://j-img.game8.co/2216469/694ca6907a8212b4f41ef0a0a2580d44.png/show?1540444400,Bug&Water,Swift Swim&Rain Dish,Surskit
-50,Masquerain,https://j-img.game8.co/2216477/611d7528462fa06faf39cc541e9852ec.png/show?1540444401,Bug&Flying,Intimidate&Unnerve,Surskit
-51,Buizel,https://j-img.game8.co/2216657/aa7d38eae34c987a7c526d32f9e72bc9.png/show?1540444734,Water,Swift Swim&Water Veil,Buizel
-52,Floatzel,https://j-img.game8.co/2216682/31bf83804604bedcba347db37b76808d.png/show?1540444735,Water,Swift Swim&Water Veil,Buizel
-53,Paldean Wooper,https://j-img.game8.co/7641735/bee75ee8be35062998395f71520be32c.png/show,Poison&Ground,Poison Point&Water Absorb&Unaware,Wooper
-54,Clodsire,https://j-img.game8.co/7641788/927259bb21061e6fecb3b4a0e63038bf.png/show,Poison&Ground,Poison Point&Water Absorb&Unaware,Wooper
-55,Psyduck,https://j-img.game8.co/4649555/bfb6775d3396e61fead29c07458fb222.png/show,Water,Damp&Cloud Nine&Swift Swim,Psyduck
-56,Golduck,https://j-img.game8.co/4649556/cc66e48a2b993420de891818dec15d6a.png/show,Water,Damp&Cloud Nine&Swift Swim,Psyduck
-57,Chewtle,https://j-img.game8.co/4508597/d2cc0ccfd2212c122d1f6c194236d3e5.png/show,Water,Strong Jaw&Shell Armor&Swift Swim,Chewtle
-58,Drednaw,https://j-img.game8.co/4508599/8b9d1de111f00034d478d2359202e1fe.png/show,Water&Rock,Strong Jaw&Shell Armor&Swift Swim,Chewtle
-59,Igglybuff,https://j-img.game8.co/4649578/dbea10be0fd0ce05efd5048e2986c99a.png/show,Normal&Fairy,Cute Charm&Competitive&Friend Guard,Igglybuff
-60,Jigglypuff,https://j-img.game8.co/4649552/28800ce7061213ace904f638b1f6cac2.png/show,Normal&Fairy,Cute Charm&Competitive&Friend Guard,Igglybuff
-61,Wigglytuff,https://j-img.game8.co/4649554/c6c29ec6c3da9a6d3a2eb6ca286ea377.png/show,Normal&Fairy,Cute Charm&Competitive&Frisk,Igglybuff
-62,Ralts,https://j-img.game8.co/2216476/8e0969fd39d22f40e7015c0e25ecb9ae.png/show?1540444401,Psychic&Fairy,Synchronize&Trace&Telepathy,Ralts
-63,Kirlia,https://j-img.game8.co/2216492/709a0de0a218f8b5a7a231f274a59d97.png/show?1540444401,Psychic&Fairy,Synchronize&Trace&Telepathy,Ralts
-64,Gardevoir,https://j-img.game8.co/2216503/3793ac7cc894ac6c43d4ed31457f2142.png/show?1540444401,Psychic&Fairy,Synchronize&Trace&Telepathy,Ralts
-65,Gallade,https://j-img.game8.co/2216696/7bfd515b40290b46e05ff12c88eecafd.png/show?1540444735,Psychic&Fighting,Steadfast&Sharpness&Justified,Ralts
-66,Drowzee,https://j-img.game8.co/2216224/9ac42b20a95143fabfe6d5025b2adeb2.png/show?1540444219,Psychic,Insomnia&Forewarn&Inner Focus,Drowzee
-67,Hypno,https://j-img.game8.co/2216277/8cc860cfaae8a18f171eb683df87401d.png/show?1540444220,Psychic,Insomnia&Forewarn&Inner Focus,Drowzee
-68,Gastly,https://j-img.game8.co/4505991/59998031f6671610ddcb5618f7c4d8c1.png/show,Ghost&Poison,Levitate,Gastly
-69,Haunter,https://j-img.game8.co/4505979/9b40a1703acc1de97d724d33861ad9c9.png/show,Ghost&Poison,Levitate,Gastly
-70,Gengar,https://j-img.game8.co/4505942/999bc2b96782fb62ca7fa8c481910c16.png/show,Ghost&Poison,Cursed Body,Gastly
-71,Tandemaus,https://j-img.game8.co/7641806/fb917ca352eddcbd85b8e4128b0a7828.png/show,Normal,Run Away&Pickup&Own Tempo,Tandemaus
-72,Maushold,https://img.game8.co/3782913/999abfdc8084f57331d6908339147143.png/show,Normal,Friend Guard&Cheek Pouch&Technician,Tandemaus
-73,Pichu,https://j-img.game8.co/4506472/be923b533ac011ddd789a8c6554f1c5b.png/show,Electric,Static&Lightning Rod,Pichu
-74,Pikachu,https://j-img.game8.co/4505974/d2603e2e5935f7783308ac9e0340626c.png/show,Electric,Static&Lightning Rod,Pichu
-75,Raichu,https://j-img.game8.co/4505914/3826531c3eed43c090d3e3cd08b2a618.png/show,Electric,Static&Lightning Rod,Pichu
-76,Fidough,https://j-img.game8.co/7641832/22d16ead6dd1df07747587b3ded33587.png/show,Fairy,Own Tempo&Klutz,Fidough
-77,Dachsbun,https://j-img.game8.co/7641828/6c80846072ecae8800d8c7ea4726a8c6.png/show,Fairy,Well-Baked Body&Aroma Veil,Fidough
-78,Slakoth,https://j-img.game8.co/2216472/c3abb9a75b34904cb366e13871813855.png/show?1540444401,Normal,Truant,Slakoth
-79,Vigoroth,https://j-img.game8.co/2216491/420e9c1331c2cdabf71a17310f9559fd.png/show?1540444401,Normal,Vital Spirit,Slakoth
-80,Slaking,https://j-img.game8.co/2216521/3419cb0be77f8475c6bec6dc3f2166be.png/show?1540444402,Normal,Truant,Slakoth
-81,Bounsweet,https://j-img.game8.co/4508422/cf4353ca85d7c4f25c28f8630245687b.png/show,Grass,Oblivious&Leaf Guard&Sweet Veil,Bounsweet
-82,Steenee,https://j-img.game8.co/4508347/87ec53f8e258191c0d996242b1678c29.png/show,Grass,Oblivious&Leaf Guard&Sweet Veil,Bounsweet
-83,Tsareena,https://j-img.game8.co/4508353/461a14ee26f807641ab819db91fe1b07.png/show,Grass,Leaf Guard&Queenly Majesty&Sweet Veil,Bounsweet
-84,Smoliv,https://j-img.game8.co/7641796/0400208866b4b6b9ed71988f3667d194.png/show,Grass&Normal,Early Bird&Harvest,Smoliv
-85,Dolliv,https://j-img.game8.co/7641763/d4b86bdb1801b1a3d89c492bfa6010db.png/show,Grass&Normal,Early Bird&Harvest,Smoliv
-86,Arboliva,https://j-img.game8.co/7641742/74401cb2fe8fa212f5307562cd87e8bf.png/show,Grass&Normal,Seed Sower&Harvest,Smoliv
-87,Bonsly,https://j-img.game8.co/2216686/21943c1afc1dfb5c5b843f2480727460.png/show?1540444735,Rock,Sturdy&Rock Head&Rattled,Bonsly
-88,Sudowoodo,https://j-img.game8.co/2216390/c7378cb519f474d1e16902980e47c6ae.png/show?1540444326,Rock,Sturdy&Rock Head&Rattled,Bonsly
-89,Rockruff,https://j-img.game8.co/2217823/f12bfdb3633e750c0fa676f3c16079ff.png/show?1540450839,Rock,Keen Eye&Vital Spirit&Steadfast,Rockruff
-90,Lycanroc (Midday Form),https://j-img.game8.co/2217844/3c0dcf31a4d82c080cd1717ece94185f.png/show?1540450839,Rock,Keen Eye&Sand Rush&Steadfast,Rockruff
-90.1,Lycanroc (Midnight Form),https://j-img.game8.co/2217841/b6918cf8bf76a3dbea3ad066f3875f8d.png/show?1540450839,Rock,Keen Eye&Vital Spirit&No Guard,Rockruff
-90.2,Lycanroc (Dusk Form),https://j-img.game8.co/4653344/2fa893df1a7b7943921005c13b93ef4c.png/show,Rock,Tough Claws,Rockruff
-91,Rolycoly,https://j-img.game8.co/4508568/0734f88067227e081dd3b8ed23659ac7.png/show,Rock,Heatproof&Steam Engine&Flash Fire,Rolycoly
-92,Carkol,https://j-img.game8.co/4508635/6cfb011fa95c70a7a0c08e7c16ae0fb2.png/show,Rock&Fire,Flame Body&Steam Engine&Flash Fire,Rolycoly
-93,Coalossal,https://j-img.game8.co/4508614/6aaef02ada49fbd64483d4d39b5947a8.png/show,Rock&Fire,Flame Body&Steam Engine&Flash Fire,Rolycoly
-94,Shinx,https://j-img.game8.co/2216681/0a3a7dbbf6d927d8317a611d1497834e.png/show?1540444735,Electric,Rivalry&Intimidate&Guts,Shinx
-95,Luxio,https://j-img.game8.co/2216698/4c8bfcb742904e1b19ddddce71a29cca.png/show?1540444735,Electric,Rivalry&Intimidate&Guts,Shinx
-96,Luxray,https://j-img.game8.co/2216712/f4cf6fd54325ac04de902bae37388f87.png/show?1540444735,Electric,Rivalry&Intimidate&Guts,Shinx
-97,Starly,https://j-img.game8.co/2216727/e07979dc1f39269cd35fc5dcf6664605.png/show?1540444735,Normal&Flying,Keen Eye&Reckless,Starly
-98,Staravia,https://j-img.game8.co/2216684/658d51cabac979e6f3148d965d432513.png/show?1540444735,Normal&Flying,Intimidate&Reckless,Starly
-99,Staraptor,https://j-img.game8.co/2216687/114aea921ab3d11bf65efa24e0fcc513.png/show?1540444735,Normal&Flying,Intimidate&Reckless,Starly
-100,Oricorio (Baile Style),https://j-img.game8.co/2217833/3dddebcf3ef8fa56f909388eaa4c8c8f.png/show?1540450839,Fire&Flying,Dancer,Oricorio
-100.1,Oricorio (Pa'u Style),https://j-img.game8.co/2217825/f08c41c7b5f30c3494ab5e325b18eed5.png/show?1540450839,Psychic&Flying,Dancer,Oricorio
-100.2,Oricorio (Pom-Pom Style),https://j-img.game8.co/2217812/5f6bd49df8cb5506e0c57588f7c89d10.png/show?1540450839,Electric&Flying,Dancer,Oricorio
-100.3,Oricorio (Sensu Style),https://j-img.game8.co/2217845/506270e9d50b6dd9e82b2730d11b7ddc.png/show?1540450839,Ghost&Flying,Dancer,Oricorio
-101,Mareep,https://j-img.game8.co/2216443/d02666135c7c93684af02f9536cfad90.png/show?1540444327,Electric,Static&Plus,Mareep
-102,Flaaffy,https://j-img.game8.co/2216401/6424bb8dbd0c57e4b976db5e23a6d86d.png/show?1540444327,Electric,Static&Plus,Mareep
-103,Ampharos,https://j-img.game8.co/2216360/d2b317b4f0415385e460492fee09f554.png/show?1540444326,Electric,Static&Plus,Mareep
-104,Petilil,https://j-img.game8.co/4649623/b1219e9dcd10d600f268eb28b45b495a.png/show,Grass,Chlorophyll&Own Tempo&Leaf Guard,Petilil
-105,Lilligant,https://j-img.game8.co/4649624/ffc51d7588344903dba520e8ee8a18cf.png/show,Grass,Chlorophyll&Own Tempo&Leaf Guard,Petilil
-106,Shroomish,https://j-img.game8.co/6066283/07d3d6c7a99dca213653fba0cb878e32.png/show,Grass,Effect Spore&Poison Heal&Quick Feet,Shroomish
-107,Breloom,https://j-img.game8.co/7402498/d8b24f414072c3d7949f95b90aa84758.png/show,Grass&Fighting,Effect Spore&Poison Heal&Technician,Shroomish
-108,Applin,https://j-img.game8.co/4508588/d3ec283ae008b32fdeb0f4d2be3526eb.png/show,Grass&Dragon,Gluttony&Ripen&Bulletproof,Applin
-109,Flapple,https://j-img.game8.co/4508595/c299896401bc32a92316b77a9a8ea1b0.png/show,Grass&Dragon,Gluttony&Ripen&Hustle,Applin
-110,Appletun,https://j-img.game8.co/4508562/f671d74eefae9f4ac8a203b7d142f748.png/show,Grass&Dragon,Gluttony&Ripen&Thick Fat,Applin
-111,Spoink,https://j-img.game8.co/2216501/65b9265a2b6761fdf73a04caf5880c42.png/show?1540444401,Psychic,Thick Fat&Own Tempo&Gluttony,Spoink
-112,Grumpig,https://j-img.game8.co/2216599/017d5381ef8dc4faf22f1f30d55d6457.png/show?1540444403,Psychic,Thick Fat&Own Tempo&Gluttony,Spoink
-113,Squawkabilly,https://j-img.game8.co/7641756/3f4b432fc43a89b6ce7502670800fb0a.png/show,Normal&Flying,Intimidate&Hustle&Guts,Squawkabilly
-114,Misdreavus,https://j-img.game8.co/2216432/64f85116969fd6e6ad188911343ceb07.png/show?1540444327,Ghost,Levitate,Misdreavus
-115,Mismagius,https://j-img.game8.co/2216695/d50a73a4cb66b50f2e1ec82ec027b2f8.png/show?1540444735,Ghost,Levitate,Misdreavus
-116,Makuhita,https://j-img.game8.co/2216482/791378fd393a22386743bbfa473e8040.png/show?1540444401,Fighting,Thick Fat&Guts&Sheer Force,Makuhita
-117,Hariyama,https://j-img.game8.co/2216502/07ffce1a00f616bc5b5073f596a6568d.png/show?1540444401,Fighting,Thick Fat&Guts&Sheer Force,Makuhita
-118,Crabrawler,https://j-img.game8.co/2217862/9ede342132452e34d6ea9ce28a8f061a.png/show?1540450839,Fighting,Hyper Cutter&Iron Fist&Anger Point,Crabrawler
-119,Crabominable,https://j-img.game8.co/2217860/c16854ae5a0e8787af75e90693da1987.png/show?1540450839,Fighting&Ice,Hyper Cutter&Iron Fist&Anger Point,Crabrawler
-120,Salandit,https://j-img.game8.co/4508397/81ee002dc170daaa115c322929068125.png/show,Poison&Fire,Corrosion&Oblivious,Salandit
-121,Salazzle,https://j-img.game8.co/4508375/b014ea8b7694c9f92dd26eebea7afa07.png/show,Poison&Fire,Corrosion&Oblivious,Salandit
-122,Phanpy,https://j-img.game8.co/2216449/2a3538d6efc13e7d53ab44b2c8b24f41.png/show?1540444328,Ground,Pickup&Sand Veil,Phanpy
-123,Donphan,https://j-img.game8.co/2216407/656ddcf361131caa412c20c28d69d97d.png/show?1540444327,Ground,Sturdy&Sand Veil,Phanpy
-124,Cufant,https://j-img.game8.co/4508640/e75fa32091594f49a9c7f8cc83398ec4.png/show,Steel,Sheer Force&Heavy Metal,Cufant
-125,Copperajah,https://j-img.game8.co/4508596/b5ed729f3895c13d695d8f727b6ff64a.png/show,Steel,Sheer Force&Heavy Metal,Cufant
-126,Gible,https://j-img.game8.co/5080448/880773a238b386eb7adafe0cfc160ad5.png/show,Dragon&Ground,Sand Veil&Rough Skin,Gible
-127,Gabite,https://j-img.game8.co/5080449/ff15e4bb6e61ac83af534c267ff27910.png/show,Dragon&Ground,Sand Veil&Rough Skin,Gible
-128,Garchomp,https://j-img.game8.co/3930181/a9ab4d4ba447df09304a1ab180c055d9.png/show,Dragon&Ground,Sand Veil&Rough Skin,Gible
-129,Nacli,https://j-img.game8.co/7641753/85b562bdf43b7efe44759d1002ceff09.png/show,Rock,Purifying Salt&Sturdy&Clear Body,Nacli
-130,Naclstack,https://j-img.game8.co/7641795/048d780f36acf4e6af298660b62b211e.png/show,Rock,Purifying Salt&Sturdy&Clear Body,Nacli
-131,Garganacl,https://j-img.game8.co/7641760/3cb757f6fb0ada287be7706cc2d7e0b8.png/show,Rock,Purifying Salt&Sturdy&Clear Body,Nacli
-132,Wingull,https://j-img.game8.co/4506694/cec0cb062fdff1419c723e11d20194f8.png/show,Water&Flying,Keen Eye&Hydration&Rain Dish,Wingull
-133,Pelipper,https://j-img.game8.co/4506682/8eef514cc31a298a6c5388cdbb0dc58d.png/show,Water&Flying,Keen Eye&Drizzle&Rain Dish,Wingull
-134,Magikarp,https://j-img.game8.co/2216315/90e8175bd31992d72160b479f9b334de.png/show?1540444221,Water,Swift Swim&Rattled,Magikarp
-135,Gyarados,https://j-img.game8.co/2216335/2dfbb1f235eb74de6e445a0015a2ab87.png/show?1540444223,Water&Flying,Intimidate&Moxie,Magikarp
-136,Arrokuda,https://j-img.game8.co/4508576/8b575a6f0946a873ca1858ea3aa479a7.png/show,Water,Swift Swim&Propeller Tail,Arrokuda
-137,Barraskewda,https://j-img.game8.co/4508647/51e186745133dedf2fe14829d711ffb2.png/show,Water,Swift Swim&Propeller Tail,Arrokuda
-138,Basculin,https://j-img.game8.co/4507449/54271168a43f4e3c4835210092992189.png/show,Water,Reckless&Adaptability&Mold Breaker,Basculin
-139,Gulpin,https://j-img.game8.co/2216489/b3850e88e23ddbc11a7458a270a03948.png/show?1540444401,Poison,Liquid Ooze&Sticky Hold&Gluttony,Gulpin
-140,Swalot,https://j-img.game8.co/2216555/50f19e58cb4bc69b5a1310e42e750dfd.png/show?1540444402,Poison,Liquid Ooze&Sticky Hold&Gluttony,Gulpin
-141,Meowth,https://j-img.game8.co/4505928/2e3d82aacd87b8975c18e7b169f4e5cb.png/show,Normal,Pickup&Technician&Unnerve,Meowth
-142,Persian,https://j-img.game8.co/4505905/9f514406178d129e00445639c7d6ff07.png/show,Normal,Limber&Technician&Unnerve,Meowth
-143,Drifloon,https://j-img.game8.co/4507030/8afa477ffc46557987059e84692419aa.png/show,Ghost&Flying,Aftermath&Unburden&Flare Boost,Drifloon
-144,Drifblim,https://j-img.game8.co/4507083/db25b98bd1868500bb1f3c54c48e4af3.png/show,Ghost&Flying,Aftermath&Unburden&Flare Boost,Drifloon
-145,Flabebe,https://j-img.game8.co/2217735/d1e15c3fc734f3d46797839cbb289d8f.png/show?1540450165,Fairy,Flower Veil&Symbiosis,Flabebe
-146,Floette,https://j-img.game8.co/2217690/4278e16c699b7b996a97eeba87a7dff0.png/show?1540450165,Fairy,Flower Veil&Symbiosis,Flabebe
-147,Florges,https://j-img.game8.co/2217728/c55e14b99198ded851983bc5e90de81e.png/show?1540450165,Fairy,Flower Veil&Symbiosis,Flabebe
-148,Diglett,https://j-img.game8.co/4505917/5f5bff80c8d70fa5b2ad676cc6162636.png/show,Ground,Sand Veil&Arena Trap&Sand Force,Diglett
-149,Dugtrio,https://j-img.game8.co/4505980/0cc6aba79671a5463e7f92041fca0685.png/show,Ground,Sand Veil&Arena Trap&Sand Force,Diglett
-150,Torkoal,https://j-img.game8.co/2216576/0f2f4d3f2f9e57441040c7d90c3e28db.png/show?1540444403,Fire,White Smoke&Drought&Shell Armor,Torkoal
-151,Numel,https://j-img.game8.co/2216527/fa580a38913d79abe0b296dc61185b9f.png/show?1540444402,Fire&Ground,Oblivious&Simple&Own Tempo,Numel
-152,Camerupt,https://j-img.game8.co/2216571/2c48db6f05b148beefb513e955926096.png/show?1540444403,Fire&Ground,Magma Armor&Solid Rock&Anger Point,Numel
-153,Bronzor,https://j-img.game8.co/4506987/f3b54319979a99f5034c3ccac1f3b20c.png/show,Steel&Psychic,Levitate&Heatproof&Heavy Metal,Bronzor
-154,Bronzong,https://j-img.game8.co/4507087/418f3f3a101252c9d1cae3e0435830db.png/show,Steel&Psychic,Levitate&Heatproof&Heavy Metal,Bronzor
-155,Axew,https://j-img.game8.co/4507479/0804e82aa1d6435c423d5c399f4c799b.png/show,Dragon,Mold Breaker&Rivalry&Unnerve,Axew
-156,Fraxure,https://j-img.game8.co/4507520/4bd059ea29a7c626d405f54a34af5521.png/show,Dragon,Mold Breaker&Rivalry&Unnerve,Axew
-157,Haxorus,https://j-img.game8.co/4507531/e3db3817d32c35f65a8e905e26f4583b.png/show,Dragon,Mold Breaker&Rivalry&Unnerve,Axew
-158,Mankey,https://j-img.game8.co/2216182/a47ff56f7e95c4e948c7fa2ec0bc1867.png/show?1540444218,Fighting,Vital Spirit&Anger Point&Defiant,Mankey
-159,Primeape,https://j-img.game8.co/2216241/10c639810f630aacc2eb0ba8643ed856.png/show?1540444219,Fighting,Vital Spirit&Anger Point&Defiant,Mankey
-160,Annihilape,https://j-img.game8.co/7641774/0cf77d32683755d2984219ec82c9c3ed.png/show,Fighting&Ghost,Vital Spirit&Inner Focus&Defiant,Mankey
-161,Meditite,https://j-img.game8.co/2216553/80c8b422f03ce97ccc0ff9959d4ea95b.png/show?1540444402,Fighting&Psychic,Pure Power&Telepathy,Meditite
-162,Medicham,https://j-img.game8.co/2216514/52ade9c2849ba6bdf5f29482e61a8872.png/show?1540444401,Fighting&Psychic,Pure Power&Telepathy,Meditite
-163,Riolu,https://j-img.game8.co/4506968/406817e307bd2a5310a735a6dcbc0d34.png/show,Fighting,Steadfast&Inner Focus&Prankster,Riolu
-164,Lucario,https://j-img.game8.co/4506981/33cc426b4a381f8434ac922446bd4a2c.png/show,Fighting&Steel,Steadfast&Inner Focus&Justified,Riolu
-165,Charcadet,https://j-img.game8.co/7641803/7f5187a29c5a34d72bc319abc032e3e6.png/show,Fire,Flash Fire&Flame Body,Charcadet
-166,Armarouge,https://j-img.game8.co/7641808/a40b6dce96e7df62964daf21546a6342.png/show,Fire&Psychic,Flash Fire&Weak Armor,Charcadet
-167,Ceruledge,https://j-img.game8.co/7641849/feb2833d48ce6602e22b92e8ba7b67db.png/show,Fire&Ghost,Flash Fire&Weak Armor,Charcadet
-168,Barboach,https://j-img.game8.co/4506679/4cdbbedccae3785bdd55b9d3fc914737.png/show,Water&Ground,Oblivious&Anticipation&Hydration,Barboach
-169,Whiscash,https://j-img.game8.co/4506802/5fabe6a29d13c4104e81f39b6c1a7f29.png/show,Water&Ground,Oblivious&Anticipation&Hydration,Barboach
-170,Tadbulb,https://j-img.game8.co/7641740/e1a808dba74cf271baa01326ddcc8d89.png/show,Electric,Own Tempo&Static&Damp,Tadbulb
-171,Bellibolt,https://j-img.game8.co/7641754/14c4073fd551d5095555513b67a184ae.png/show,Electric,Electromorphosis&Static&Damp,Tadbulb
-172,Goomy,https://j-img.game8.co/2217709/da150e6cb58261a0af0e1e1af276a71b.png/show?1540450165,Dragon,Hydration&Sap Sipper&Gooey,Goomy
-173,Sliggoo,https://j-img.game8.co/2217696/57174365232902bda3271cdbd05d2916.png/show?1540450165,Dragon,Hydration&Sap Sipper&Gooey,Goomy
-174,Goodra,https://j-img.game8.co/2217704/adcd67d46e892c0718a482e53d94a708.png/show?1540450165,Dragon,Hydration&Sap Sipper&Gooey,Goomy
-175,Croagunk,https://j-img.game8.co/4506999/5462359d0fbdd335b25dff39107175c9.png/show,Poison&Fighting,Anticipation&Dry Skin&Poison Touch,Croagunk
-176,Toxicroak,https://j-img.game8.co/4507067/5044b6cff778aa482efd2896f393b739.png/show,Poison&Fighting,Anticipation&Dry Skin&Poison Touch,Croagunk
-177,Wattrel,https://j-img.game8.co/7641820/563b22945c48a7b78e87fb3f62563f24.png/show,Electric&Flying,Wind Power&Volt Absorb&Competitive,Wattrel
-178,Kilowattrel,https://j-img.game8.co/7641814/c1ca1a8a983d398d9a9bb9eb658ed48f.png/show,Electric&Flying,Wind Power&Volt Absorb&Competitive,Wattrel
-179,Eevee,https://j-img.game8.co/2216329/b793cf9cd88afa7053cb29d21f5e5e1c.png/show?1540444222,Normal,Run Away&Adaptability&Anticipation,Eevee
-180,Vaporeon,https://j-img.game8.co/2216332/2cabc8f8793d7c2a061bb909628ae223.png/show?1540444222,Water,Water Absorb&Hydration,Eevee
-181,Jolteon,https://j-img.game8.co/2216324/f5d762cf172c7fa03799384bf0494656.png/show?1540444222,Electric,Volt Absorb&Quick Feet,Eevee
-182,Flareon,https://j-img.game8.co/2216313/3def5d9b11dbea89642492361ef8b588.png/show?1540444221,Fire,Flash Fire&Guts,Eevee
-183,Espeon,https://j-img.game8.co/2216383/82f7188c95cc6b64b4e15eab149471e3.png/show?1540444326,Psychic,Synchronize&Magic Bounce,Eevee
-184,Umbreon,https://j-img.game8.co/2216377/2c7d610897ba9a711f2d664b2714cfbc.png/show?1540444326,Dark,Synchronize&Inner Focus,Eevee
-185,Leafeon,https://j-img.game8.co/2216749/d425986c20cf33167bd38e4877be201e.png/show?1540444736,Grass,Leaf Guard&Chlorophyll,Eevee
-186,Glaceon,https://j-img.game8.co/2216717/49b1d472ef3764153e477b102536c6c2.png/show?1540444735,Ice,Snow Cloak&Ice Body,Eevee
-187,Sylveon,https://j-img.game8.co/2217699/c19fa8bfc665dc63d41b260e44284f82.png/show?1540450165,Fairy,Cute Charm&Pixilate,Eevee
-188,Dunsparce,https://j-img.game8.co/2216398/7eadbe608fb65731307b42c1313a7df9.png/show?1540444327,Normal,Serene Grace&Run Away&Rattled,Dunsparce
-189,Dudunsparce,https://j-img.game8.co/7641778/74c5626035a6935da78ca6f001464927.png/show,Normal,Serene Grace&Run Away&Rattled,Dunsparce
-190,Deerling,https://j-img.game8.co/2217473/c7b3c9ff0b042d46c33d5ee76a975435.png/show?1540449214,Normal&Grass,Chlorophyll&Sap Sipper&Serene Grace,Deerling
-191,Sawsbuck,https://j-img.game8.co/2217452/207a17d2bd91a67f9f7f4ac3ced060ce.png/show?1540449213,Normal&Grass,Chlorophyll&Sap Sipper&Serene Grace,Deerling
-192,Girafarig,https://j-img.game8.co/2216378/2f2b433042747bbd3334c6f920b2a495.png/show?1540444326,Normal&Psychic,Inner Focus&Early Bird&Sap Sipper,Girafarig
-193,Farigiraf,https://j-img.game8.co/7641783/eecafd5cdc0065b389ea1eaeef0faad6.png/show,Normal&Psychic,Cud Chew&Armor Tail&Sap Sipper,Girafarig
-194,Grimer,https://j-img.game8.co/2216207/187b2a36228942ecdcb89334d0fb11fa.png/show?1540444219,Poison,Stench&Sticky Hold&Poison Touch,Grimer
-195,Muk,https://j-img.game8.co/2216176/8023f7123ad05a3edbb464a0564f8b6e.png/show?1540444218,Poison,Stench&Sticky Hold&Poison Touch,Grimer
-196,Maschiff,https://j-img.game8.co/7641747/af989a928863b5a8f4ddd64a8a4e28dd.png/show,Dark,Intimidate&Run Away&Stakeout,Maschiff
-197,Mabosstiff,https://j-img.game8.co/7641839/2a718eda0905ff7ae71bec704f2593aa.png/show,Dark,Intimidate&Guard Dog&Stakeout,Maschiff
-198,Toxel,https://j-img.game8.co/4508645/abed3ac8097bee616f15dcbb2510046f.png/show,Electric&Poison,Static&Rattled&Klutz,Toxel
-199,Toxtricity (Amped Form),https://j-img.game8.co/4508573/909494e4d6ccc6d4757bc7b181c90016.png/show,Electric&Poison,Punk Rock&Plus&Technician,Toxel
-199.1,Toxtricity (Low Key Form),https://j-img.game8.co/7462459/45b2c39bc1e55a8f33c4e0d837a14bca.png/show,Electric&Poison,Punk Rock&Minus&Technician,Toxel
-200,Dedenne,https://j-img.game8.co/3930135/0ed17437c2fd0b35516eaf17167be4d0.png/show,Electric&Fairy,Cheek Pouch&Pickup&Plus,Dedenne
-201,Pachirisu,https://j-img.game8.co/2216673/19669ea9be36f7c1177cfb3fdd0f6bef.png/show?1540444735,Electric,Run Away&Pickup&Volt Absorb,Pachirisu
-202,Shroodle,https://j-img.game8.co/7641765/8c538ee45b6491ea84c80ab60b7ceba7.png/show,Poison&Normal,Unburden&Pickpocket&Prankster,Shroodle
-203,Grafaiai,https://j-img.game8.co/7641757/b5ca9b252bd76d1d9e393473ad1b6cfb.png/show,Poison&Normal,Unburden&Poison Touch&Prankster,Shroodle
-204,Stantler,https://j-img.game8.co/2216408/e21b50b01da0f75d042b6bca75f56c8a.png/show?1540444327,Normal,Intimidate&Frisk&Sap Sipper,Stantler
-205,Foongus,https://j-img.game8.co/4649625/afc0de5b4a97fbfa0a400ca93da42b9d.png/show,Grass&Poison,Effect Spore&Regenerator,Foongus
-206,Amoonguss,https://j-img.game8.co/4649626/953458af993d737a5a2b3038b9f67238.png/show,Grass&Poison,Effect Spore&Regenerator,Foongus
-207,Voltorb,https://j-img.game8.co/2216285/a9315e01fcbc4cb0970fe0a261a28a45.png/show?1540444220,Electric,Soundproof&Static&Aftermath,Voltorb
-208,Electrode,https://j-img.game8.co/2216236/9d01f8f4f6e1003af886615e1760466b.png/show?1540444219,Electric,Soundproof&Static&Aftermath,Voltorb
-209,Magnemite,https://j-img.game8.co/4515223/007bc9041fbcfb59702b6ed3c81a709c.png/show,Electric&Steel,Magnet Pull&Sturdy&Analytic,Magnemite
-210,Magneton,https://j-img.game8.co/4515227/0132709dfe19020bfd464792c3ad8b48.png/show,Electric&Steel,Magnet Pull&Sturdy&Analytic,Magnemite
-211,Magnezone,https://j-img.game8.co/3930112/762e15befec4b05b19f88db0c6d6f613.png/show,Electric&Steel,Magnet Pull&Sturdy&Analytic,Magnemite
-212,Ditto,https://j-img.game8.co/4505953/9facc67ce0d0a21bcd321d6d894bd49c.png/show,Normal,Limber&Imposter,Ditto
-213,Growlithe,https://j-img.game8.co/2216220/38877676dc7e536266c269ea08e9e61a.png/show?1540444219,Fire,Intimidate&Flash Fire&Justified,Growlithe
-214,Arcanine,https://j-img.game8.co/2216258/3cd6240bb276fefa6f2f16ee2438a8a8.png/show?1540444219,Fire,Intimidate&Flash Fire&Justified,Growlithe
-215,Teddiursa,https://j-img.game8.co/2216399/bfec3a6e6f86f16f7e6626ef7a1db557.png/show?1540444326,Normal,Pickup&Quick Feet&Honey Gather,Teddiursa
-216,Ursaring,https://j-img.game8.co/2216436/e9bd3c6a4df8ad41fd3647a6bae51dd0.png/show?1540444328,Normal,Guts&Quick Feet&Unnerve,Teddiursa
-217,Zangoose,https://j-img.game8.co/2216581/4ee934f7bd3a43c315ee538116218c43.png/show?1540444403,Normal,Immunity&Toxic Boost,Zangoose
-218,Seviper,https://j-img.game8.co/2216609/8a0f612e77d00b55b217a3e70b2cf78d.png/show?1540444404,Poison,Shed Skin&Infiltrator,Seviper
-219,Swablu,https://j-img.game8.co/2216496/b8a19a35218fef3df13563906532d39d.png/show?1540444401,Normal&Flying,Natural Cure&Cloud Nine,Swablu
-220,Altaria,https://j-img.game8.co/2216560/ff7a90363a123415c7d7211ecd512d4e.png/show?1540444403,Dragon&Flying,Natural Cure&Cloud Nine,Swablu
-221,Skiddo,https://j-img.game8.co/2217722/01b6c3d3cdf3578407391f6067611896.png/show?1540450165,Grass,Sap Sipper&Grass Pelt,Skiddo
-222,Gogoat,https://j-img.game8.co/2217739/650d24cec00b59875112454f3c0ad52a.png/show?1540450166,Grass,Sap Sipper&Grass Pelt,Skiddo
-223,Paldean Tauros (Fighting Form),https://j-img.game8.co/7641746/21abdadb4f0f04d30e939b6232af9aa3.png/show,Fighting,Intimidate&Anger Point&Cud Chew,Tauros
-223.1,Paldean Tauros (Fighting/Fire Form),https://j-img.game8.co/7641741/bb38b2f144cd5d7d2b71d8deea12fb88.png/show,Fighting&Fire,Intimidate&Anger Point&Cud Chew,Tauros
-223.2,Paldean Tauros (Fighting/Water Form),https://j-img.game8.co/7641737/861e2eff09cbdfa8a1c059a90ddd120a.png/show,Fighting&Water,Intimidate&Anger Point&Cud Chew,Tauros
-224,Litleo,https://j-img.game8.co/2217703/508c4365c95060c1b930c77cd43be340.png/show?1540450165,Fire&Normal,Rivalry&Unnerve&Moxie,Litleo
-225,Pyroar,https://j-img.game8.co/2217734/47b7b360f3cfada5fde6dd58780a8ec4.png/show?1540450165,Fire&Normal,Rivalry&Unnerve&Moxie,Litleo
-226,Stunky,https://j-img.game8.co/4507074/c6b691c1dd2a663097ce9ddf31dc0059.png/show,Poison&Dark,Stench&Aftermath&Keen Eye,Stunky
-227,Skuntank,https://j-img.game8.co/4507079/06a27bcee150fca8eacdbfa54b3db069.png/show,Poison&Dark,Stench&Aftermath&Keen Eye,Stunky
-228,Zorua,https://j-img.game8.co/3930119/cf1ce308c06c2119ab76df431b894c51.png/show,Dark,Illusion,Zorua
-229,Zoroark,https://j-img.game8.co/4515219/b4c42a5d2b3513d1d55a96d40e1dab4f.png/show,Dark,Illusion,Zorua
-230,Sneasel,https://j-img.game8.co/2216367/503d0365a1c12409a72261e5a055fe8c.png/show?1540444326,Dark&Ice,Inner Focus&Keen Eye&Pickpocket,Sneasel
-231,Weavile,https://j-img.game8.co/2216729/88793feee6dea8577070400e2bb0995c.png/show?1540444736,Dark&Ice,Pressure&Pickpocket,Sneasel
-232,Murkrow,https://j-img.game8.co/2216386/6123910ac3784d0dd4a39516b1783938.png/show?1540444326,Dark&Flying,Insomnia&Super Luck&Prankster,Murkrow
-233,Honchkrow,https://j-img.game8.co/2216671/436913e14f92e3b3f7a22c5b173b5046.png/show?1540444735,Dark&Flying,Insomnia&Super Luck&Moxie,Murkrow
-234,Gothita,https://j-img.game8.co/4507431/623fbb1e79c4516a33afa0f96632452c.png/show,Psychic,Frisk&Competitive&Shadow Tag,Gothita
-235,Gothorita,https://j-img.game8.co/4507446/9b8a7c0d0aa8e685137d6587d7870def.png/show,Psychic,Frisk&Competitive&Shadow Tag,Gothita
-236,Gothitelle,https://j-img.game8.co/4507524/979760183befb0fab0f835387f6accba.png/show,Psychic,Frisk&Competitive&Shadow Tag,Gothita
-237,Sinistea,https://j-img.game8.co/4508639/4aab1ee703479a414b7cd1d8f738c8f3.png/show,Ghost,Weak Armor&Cursed Body,Sinistea
-238,Polteageist,https://j-img.game8.co/4508621/eea1815f74af796c7c416f38b07304c3.png/show,Ghost,Weak Armor&Cursed Body,Sinistea
-239,Mimikyu,https://j-img.game8.co/4508432/11fb973156147bf798f37a274d40524f.png/show,Ghost&Fairy,Disguise,Mimikyu
-240,Klefki,https://j-img.game8.co/4649640/623eaf8b708c8a5243e2079b62de3bd8.png/show,Steel&Fairy,Prankster&Magician,Klefki
-241,Indeedee (Male),https://j-img.game8.co/7498454/fbcb4cf56cba38633dae38e5e57f261a.png/show,Psychic&Normal,Inner Focus&Synchronize&Psychic Surge,Indeedee
-241.1,Indeedee (Female),https://j-img.game8.co/7461047/a9486b371c82550e17ce1001f05ca9a0.png/show,Psychic&Normal,Own Tempo&Synchronize&Psychic Surge,Indeedee
-242,Bramblin,https://j-img.game8.co/7641748/b5369244b850cf34134ce0c4e1e65c0b.png/show,Grass&Ghost,Wind Rider&Infiltrator,Bramblin
-243,Brambleghast,https://j-img.game8.co/7641782/adf92f9cf820aab99bce615769edc2d2.png/show,Grass&Ghost,Wind Rider&Infiltrator,Bramblin
-244,Toedscool,https://j-img.game8.co/7641842/804b5cd126a1f6f6a50b936dbb51f3fb.png/show,Ground&Grass,Mycelium Might,Toedscool
-245,Toedscruel,https://j-img.game8.co/7641815/84c7f17fa3743d46e1d20b19ce7c15d9.png/show,Ground&Grass,Mycelium Might,Toedscool
-246,Tropius,https://j-img.game8.co/2216586/42e31ccdaafc7f81e07c54af9b5483b6.png/show?1540444403,Grass&Flying,Chlorophyll&Solar Power&Harvest,Tropius
-247,Fomantis,https://j-img.game8.co/4649657/8b3532518ac4066843e8eb54d18aff14.png/show,Grass,Leaf Guard&Contrary,Fomantis
-248,Lurantis,https://j-img.game8.co/4649658/137ab4d125d48ee567f402a4979371f8.png/show,Grass,Leaf Guard&Contrary,Fomantis
-249,Klawf,https://j-img.game8.co/7641825/0ab2f7eac78fff70bd9fa438b9df3942.png/show,Rock,Anger Shell&Shell Armor&Regenerator,Klawf
-250,Capsakid,https://j-img.game8.co/7641835/f420f5fe3a44ebecf905a8b73107c75c.png/show,Grass,Chlorophyll&Insomnia&Klutz,Capsakid
-251,Scovillain,https://j-img.game8.co/7641811/6ee257c4281f8d70e914812449c572cd.png/show,Grass&Fire,Chlorophyll&Insomnia&Moody,Capsakid
-252,Cacnea,https://j-img.game8.co/2216593/6d6f0b95098cb3e226cc94ace20a8b19.png/show?1540444403,Grass,Sand Veil&Water Absorb,Cacnea
-253,Cacturne,https://j-img.game8.co/2216506/d15449c9ad06646c125709d1f9a55ddd.png/show?1540444402,Grass&Dark,Sand Veil&Water Absorb,Cacnea
-254,Rellor,https://j-img.game8.co/7641781/69b40d53361f9d301cb3d05069ed2f5a.png/show,Bug,Compound Eyes&Shed Skin,Rellor
-255,Rabsca,https://j-img.game8.co/7641768/6ca4c922100c2ca0d671ada162805d08.png/show,Bug&Psychic,Synchronize&Telepathy,Rellor
-256,Venonat,https://j-img.game8.co/2216240/34a459751a21813f651bdc8f66b64487.png/show?1540444219,Bug&Poison,Compound Eyes&Tinted Lens&Run Away,Venonat
-257,Venomoth,https://j-img.game8.co/2216192/6ca5fc956bdf93c29a254fffa49eba20.png/show?1540444218,Bug&Poison,Shield Dust&Tinted Lens&Wonder Skin,Venonat
-258,Pineco,https://j-img.game8.co/2216428/281ca636ba3b1ee89596202927b3182d.png/show?1540444328,Bug,Sturdy&Overcoat,Pineco
-259,Forretress,https://j-img.game8.co/2216414/b3060015b809f3a3d3e0d8a42e1b8919.png/show?1540444327,Bug&Steel,Sturdy&Overcoat,Pineco
-260,Scyther,https://j-img.game8.co/2216314/ad08bcd9884abf12b9a3826f946f6b80.png/show?1540444222,Bug&Flying,Swarm&Technician&Steadfast,Scyther
-261,Scizor,https://j-img.game8.co/2216431/230cd940ac43d386bbd1037c96f10105.png/show?1540444327,Bug&Steel,Swarm&Technician&Light Metal,Scyther
-262,Heracross,https://j-img.game8.co/4649581/0f50e0a252eac361f6a747ca929fe79c.png/show,Bug&Fighting,Swarm&Guts&Moxie,Heracross
-263,Flittle,https://j-img.game8.co/7641831/3652a57200a906357563e25df2355ff6.png/show,Psychic,Anticipation&Frisk&Speed Boost,Flittle
-264,Espathra,https://j-img.game8.co/7641817/fa592ab537c9234d90cc973f5a3d133e.png/show,Psychic,Opportunist&Frisk&Speed Boost,Flittle
-265,Hippopotas,https://j-img.game8.co/4506973/a23cac2e4f2faee1b3f3e91568798a9f.png/show,Ground,Sand Stream&Sand Force,Hippopotas
-266,Hippowdon,https://j-img.game8.co/4507009/f5e4bc90f9b4f0732194a1ef2915b9e7.png/show,Ground,Sand Stream&Sand Force,Hippopotas
-267,Sandile,https://j-img.game8.co/2217513/ca77dced8ed1e980bacf05c8726700e0.png/show?1540449214,Ground&Dark,Intimidate&Moxie&Anger Point,Sandile
-268,Krokorok,https://j-img.game8.co/2217524/dfe9857059456183fd978ccd2a7d1c52.png/show?1540449214,Ground&Dark,Intimidate&Moxie&Anger Point,Sandile
-269,Krookodile,https://j-img.game8.co/2217523/e6828bec93fdffcdecc39b2078294998.png/show?1540449214,Ground&Dark,Intimidate&Moxie&Anger Point,Sandile
-270,Silicobra,https://j-img.game8.co/4508572/344f305d68df3a67f3394cb5c99ace4e.png/show,Ground,Shed Skin&Sand Spit&Sand Veil,Silicobra
-271,Sandaconda,https://j-img.game8.co/4508620/de27018827eaf8ebdd645fe594d20e55.png/show,Ground,Shed Skin&Sand Spit&Sand Veil,Silicobra
-272,Mudbray,https://j-img.game8.co/2217813/d86b0fb6cb94aeca6ec8365ade96c12c.png/show?1540450839,Ground,Own Tempo&Stamina&Inner Focus,Mudbray
-273,Mudsdale,https://j-img.game8.co/2217852/32f7c705d97bc07423714e3f38036a7b.png/show?1540450839,Ground,Own Tempo&Stamina&Inner Focus,Mudbray
-274,Larvesta,https://j-img.game8.co/4515228/2b1bfc0eaa2ac56e7ae1f464a79a4fdb.png/show,Bug&Fire,Flame Body&Swarm,Larvesta
-275,Volcarona,https://j-img.game8.co/3930123/1a6a09fe71ec75e5bc4477b072fceada.png/show,Bug&Fire,Flame Body&Swarm,Larvesta
-276,Bagon,https://j-img.game8.co/2216590/08b40aa4a24d511fe282d73976c30e34.png/show?1540444403,Dragon,Rock Head&Sheer Force,Bagon
-277,Shelgon,https://j-img.game8.co/2216622/2c4db16334c68d104f45018780e1f3e8.png/show?1540444404,Dragon,Rock Head&Overcoat,Bagon
-278,Salamence,https://j-img.game8.co/2216579/55a84238576ca7272fb22b8feb1e732c.png/show?1540444403,Dragon&Flying,Intimidate&Moxie,Bagon
-279,Tinkatink,https://j-img.game8.co/7641810/05e59151205fa31c566b9f78a288f499.png/show,Fairy&Steel,Mold Breaker&Own Tempo&Pickpocket,Tinkatink
-280,Tinkatuff,https://j-img.game8.co/7641819/7e0d3f8dced111244b1fdfface09f2cc.png/show,Fairy&Steel,Mold Breaker&Own Tempo&Pickpocket,Tinkatink
-281,Tinkaton,https://j-img.game8.co/7641784/034a2778a7ccdebcfb9efc6149ee9f50.png/show,Fairy&Steel,Mold Breaker&Own Tempo&Pickpocket,Tinkatink
-282,Hatenna,https://j-img.game8.co/4508625/4cb3db2568cd0d08184c73bbbe929a2a.png/show,Psychic,Healer&Anticipation&Magic Bounce,Hatenna
-283,Hattrem,https://j-img.game8.co/4508615/f926d2cbc6c09987c698685ef3cabf99.png/show,Psychic,Healer&Anticipation&Magic Bounce,Hatenna
-284,Hatterene,https://j-img.game8.co/4508629/fd4579e022399f4866bbbf5d316aa8e8.png/show,Psychic&Fairy,Healer&Anticipation&Magic Bounce,Hatenna
-285,Impidimp,https://j-img.game8.co/4508589/0bae84e04aa3e23946165dc48c94d918.png/show,Dark&Fairy,Prankster&Frisk&Pickpocket,Impidimp
-286,Morgrem,https://j-img.game8.co/4508583/384e5d53ef96f5a505d24d5be20c2e8a.png/show,Dark&Fairy,Prankster&Frisk&Pickpocket,Impidimp
-287,Grimmsnarl,https://j-img.game8.co/4508548/8a1d7f7812768461b740983e84a1f73a.png/show,Dark&Fairy,Prankster&Frisk&Pickpocket,Impidimp
-288,Wiglett,https://j-img.game8.co/7641745/4cc7becc5d74141bccb8efda00c9826d.png/show,Water,Gooey&Rattled&Sand Veil,Wiglett
-289,Wugtrio,https://j-img.game8.co/7641771/b17c7342f40f11bfc5efabc557ebdc36.png/show,Water,Gooey&Rattled&Sand Veil,Wiglett
-290,Bombirdier,https://j-img.game8.co/7641845/0776f4d65d0e7c4c548189139619830a.png/show,Flying&Dark,Big Pecks&Keen Eye&Rocky Payload,Bombirdier
-291,Finizen,https://j-img.game8.co/7641755/2e0837226b5b288a0d43146f3dbed492.png/show,Water,Water Veil,Finizen
-292,Palafin,https://img.game8.co/3678636/9ece2fc9e6de27d69272cedb7943540b.png/show,Water,Zero to Hero,Finizen
-292.1,Palafin (Hero Form),https://j-img.game8.co/7476304/4ee5607e1718ac4d3898cd07009b1afe.png/show,Water,Zero to Hero,Finizen
-293,Varoom,https://j-img.game8.co/7641843/da1508e5afec76b7280c3f9586b35c8e.png/show,Steel&Poison,Overcoat&Slow Start,Varoom
-294,Revavroom,https://j-img.game8.co/7641792/6192f2034ec10d972e407fb17b9f4a03.png/show,Steel&Poison,Overcoat&Filter,Varoom
-295,Cyclizar,https://j-img.game8.co/7641773/96c77232fc45db6d489daafd607c2097.png/show,Dragon&Normal,Shed Skin&Regenerator,Cyclizar
-296,Orthworm,https://j-img.game8.co/7641786/c4a056c44123631438f327202bbc5e36.png/show,Steel,Earth Eater&Sand Veil,Orthworm
-297,Sableye,https://j-img.game8.co/4506786/fc020ed8441347c955d59121d89f63ff.png/show,Dark&Ghost,Keen Eye&Stall&Prankster,Sableye
-298,Shuppet,https://j-img.game8.co/2216529/bb41ef616011869c7cd51295252ce65c.png/show?1540444402,Ghost,Insomnia&Frisk&Cursed Body,Shuppet
-299,Banette,https://j-img.game8.co/2216563/a4eed2756a74b539c5a2000502f3faec.png/show?1540444403,Ghost,Insomnia&Frisk&Cursed Body,Shuppet
-300,Falinks,https://j-img.game8.co/4508628/6fefae4443bbaf7863ff3b26dd639e31.png/show,Fighting,Battle Armor&Defiant,Falinks
-301,Hawlucha,https://j-img.game8.co/4507978/61fc7162a303bd66d30a14f8be632db7.png/show,Fighting&Flying,Unburden&Limber&Mold Breaker,Hawlucha
-302,Spiritomb,https://j-img.game8.co/2216780/54824cccde9c167f95e442672151d109.png/show?1540444737,Ghost&Dark,Pressure&Infiltrator,Spiritomb
-303,Noibat,https://j-img.game8.co/2217718/eace4c132e37c750fb1842209b546319.png/show?1540450165,Flying&Dragon,Frisk&Infiltrator&Telepathy,Noibat
-304,Noivern,https://j-img.game8.co/2217688/44f0eb0c511cb7739323feed20c50ec4.png/show?1540450165,Flying&Dragon,Frisk&Infiltrator&Telepathy,Noibat
-305,Dreepy,https://j-img.game8.co/4508656/127935bb7d60410a092f11b90ddfba52.png/show,Dragon&Ghost,Clear Body&Infiltrator&Cursed Body,Dreepy
-306,Drakloak,https://j-img.game8.co/4508607/d471207148d4468e9b5d071aef414284.png/show,Dragon&Ghost,Clear Body&Infiltrator&Cursed Body,Dreepy
-307,Dragapult,https://j-img.game8.co/4508581/200fb1512565ca65c8ee1c8fc269ca57.png/show,Dragon&Ghost,Clear Body&Infiltrator&Cursed Body,Dreepy
-308,Glimmet,https://j-img.game8.co/7641801/9c9195ffa79edc58f0ecc638fd10d477.png/show,Rock&Poison,Toxic Debris&Corrosion,Glimmet
-309,Glimmora,https://j-img.game8.co/7641827/2ab730d02f343c98ef1a47972416ab1a.png/show,Rock&Poison,Toxic Debris&Corrosion,Glimmet
-310,Rotom,https://j-img.game8.co/2216678/41a3fac2e82cff11cc1c38b3f96cbeae.png/show?1540444735,Electric&Ghost,Levitate,Rotom
-310.1,Heat Rotom,https://j-img.game8.co/4507004/1019124afbc49a25d7f4d2b8168109b0.png/show,Electric&Fire,Levitate,Rotom
-310.2,Wash Rotom,https://j-img.game8.co/4507018/a7da8a8b7d737ff768cc63aafa144fd8.png/show,Electric&Water,Levitate,Rotom
-310.3,Frost Rotom,https://j-img.game8.co/4507088/3b748af3e25f3435fd2806fe861a6307.png/show,Electric&Ice,Levitate,Rotom
-310.4,Fan Rotom,https://j-img.game8.co/4507059/8ab1f59c4a78b5222acbc0c7c51e6d3c.png/show,Electric&Flying,Levitate,Rotom
-310.5,Mow Rotom,https://j-img.game8.co/4506974/aa164faa561a1ba005119ef555d4d912.png/show,Electric&Grass,Levitate,Rotom
-311,Greavard,https://j-img.game8.co/7641840/91bb3ad0713161abe6047324d65f0d32.png/show,Ghost,Pickup&Fluffy,Greavard
-312,Houndstone,https://j-img.game8.co/7641844/e4bff31eb07e2323b5e818a83ee071c3.png/show,Ghost,Sand Rush&Fluffy,Greavard
-313,Oranguru,https://j-img.game8.co/4508355/183d79d61c842337c43ce83943ae992b.png/show,Normal&Psychic,Inner Focus&Telepathy&Symbiosis,Oranguru
-314,Passimian,https://j-img.game8.co/4508333/db595cd63ad14863920ce44cc85674fb.png/show,Fighting,Receiver&Defiant,Passimian
-315,Komala,https://j-img.game8.co/2217865/0f1004e76d63c0e22157cb160a932c34.png/show?1540450840,Normal,Comatose,Komala
-316,Larvitar,https://j-img.game8.co/4506542/aaa710dcb64c1bcf5980e7dac645d2ae.png/show,Rock&Ground,Guts&Sand Veil,Larvitar
-317,Pupitar,https://j-img.game8.co/4506487/31c7fce386b19e7e85a2fea12f1dea7f.png/show,Rock&Ground,Shed Skin,Larvitar
-318,Tyranitar,https://j-img.game8.co/4506493/cbe3474d2e3b36e9eabfce8c21ba53da.png/show,Rock&Dark,Sand Stream&Unnerve,Larvitar
-319,Stonjourner,https://j-img.game8.co/4508631/dc299061c2155d6bd54e6d9cfcfdf96a.png/show,Rock,Power Spot,Stonjourner
-320,Eiscue (Ice Face),https://j-img.game8.co/4508593/1a53370986b5387ed585ee8ee972339f.png/show,Ice,Ice Face,Eiscue
-321,Pincurchin,https://j-img.game8.co/4508632/44573d459be162458e6e830dc91c53b2.png/show,Electric,Lightning Rod&Electric Surge,Pincurchin
-322,Sandygast,https://j-img.game8.co/4649661/9ea7ddc7de57fc8d644025ffcc2deba2.png/show,Ghost&Ground,Water Compaction&Sand Veil,Sandygast
-323,Palossand,https://j-img.game8.co/4649662/f9b9de89166c3bdaa6284fed9fa5c682.png/show,Ghost&Ground,Water Compaction&Sand Veil,Sandygast
-324,Slowpoke,https://j-img.game8.co/2216231/89250aa303e56c5cd31d5ff5d73785a9.png/show?1540444219,Water&Psychic,Oblivious&Own Tempo&Regenerator,Slowpoke
-325,Slowbro,https://j-img.game8.co/2216271/a84d88b1667876e1d3b3c0da3018b503.png/show?1540444219,Water&Psychic,Oblivious&Own Tempo&Regenerator,Slowpoke
-326,Slowking,https://j-img.game8.co/2216388/435033ae20e8a2cc2810348d0aee96cd.png/show?1540444326,Water&Psychic,Oblivious&Own Tempo&Regenerator,Slowpoke
-327,Shellos (East Sea),https://j-img.game8.co/4507078/525ff9a761249b4b31b7e8f0989b1ee0.png/show,Water,Sticky Hold&Storm Drain&Sand Force,Shellos
-327.1,Shellos (West Sea),https://img.game8.co/3398172/be243f022a97972c3f8d278e656d3c35.png/show,Water,Sticky Hold&Storm Drain&Sand Force,Shellos
-328,Gastrodon (East Sea),https://j-img.game8.co/4507016/0293c5282a7b9736a14f328026da3d40.png/show,Water&Ground,Sticky Hold&Storm Drain&Sand Force,Shellos
-328.1,Gastrodon (West Sea),https://img.game8.co/3398158/66d7912195e9461660e31914d29d27e8.png/show,Water&Ground,Sticky Hold&Storm Drain&Sand Force,Shellos
-329,Shellder,https://j-img.game8.co/4506025/497fcbc37e5020d5f78918a41b255c6d.png/show,Water,Shell Armor&Skill Link&Overcoat,Shellder
-330,Cloyster,https://j-img.game8.co/4506028/512980cc3c22311731f509d77ab7b77f.png/show,Water&Ice,Shell Armor&Skill Link&Overcoat,Shellder
-331,Qwilfish,https://j-img.game8.co/4506461/c022f8bfed6f067949346b94ccbdb32f.png/show,Water&Poison,Poison Point&Swift Swim&Intimidate,Qwilfish
-332,Luvdisc,https://j-img.game8.co/2216580/7d93c64bc2dfa6b4acbbbdc006537b30.png/show?1540444403,Water,Swift Swim&Hydration,Luvdisc
-333,Finneon,https://j-img.game8.co/2216748/49fae31009f26c81465c1d09ebc3d4a5.png/show?1540444736,Water,Swift Swim&Storm Drain&Water Veil,Finneon
-334,Lumineon,https://j-img.game8.co/2216741/dab9b3a1c5bfda991e871a927563f442.png/show?1540444736,Water,Swift Swim&Storm Drain&Water Veil,Finneon
-335,Bruxish,https://j-img.game8.co/2217847/d4f247762e00ce81adad20153307d9c5.png/show?1540450839,Water&Psychic,Dazzling&Strong Jaw&Wonder Skin,Bruxish
-336,Alomomola,https://j-img.game8.co/2217456/feb6806297f244174f294e5ec8cb4a9d.png/show?1540449213,Water,Healer&Hydration&Regenerator,Alomomola
-337,Skrelp,https://j-img.game8.co/2217730/6d6c9519ad75f36dd4cfe57e628b70e1.png/show?1540450165,Poison&Water,Poison Point&Poison Touch&Adaptability,Skrelp
-338,Dragalge,https://j-img.game8.co/2217682/7da5434067979bce44a2390974fd2185.png/show?1540450165,Poison&Dragon,Poison Point&Poison Touch&Adaptability,Skrelp
-339,Clauncher,https://j-img.game8.co/4649637/7575b161c38c6b6ef1311009921ea8db.png/show,Water,Mega Launcher,Clauncher
-340,Clawitzer,https://j-img.game8.co/4649638/a3538ca008317a5c782ea472c690881d.png/show,Water,Mega Launcher,Clauncher
-341,Tynamo,https://j-img.game8.co/2217462/553ac0f18cd0e8b07dfe5fe6f1167ffb.png/show?1540449214,Electric,Levitate,Tynamo
-342,Eelektrik,https://j-img.game8.co/2217455/bf5f3315cc2d16efddbc6ddb6a24a449.png/show?1540449214,Electric,Levitate,Tynamo
-343,Eelektross,https://j-img.game8.co/2217506/8f407df86dfa8643894f4b657fe928f4.png/show?1540449214,Electric,Levitate,Tynamo
-344,Mareanie,https://j-img.game8.co/4508384/ddd6e122a5e152e28fe0ba0607fa1abf.png/show,Poison&Water,Merciless&Limber&Regenerator,Mareanie
-345,Toxapex,https://j-img.game8.co/4508412/af8d2d880dedd82456fb35008bd7af30.png/show,Poison&Water,Merciless&Limber&Regenerator,Mareanie
-346,Flamigo,https://j-img.game8.co/7641787/053f70d81c235a75d05b59d2f767546e.png/show,Flying&Fighting,Scrappy&Tangled Feet&Costar,Flamigo
-347,Dratini,https://j-img.game8.co/2216318/9fe17269cb78183fa276f58de280b048.png/show?1540444222,Dragon,Shed Skin&Marvel Scale,Dratini
-348,Dragonair,https://j-img.game8.co/2216317/ea7a89d41b34ef5e056bbc3f0150f6b7.png/show?1540444222,Dragon,Shed Skin&Marvel Scale,Dratini
-349,Dragonite,https://j-img.game8.co/2216316/1ddc46b27b20b340218f9d3562a2358d.png/show?1540444222,Dragon&Flying,Inner Focus&Multiscale,Dratini
-350,Snom,https://j-img.game8.co/4508633/291ca7a663b3a53a0a32eb47592aea90.png/show,Ice&Bug,Shield Dust&Ice Scales,Snom
-351,Frosmoth,https://j-img.game8.co/4508540/3e6d99eaa1e55f7acfe30d0d3ba3e6cb.png/show,Ice&Bug,Shield Dust&Ice Scales,Snom
-352,Snover,https://j-img.game8.co/4506984/908777cb2c9c89a433f828c2767d2722.png/show,Grass&Ice,Snow Warning&Soundproof,Snover
-353,Abomasnow,https://j-img.game8.co/4507043/41f3cb81e3e643dc001eacca45bc5a09.png/show,Grass&Ice,Snow Warning&Soundproof,Snover
-354,Delibird,https://j-img.game8.co/4506462/c145989bb7878ffd04cc5f3983a0bba7.png/show,Ice&Flying,Vital Spirit&Hustle&Insomnia,Delibird
-355,Cubchoo,https://j-img.game8.co/2217537/cb89052ae6b011bcb99ddd0a06708ab4.png/show?1540449214,Ice,Snow Cloak&Slush Rush&Rattled,Cubchoo
-356,Beartic,https://j-img.game8.co/2217525/96692fecd71fe5fcc05e0ef24fdddfac.png/show?1540449214,Ice,Snow Cloak&Slush Rush&Swift Swim,Cubchoo
-357,Snorunt,https://j-img.game8.co/2216548/f6fd3e841e9d5f1863077803d98d0c69.png/show?1540444402,Ice,Inner Focus&Ice Body&Moody,Snorunt
-358,Glalie,https://j-img.game8.co/2216570/26e796451a795153b5683dcec8b3ea8c.png/show?1540444403,Ice,Inner Focus&Ice Body&Moody,Snorunt
-359,Froslass,https://j-img.game8.co/2216776/1b4333c15da766ff66f1821d56a9fced.png/show?1540444736,Ice&Ghost,Snow Cloak&Cursed Body,Snorunt
-360,Cryogonal,https://j-img.game8.co/2217561/4bf17118c448369b1ac1f7902c8055ef.png/show?1540449214,Ice,Levitate,Cryogonal
-361,Cetoddle,https://j-img.game8.co/7641800/6fed0eea02008eed90b8197dd647c478.png/show,Ice,Thick Fat&Snow Cloak&Sheer Force,Cetoddle
-362,Cetitan,https://j-img.game8.co/7641772/672c71cc9e4d8f432b21f67a31ea7296.png/show,Ice,Thick Fat&Slush Rush&Sheer Force,Cetoddle
-363,Bergmite,https://j-img.game8.co/4508009/0b1669c4b98d4a92efdb63cc1ec96e55.png/show,Ice,Ice Body&Own Tempo&Sturdy,Bergmite
-364,Avalugg,https://j-img.game8.co/4508030/b49987143fbc2724b5eaecb68bf0bff0.png/show,Ice,Ice Body&Own Tempo&Sturdy,Bergmite
-365,Rufflet,https://j-img.game8.co/4507562/1617041743328b07aec3980d405b8428.png/show,Normal&Flying,Keen Eye&Sheer Force&Defiant,Rufflet
-366,Braviary,https://j-img.game8.co/4507537/14aaf165e7abb6a25ec50bc6f81eb1bf.png/show,Normal&Flying,Keen Eye&Sheer Force&Defiant,Rufflet
-367,Pawniard,https://j-img.game8.co/4507518/64702575bdb2555ac7f7f2bb46a7711e.png/show,Dark&Steel,Inner Focus&Defiant&Pressure,Pawniard
-368,Bisharp,https://j-img.game8.co/4507491/d9b6de97b6f8a1b11c35ebefaf07559f.png/show,Dark&Steel,Inner Focus&Defiant&Pressure,Pawniard
-369,Kingambit,https://j-img.game8.co/7641847/177466697a1a8858e4e2a72c19b7696d.png/show,Dark&Steel,Defiant&Supreme Overlord&Pressure,Pawniard
-370,Deino,https://j-img.game8.co/2217601/09831232f17a46007392c6d8062894ed.png/show?1540449215,Dark&Dragon,Hustle,Deino
-371,Zweilous,https://j-img.game8.co/2217567/8b96342fef75a01e90faebc062639232.png/show?1540449214,Dark&Dragon,Hustle,Deino
-372,Hydreigon,https://j-img.game8.co/2217569/a245b44458ebabbca84fbc7725cf5c15.png/show?1540449214,Dark&Dragon,Levitate,Deino
-373,Veluza,https://j-img.game8.co/7641789/4b2163f1b9b520fff7b311a0bc989874.png/show,Water&Psychic,Mold Breaker&Sharpness,Veluza
-374,Dondozo,https://j-img.game8.co/7641837/15732eddcc9855d75da7864f499b7568.png/show,Water,Unaware&Oblivious&Water Veil,Dondozo
-375,Tatsugiri,https://j-img.game8.co/7641794/2c3e5f9e5fa97745a40042aff5175780.png/show,Dragon&Water,Commander&Storm Drain,Tatsugiri
-376,Great Tusk,https://j-img.game8.co/7641777/1b1ce0e92e173aca37339e18aabad396.png/show,Ground&Fighting,Protosynthesis,Great Tusk
-377,Scream Tail,https://j-img.game8.co/7641743/0b7eda27592aa823d0c9f1b80a47c045.png/show,Fairy&Psychic,Protosynthesis,Scream Tail
-378,Brute Bonnet,https://j-img.game8.co/7641770/a9c172d41f614d2e147782df3fdd6014.png/show,Grass&Dark,Protosynthesis,Brute Bonnet
-379,Flutter Mane,https://j-img.game8.co/7641804/60365137d11bf3749ccd66972d589a74.png/show,Ghost&Fairy,Protosynthesis,Flutter Mane
-380,Slither Wing,https://j-img.game8.co/7641779/d2c1d38477ad1d268837d53f1b84a470.png/show,Bug&Fighting,Protosynthesis,Slither Wing
-381,Sandy Shocks,https://j-img.game8.co/7641818/e0bea83995d9606cd7e4dd87c0ab428f.png/show,Electric&Ground,Protosynthesis,Sandy Shocks
-382,Iron Treads,https://j-img.game8.co/7641823/3dac05e6d6c07f9a9aa2451e317010fd.png/show,Ground&Steel,Quark Drive,Iron Treads
-383,Iron Bundle,https://j-img.game8.co/7641791/0b4951025d71366446869c6a816f221a.png/show,Ice&Water,Quark Drive,Iron Bundle
-384,Iron Hands,https://j-img.game8.co/7641813/0701bcd1a22ae117dbf4b86bff816d64.png/show,Fighting&Electric,Quark Drive,Iron Hands
-385,Iron Jugulis,https://j-img.game8.co/7641833/0a945cb474fd71200a55454926838760.png/show,Dark&Flying,Quark Drive,Iron Jugulis
-386,Iron Moth,https://j-img.game8.co/7641793/64086e03d7f0a87d973817453918d152.png/show,Fire&Poison,Quark Drive,Iron Moth
-387,Iron Thorns,https://j-img.game8.co/7641805/5be26c97c048dc466242a3878889f76e.png/show,Rock&Electric,Quark Drive,Iron Thorns
-388,Frigibax,https://j-img.game8.co/7641848/0caef91cc5a0571968969750851a86df.png/show,Dragon&Ice,Thermal Exchange&Ice Body,Frigibax
-389,Arctibax,https://j-img.game8.co/7641769/89311259d43a9e7dd1f5398cbea00c78.png/show,Dragon&Ice,Thermal Exchange&Ice Body,Frigibax
-390,Baxcalibur,https://j-img.game8.co/7641826/61c6d5dbe80972a7be5a6fc5e8e8a85f.png/show,Dragon&Ice,Thermal Exchange&Ice Body,Frigibax
-391,Gimmighoul (Chest Form),https://j-img.game8.co/7641822/ae167d0dfd628384b27194a1fe91f687.png/show,Ghost,Rattled,Gimmighoul
-392,Gholdengo,https://j-img.game8.co/7641841/30631a3f55219a0128209c642c5922b2.png/show,Steel&Ghost,Good as Gold,Gimmighoul
-393,Wo-Chien,https://j-img.game8.co/7641752/a30d9917fd60fc0d673fa980c0d27006.png/show,Dark&Grass,Tablets of Ruin,Wo-Chien
-394,Chien-Pao,https://j-img.game8.co/7641761/ef459f83a19786c6f963775096e8acb2.png/show,Dark&Ice,Sword of Ruin,Chien-Pao
-395,Ting-Lu,https://j-img.game8.co/7641785/d1316cef335029737f0c39c07e23b957.png/show,Dark&Ground,Vessel of Ruin,Ting-Lu
-396,Chi-Yu,https://j-img.game8.co/7641809/24d19a0fb77eb1987edc205e0f6cbf15.png/show,Dark&Fire,Beads of Ruin,Chi-Yu
-397,Roaring Moon,https://j-img.game8.co/7641829/6baa95118384b921a2ebf60b47ed71ed.png/show,Dragon&Dark,Protosynthesis,Roaring Moon
-398,Iron Valiant,https://j-img.game8.co/7641836/91b455aa68653012a778f1eaf84ffc5b.png/show,Fairy&Fighting,Quark Drive,Iron Valiant
-399,Koraidon,https://j-img.game8.co/7641799/2fb561d7c8a6f56e1afc6be5e59fd26a.png/show,Fighting&Dragon,Orichalcum Pulse,Koraidon
-400,Miraidon,https://j-img.game8.co/7641766/ed7c2558feef535652f3a62ebeaf7ab9.png/show,Electric&Dragon,Hadron Engine,Miraidon
+No.,Name,Image,Type,Abilities
+1,Sprigatito,https://j-img.game8.co/7641790/d32c3882be3f4ef08bada0ba68dac958.png/show,Grass,Overgrow&Protean
+2,Floragato,https://j-img.game8.co/7641816/e3e6bd3f2291323661d545d8565e08ea.png/show,Grass,Overgrow&Protean
+3,Meowscarada,https://j-img.game8.co/7641744/2a98829b743036f4fd23af03c5e79d11.png/show,Grass&Dark,Overgrow&Protean
+4,Fuecoco,https://j-img.game8.co/7641739/ecfdabdc71e53574412d02c6cfd017f6.png/show,Fire,Blaze&Unaware
+5,Crocalor,https://j-img.game8.co/7641797/7c5b8da63de5cd82e77173c9c540ac1c.png/show,Fire,Blaze&Unaware
+6,Skeledirge,https://j-img.game8.co/7641750/0a0004933b3df1961871ad01be1fca33.png/show,Fire&Ghost,Blaze&Unaware
+7,Quaxly,https://j-img.game8.co/7641775/d7fc1892a2e22da61d03f8b717d250a9.png/show,Water,Torrent&Moxie
+8,Quaxwell,https://j-img.game8.co/7641798/3b0ecc06b6f34de358b53f0567cd38f3.png/show,Water,Torrent&Moxie
+9,Quaquaval,https://j-img.game8.co/7641838/6610fe110adce294928685b2e6c05242.png/show,Water&Fighting,Torrent&Moxie
+10,Lechonk,https://j-img.game8.co/7641736/318d97e148e9d14d2ea034349a7da94b.png/show,Normal,Aroma Veil&Gluttony&Thick Fat
+11,Oinkologne (Male),https://j-img.game8.co/7641812/aa070425f0a262acc3d71a8adf6cdb66.png/show,Normal,Lingering Aroma&Gluttony&Thick Fat
+11.1,Oinkologne (Female),https://j-img.game8.co/7641834/009aa8880e3c14f76bb62566a66720c3.png/show,Normal,Aroma Veil&Gluttony&Thick Fat
+12,Tarountula,https://j-img.game8.co/7641751/5ed4fb1d5f1a05d920891d753ed62d41.png/show,Bug,Insomnia&Stakeout
+13,Spidops,https://j-img.game8.co/7641850/c231cf195083f9f49d84476271985f75.png/show,Bug,Insomnia&Stakeout
+14,Nymble,https://j-img.game8.co/7641780/8c9037162a841d137158353aaefde95f.png/show,Bug,Swarm&Tinted Lens
+15,Lokix,https://j-img.game8.co/7641776/097f70a22945c5984e9b47d11e5bb5a7.png/show,Bug&Dark,Swarm&Tinted Lens
+16,Hoppip,https://j-img.game8.co/2216382/5bc46c335e2ed8b6e979a7ecda9e85a3.png/show?1540444326,Grass&Flying,Chlorophyll&Leaf Guard&Infiltrator
+17,Skiploom,https://j-img.game8.co/2216397/070cdf00dbdef7aa47d25ae97db82f02.png/show?1540444326,Grass&Flying,Chlorophyll&Leaf Guard&Infiltrator
+18,Jumpluff,https://j-img.game8.co/2216366/3de9309b365ff7a706a0cf45544c7d4f.png/show?1540444326,Grass&Flying,Chlorophyll&Leaf Guard&Infiltrator
+19,Fletchling,https://j-img.game8.co/2217673/568006baadb7876d73a733bca3970d18.png/show?1540450165,Normal&Flying,Big Pecks&Gale Wings
+20,Fletchinder,https://j-img.game8.co/2217678/92d640f9ba6d2987a72e7637813cf4e7.png/show?1540450165,Fire&Flying,Flame Body&Gale Wings
+21,Talonflame,https://j-img.game8.co/2217676/56931d380dfe2f2e0188119fc5ef58b2.png/show,Fire&Flying,Flame Body&Gale Wings
+22,Pawmi,https://j-img.game8.co/7641767/0150e11cd242123ed72927467a3ea588.png/show,Electric,Static&Natural Cure&Iron Fist
+23,Pawmo,https://j-img.game8.co/7641807/6d811ce1e6fcbecfbc7ae194fd8a63f8.png/show,Electric&Fighting,Volt Absorb&Natural Cure&Iron Fist
+24,Pawmot,https://j-img.game8.co/7641762/b31eb49faff2029d961cb2aaae138ae8.png/show,Electric&Fighting,Volt Absorb&Natural Cure&Iron Fist
+25,Houndour,https://j-img.game8.co/2216445/16e763d44f385867255687f943afd601.png/show?1540444327,Dark&Fire,Early Bird&Flash Fire&Unnerve
+26,Houndoom,https://j-img.game8.co/2216439/e482a12c9fdfe6bcc88ea859fcbfeb27.png/show?1540444328,Dark&Fire,Early Bird&Flash Fire&Unnerve
+27,Yungoos,https://j-img.game8.co/2217803/2a8847497667d8e9a3f863bc2cf2adfe.png/show?1540450839,Normal,Stakeout&Strong Jaw&Adaptability
+28,Gumshoos,https://j-img.game8.co/2217809/9851c70f5c3082c4da7fb42b471dbbf6.png/show?1540450839,Normal,Stakeout&Strong Jaw&Adaptability
+29,Skwovet,https://j-img.game8.co/4508532/107854127d68087b57b293a65d59e4f3.png/show,Normal,Cheek Pouch&Gluttony
+30,Greedent,https://j-img.game8.co/4508580/a9b74757d8ff7de2d2d57f03d5236fd6.png/show,Normal,Cheek Pouch&Gluttony
+31,Sunkern,https://j-img.game8.co/2216411/b598236abbc2cf877c4de23d9fa60413.png/show?1540444327,Grass,Chlorophyll&Solar Power&Early Bird
+32,Sunflora,https://j-img.game8.co/2216385/3294ffd07c77fdbd20668e8ed9dc5bc3.png/show?1540444326,Grass,Chlorophyll&Solar Power&Early Bird
+33,Kricketot,https://j-img.game8.co/2216685/b1ff118ea155932292d241a8543144cf.png/show?1540444735,Bug,Shed Skin&Run Away
+34,Kricketune,https://j-img.game8.co/2216666/a47946ab1308893dabcd7461e65eefd4.png/show?1540444735,Bug,Swarm&Technician
+35,Scatterbug,https://j-img.game8.co/2217671/6a48882f9daec55357645e8b4162be02.png/show?1540450165,Bug,Shield Dust&Compound Eyes&Friend Guard
+36,Spewpa,https://j-img.game8.co/2217715/4e30270677f9dfa1231a97ff27cd31ce.png/show?1540450165,Bug,Shed Skin&Friend Guard
+37,Vivillon,https://j-img.game8.co/2217693/3800e531037f5e4a129ee31b6c1c2bec.png/show?1540450165,Bug&Flying,Shield Dust&Compound Eyes&Friend Guard
+38,Combee,https://j-img.game8.co/4507039/7e017254013fb62857fffbc9c36e73fd.png/show,Bug&Flying,Honey Gather&Hustle
+39,Vespiquen,https://j-img.game8.co/4507020/664cc1b88bbbb086d3461fef5701048f.png/show,Bug&Flying,Pressure&Unnerve
+40,Rookidee,https://j-img.game8.co/4508560/d5b453c06ebaa1cd63fe9d21e4980cff.png/show,Flying,Unnerve&Keen Eye&Big Pecks
+41,Corvisquire,https://j-img.game8.co/4508603/751cbbef3666eab47be2b28d45afb0b1.png/show,Flying,Unnerve&Keen Eye&Big Pecks
+42,Corviknight,https://j-img.game8.co/4508584/160d11e39bf5cccdba356f6c605c7c91.png/show,Flying&Steel,Unnerve&Pressure&Mirror Armor
+43,Happiny,https://j-img.game8.co/4515224/de4129d0d0fb82b606e35f330830101b.png/show,Normal,Natural Cure&Serene Grace&Friend Guard
+44,Chansey,https://j-img.game8.co/3930098/8b5a145e255f74aadb3d84635ea2dd5d.png/show,Normal,Natural Cure&Serene Grace&Healer
+45,Blissey,https://j-img.game8.co/4515226/544a3da9aa586d1f3dbd49663be64f33.png/show,Normal,Natural Cure&Serene Grace&Healer
+46,Azurill,https://j-img.game8.co/2216484/c30b9e898c5da1efd4c4646534612b7c.png/show?1540444401,Normal&Fairy,Thick Fat&Huge Power&Sap Sipper
+47,Marill,https://j-img.game8.co/2216373/1475756d39b3f92d782844112bbab5f8.png/show?1540444326,Water&Fairy,Thick Fat&Huge Power&Sap Sipper
+48,Azumarill,https://j-img.game8.co/2216402/560d23085d6c15466c66a14c6a948042.png/show?1540444327,Water&Fairy,Thick Fat&Huge Power&Sap Sipper
+49,Surskit,https://j-img.game8.co/2216469/694ca6907a8212b4f41ef0a0a2580d44.png/show?1540444400,Bug&Water,Swift Swim&Rain Dish
+50,Masquerain,https://j-img.game8.co/2216477/611d7528462fa06faf39cc541e9852ec.png/show?1540444401,Bug&Flying,Intimidate&Unnerve
+51,Buizel,https://j-img.game8.co/2216657/aa7d38eae34c987a7c526d32f9e72bc9.png/show?1540444734,Water,Swift Swim&Water Veil
+52,Floatzel,https://j-img.game8.co/2216682/31bf83804604bedcba347db37b76808d.png/show?1540444735,Water,Swift Swim&Water Veil
+53,Paldean Wooper,https://j-img.game8.co/7641735/bee75ee8be35062998395f71520be32c.png/show,Poison&Ground,Poison Point&Water Absorb&Unaware
+54,Clodsire,https://j-img.game8.co/7641788/927259bb21061e6fecb3b4a0e63038bf.png/show,Poison&Ground,Poison Point&Water Absorb&Unaware
+55,Psyduck,https://j-img.game8.co/4649555/bfb6775d3396e61fead29c07458fb222.png/show,Water,Damp&Cloud Nine&Swift Swim
+56,Golduck,https://j-img.game8.co/4649556/cc66e48a2b993420de891818dec15d6a.png/show,Water,Damp&Cloud Nine&Swift Swim
+57,Chewtle,https://j-img.game8.co/4508597/d2cc0ccfd2212c122d1f6c194236d3e5.png/show,Water,Strong Jaw&Shell Armor&Swift Swim
+58,Drednaw,https://j-img.game8.co/4508599/8b9d1de111f00034d478d2359202e1fe.png/show,Water&Rock,Strong Jaw&Shell Armor&Swift Swim
+59,Igglybuff,https://j-img.game8.co/4649578/dbea10be0fd0ce05efd5048e2986c99a.png/show,Normal&Fairy,Cute Charm&Competitive&Friend Guard
+60,Jigglypuff,https://j-img.game8.co/4649552/28800ce7061213ace904f638b1f6cac2.png/show,Normal&Fairy,Cute Charm&Competitive&Friend Guard
+61,Wigglytuff,https://j-img.game8.co/4649554/c6c29ec6c3da9a6d3a2eb6ca286ea377.png/show,Normal&Fairy,Cute Charm&Competitive&Frisk
+62,Ralts,https://j-img.game8.co/2216476/8e0969fd39d22f40e7015c0e25ecb9ae.png/show?1540444401,Psychic&Fairy,Synchronize&Trace&Telepathy
+63,Kirlia,https://j-img.game8.co/2216492/709a0de0a218f8b5a7a231f274a59d97.png/show?1540444401,Psychic&Fairy,Synchronize&Trace&Telepathy
+64,Gardevoir,https://j-img.game8.co/2216503/3793ac7cc894ac6c43d4ed31457f2142.png/show?1540444401,Psychic&Fairy,Synchronize&Trace&Telepathy
+65,Gallade,https://j-img.game8.co/2216696/7bfd515b40290b46e05ff12c88eecafd.png/show?1540444735,Psychic&Fighting,Steadfast&Sharpness&Justified
+66,Drowzee,https://j-img.game8.co/2216224/9ac42b20a95143fabfe6d5025b2adeb2.png/show?1540444219,Psychic,Insomnia&Forewarn&Inner Focus
+67,Hypno,https://j-img.game8.co/2216277/8cc860cfaae8a18f171eb683df87401d.png/show?1540444220,Psychic,Insomnia&Forewarn&Inner Focus
+68,Gastly,https://j-img.game8.co/4505991/59998031f6671610ddcb5618f7c4d8c1.png/show,Ghost&Poison,Levitate
+69,Haunter,https://j-img.game8.co/4505979/9b40a1703acc1de97d724d33861ad9c9.png/show,Ghost&Poison,Levitate
+70,Gengar,https://j-img.game8.co/4505942/999bc2b96782fb62ca7fa8c481910c16.png/show,Ghost&Poison,Cursed Body
+71,Tandemaus,https://j-img.game8.co/7641806/fb917ca352eddcbd85b8e4128b0a7828.png/show,Normal,Run Away&Pickup&Own Tempo
+72,Maushold,https://img.game8.co/3782913/999abfdc8084f57331d6908339147143.png/show,Normal,Friend Guard&Cheek Pouch&Technician
+73,Pichu,https://j-img.game8.co/4506472/be923b533ac011ddd789a8c6554f1c5b.png/show,Electric,Static&Lightning Rod
+74,Pikachu,https://j-img.game8.co/4505974/d2603e2e5935f7783308ac9e0340626c.png/show,Electric,Static&Lightning Rod
+75,Raichu,https://j-img.game8.co/4505914/3826531c3eed43c090d3e3cd08b2a618.png/show,Electric,Static&Lightning Rod
+76,Fidough,https://j-img.game8.co/7641832/22d16ead6dd1df07747587b3ded33587.png/show,Fairy,Own Tempo&Klutz
+77,Dachsbun,https://j-img.game8.co/7641828/6c80846072ecae8800d8c7ea4726a8c6.png/show,Fairy,Well-Baked Body&Aroma Veil
+78,Slakoth,https://j-img.game8.co/2216472/c3abb9a75b34904cb366e13871813855.png/show?1540444401,Normal,Truant
+79,Vigoroth,https://j-img.game8.co/2216491/420e9c1331c2cdabf71a17310f9559fd.png/show?1540444401,Normal,Vital Spirit
+80,Slaking,https://j-img.game8.co/2216521/3419cb0be77f8475c6bec6dc3f2166be.png/show?1540444402,Normal,Truant
+81,Bounsweet,https://j-img.game8.co/4508422/cf4353ca85d7c4f25c28f8630245687b.png/show,Grass,Oblivious&Leaf Guard&Sweet Veil
+82,Steenee,https://j-img.game8.co/4508347/87ec53f8e258191c0d996242b1678c29.png/show,Grass,Oblivious&Leaf Guard&Sweet Veil
+83,Tsareena,https://j-img.game8.co/4508353/461a14ee26f807641ab819db91fe1b07.png/show,Grass,Leaf Guard&Queenly Majesty&Sweet Veil
+84,Smoliv,https://j-img.game8.co/7641796/0400208866b4b6b9ed71988f3667d194.png/show,Grass&Normal,Early Bird&Harvest
+85,Dolliv,https://j-img.game8.co/7641763/d4b86bdb1801b1a3d89c492bfa6010db.png/show,Grass&Normal,Early Bird&Harvest
+86,Arboliva,https://j-img.game8.co/7641742/74401cb2fe8fa212f5307562cd87e8bf.png/show,Grass&Normal,Seed Sower&Harvest
+87,Bonsly,https://j-img.game8.co/2216686/21943c1afc1dfb5c5b843f2480727460.png/show?1540444735,Rock,Sturdy&Rock Head&Rattled
+88,Sudowoodo,https://j-img.game8.co/2216390/c7378cb519f474d1e16902980e47c6ae.png/show?1540444326,Rock,Sturdy&Rock Head&Rattled
+89,Rockruff,https://j-img.game8.co/2217823/f12bfdb3633e750c0fa676f3c16079ff.png/show?1540450839,Rock,Keen Eye&Vital Spirit&Steadfast
+90,Lycanroc (Midday Form),https://j-img.game8.co/2217844/3c0dcf31a4d82c080cd1717ece94185f.png/show?1540450839,Rock,Keen Eye&Sand Rush&Steadfast
+90.1,Lycanroc (Midnight Form),https://j-img.game8.co/2217841/b6918cf8bf76a3dbea3ad066f3875f8d.png/show?1540450839,Rock,Keen Eye&Vital Spirit&No Guard
+90.2,Lycanroc (Dusk Form),https://j-img.game8.co/4653344/2fa893df1a7b7943921005c13b93ef4c.png/show,Rock,Tough Claws
+91,Rolycoly,https://j-img.game8.co/4508568/0734f88067227e081dd3b8ed23659ac7.png/show,Rock,Heatproof&Steam Engine&Flash Fire
+92,Carkol,https://j-img.game8.co/4508635/6cfb011fa95c70a7a0c08e7c16ae0fb2.png/show,Rock&Fire,Flame Body&Steam Engine&Flash Fire
+93,Coalossal,https://j-img.game8.co/4508614/6aaef02ada49fbd64483d4d39b5947a8.png/show,Rock&Fire,Flame Body&Steam Engine&Flash Fire
+94,Shinx,https://j-img.game8.co/2216681/0a3a7dbbf6d927d8317a611d1497834e.png/show?1540444735,Electric,Rivalry&Intimidate&Guts
+95,Luxio,https://j-img.game8.co/2216698/4c8bfcb742904e1b19ddddce71a29cca.png/show?1540444735,Electric,Rivalry&Intimidate&Guts
+96,Luxray,https://j-img.game8.co/2216712/f4cf6fd54325ac04de902bae37388f87.png/show?1540444735,Electric,Rivalry&Intimidate&Guts
+97,Starly,https://j-img.game8.co/2216727/e07979dc1f39269cd35fc5dcf6664605.png/show?1540444735,Normal&Flying,Keen Eye&Reckless
+98,Staravia,https://j-img.game8.co/2216684/658d51cabac979e6f3148d965d432513.png/show?1540444735,Normal&Flying,Intimidate&Reckless
+99,Staraptor,https://j-img.game8.co/2216687/114aea921ab3d11bf65efa24e0fcc513.png/show?1540444735,Normal&Flying,Intimidate&Reckless
+100,Oricorio (Baile Style),https://j-img.game8.co/2217833/3dddebcf3ef8fa56f909388eaa4c8c8f.png/show?1540450839,Fire&Flying,Dancer
+100.1,Oricorio (Pa'u Style),https://j-img.game8.co/2217825/f08c41c7b5f30c3494ab5e325b18eed5.png/show?1540450839,Psychic&Flying,Dancer
+100.2,Oricorio (Pom-Pom Style),https://j-img.game8.co/2217812/5f6bd49df8cb5506e0c57588f7c89d10.png/show?1540450839,Electric&Flying,Dancer
+100.3,Oricorio (Sensu Style),https://j-img.game8.co/2217845/506270e9d50b6dd9e82b2730d11b7ddc.png/show?1540450839,Ghost&Flying,Dancer
+101,Mareep,https://j-img.game8.co/2216443/d02666135c7c93684af02f9536cfad90.png/show?1540444327,Electric,Static&Plus
+102,Flaaffy,https://j-img.game8.co/2216401/6424bb8dbd0c57e4b976db5e23a6d86d.png/show?1540444327,Electric,Static&Plus
+103,Ampharos,https://j-img.game8.co/2216360/d2b317b4f0415385e460492fee09f554.png/show?1540444326,Electric,Static&Plus
+104,Petilil,https://j-img.game8.co/4649623/b1219e9dcd10d600f268eb28b45b495a.png/show,Grass,Chlorophyll&Own Tempo&Leaf Guard
+105,Lilligant,https://j-img.game8.co/4649624/ffc51d7588344903dba520e8ee8a18cf.png/show,Grass,Chlorophyll&Own Tempo&Leaf Guard
+106,Shroomish,https://j-img.game8.co/6066283/07d3d6c7a99dca213653fba0cb878e32.png/show,Grass,Effect Spore&Poison Heal&Quick Feet
+107,Breloom,https://j-img.game8.co/7402498/d8b24f414072c3d7949f95b90aa84758.png/show,Grass&Fighting,Effect Spore&Poison Heal&Technician
+108,Applin,https://j-img.game8.co/4508588/d3ec283ae008b32fdeb0f4d2be3526eb.png/show,Grass&Dragon,Gluttony&Ripen&Bulletproof
+109,Flapple,https://j-img.game8.co/4508595/c299896401bc32a92316b77a9a8ea1b0.png/show,Grass&Dragon,Gluttony&Ripen&Hustle
+110,Appletun,https://j-img.game8.co/4508562/f671d74eefae9f4ac8a203b7d142f748.png/show,Grass&Dragon,Gluttony&Ripen&Thick Fat
+111,Spoink,https://j-img.game8.co/2216501/65b9265a2b6761fdf73a04caf5880c42.png/show?1540444401,Psychic,Thick Fat&Own Tempo&Gluttony
+112,Grumpig,https://j-img.game8.co/2216599/017d5381ef8dc4faf22f1f30d55d6457.png/show?1540444403,Psychic,Thick Fat&Own Tempo&Gluttony
+113,Squawkabilly,https://j-img.game8.co/7641756/3f4b432fc43a89b6ce7502670800fb0a.png/show,Normal&Flying,Intimidate&Hustle&Guts
+114,Misdreavus,https://j-img.game8.co/2216432/64f85116969fd6e6ad188911343ceb07.png/show?1540444327,Ghost,Levitate
+115,Mismagius,https://j-img.game8.co/2216695/d50a73a4cb66b50f2e1ec82ec027b2f8.png/show?1540444735,Ghost,Levitate
+116,Makuhita,https://j-img.game8.co/2216482/791378fd393a22386743bbfa473e8040.png/show?1540444401,Fighting,Thick Fat&Guts&Sheer Force
+117,Hariyama,https://j-img.game8.co/2216502/07ffce1a00f616bc5b5073f596a6568d.png/show?1540444401,Fighting,Thick Fat&Guts&Sheer Force
+118,Crabrawler,https://j-img.game8.co/2217862/9ede342132452e34d6ea9ce28a8f061a.png/show?1540450839,Fighting,Hyper Cutter&Iron Fist&Anger Point
+119,Crabominable,https://j-img.game8.co/2217860/c16854ae5a0e8787af75e90693da1987.png/show?1540450839,Fighting&Ice,Hyper Cutter&Iron Fist&Anger Point
+120,Salandit,https://j-img.game8.co/4508397/81ee002dc170daaa115c322929068125.png/show,Poison&Fire,Corrosion&Oblivious
+121,Salazzle,https://j-img.game8.co/4508375/b014ea8b7694c9f92dd26eebea7afa07.png/show,Poison&Fire,Corrosion&Oblivious
+122,Phanpy,https://j-img.game8.co/2216449/2a3538d6efc13e7d53ab44b2c8b24f41.png/show?1540444328,Ground,Pickup&Sand Veil
+123,Donphan,https://j-img.game8.co/2216407/656ddcf361131caa412c20c28d69d97d.png/show?1540444327,Ground,Sturdy&Sand Veil
+124,Cufant,https://j-img.game8.co/4508640/e75fa32091594f49a9c7f8cc83398ec4.png/show,Steel,Sheer Force&Heavy Metal
+125,Copperajah,https://j-img.game8.co/4508596/b5ed729f3895c13d695d8f727b6ff64a.png/show,Steel,Sheer Force&Heavy Metal
+126,Gible,https://j-img.game8.co/5080448/880773a238b386eb7adafe0cfc160ad5.png/show,Dragon&Ground,Sand Veil&Rough Skin
+127,Gabite,https://j-img.game8.co/5080449/ff15e4bb6e61ac83af534c267ff27910.png/show,Dragon&Ground,Sand Veil&Rough Skin
+128,Garchomp,https://j-img.game8.co/3930181/a9ab4d4ba447df09304a1ab180c055d9.png/show,Dragon&Ground,Sand Veil&Rough Skin
+129,Nacli,https://j-img.game8.co/7641753/85b562bdf43b7efe44759d1002ceff09.png/show,Rock,Purifying Salt&Sturdy&Clear Body
+130,Naclstack,https://j-img.game8.co/7641795/048d780f36acf4e6af298660b62b211e.png/show,Rock,Purifying Salt&Sturdy&Clear Body
+131,Garganacl,https://j-img.game8.co/7641760/3cb757f6fb0ada287be7706cc2d7e0b8.png/show,Rock,Purifying Salt&Sturdy&Clear Body
+132,Wingull,https://j-img.game8.co/4506694/cec0cb062fdff1419c723e11d20194f8.png/show,Water&Flying,Keen Eye&Hydration&Rain Dish
+133,Pelipper,https://j-img.game8.co/4506682/8eef514cc31a298a6c5388cdbb0dc58d.png/show,Water&Flying,Keen Eye&Drizzle&Rain Dish
+134,Magikarp,https://j-img.game8.co/2216315/90e8175bd31992d72160b479f9b334de.png/show?1540444221,Water,Swift Swim&Rattled
+135,Gyarados,https://j-img.game8.co/2216335/2dfbb1f235eb74de6e445a0015a2ab87.png/show?1540444223,Water&Flying,Intimidate&Moxie
+136,Arrokuda,https://j-img.game8.co/4508576/8b575a6f0946a873ca1858ea3aa479a7.png/show,Water,Swift Swim&Propeller Tail
+137,Barraskewda,https://j-img.game8.co/4508647/51e186745133dedf2fe14829d711ffb2.png/show,Water,Swift Swim&Propeller Tail
+138,Basculin,https://j-img.game8.co/4507449/54271168a43f4e3c4835210092992189.png/show,Water,Reckless&Adaptability&Mold Breaker
+139,Gulpin,https://j-img.game8.co/2216489/b3850e88e23ddbc11a7458a270a03948.png/show?1540444401,Poison,Liquid Ooze&Sticky Hold&Gluttony
+140,Swalot,https://j-img.game8.co/2216555/50f19e58cb4bc69b5a1310e42e750dfd.png/show?1540444402,Poison,Liquid Ooze&Sticky Hold&Gluttony
+141,Meowth,https://j-img.game8.co/4505928/2e3d82aacd87b8975c18e7b169f4e5cb.png/show,Normal,Pickup&Technician&Unnerve
+142,Persian,https://j-img.game8.co/4505905/9f514406178d129e00445639c7d6ff07.png/show,Normal,Limber&Technician&Unnerve
+143,Drifloon,https://j-img.game8.co/4507030/8afa477ffc46557987059e84692419aa.png/show,Ghost&Flying,Aftermath&Unburden&Flare Boost
+144,Drifblim,https://j-img.game8.co/4507083/db25b98bd1868500bb1f3c54c48e4af3.png/show,Ghost&Flying,Aftermath&Unburden&Flare Boost
+145,Flabebe,https://j-img.game8.co/2217735/d1e15c3fc734f3d46797839cbb289d8f.png/show?1540450165,Fairy,Flower Veil&Symbiosis
+146,Floette,https://j-img.game8.co/2217690/4278e16c699b7b996a97eeba87a7dff0.png/show?1540450165,Fairy,Flower Veil&Symbiosis
+147,Florges,https://j-img.game8.co/2217728/c55e14b99198ded851983bc5e90de81e.png/show?1540450165,Fairy,Flower Veil&Symbiosis
+148,Diglett,https://j-img.game8.co/4505917/5f5bff80c8d70fa5b2ad676cc6162636.png/show,Ground,Sand Veil&Arena Trap&Sand Force
+149,Dugtrio,https://j-img.game8.co/4505980/0cc6aba79671a5463e7f92041fca0685.png/show,Ground,Sand Veil&Arena Trap&Sand Force
+150,Torkoal,https://j-img.game8.co/2216576/0f2f4d3f2f9e57441040c7d90c3e28db.png/show?1540444403,Fire,White Smoke&Drought&Shell Armor
+151,Numel,https://j-img.game8.co/2216527/fa580a38913d79abe0b296dc61185b9f.png/show?1540444402,Fire&Ground,Oblivious&Simple&Own Tempo
+152,Camerupt,https://j-img.game8.co/2216571/2c48db6f05b148beefb513e955926096.png/show?1540444403,Fire&Ground,Magma Armor&Solid Rock&Anger Point
+153,Bronzor,https://j-img.game8.co/4506987/f3b54319979a99f5034c3ccac1f3b20c.png/show,Steel&Psychic,Levitate&Heatproof&Heavy Metal
+154,Bronzong,https://j-img.game8.co/4507087/418f3f3a101252c9d1cae3e0435830db.png/show,Steel&Psychic,Levitate&Heatproof&Heavy Metal
+155,Axew,https://j-img.game8.co/4507479/0804e82aa1d6435c423d5c399f4c799b.png/show,Dragon,Mold Breaker&Rivalry&Unnerve
+156,Fraxure,https://j-img.game8.co/4507520/4bd059ea29a7c626d405f54a34af5521.png/show,Dragon,Mold Breaker&Rivalry&Unnerve
+157,Haxorus,https://j-img.game8.co/4507531/e3db3817d32c35f65a8e905e26f4583b.png/show,Dragon,Mold Breaker&Rivalry&Unnerve
+158,Mankey,https://j-img.game8.co/2216182/a47ff56f7e95c4e948c7fa2ec0bc1867.png/show?1540444218,Fighting,Vital Spirit&Anger Point&Defiant
+159,Primeape,https://j-img.game8.co/2216241/10c639810f630aacc2eb0ba8643ed856.png/show?1540444219,Fighting,Vital Spirit&Anger Point&Defiant
+160,Annihilape,https://j-img.game8.co/7641774/0cf77d32683755d2984219ec82c9c3ed.png/show,Fighting&Ghost,Vital Spirit&Inner Focus&Defiant
+161,Meditite,https://j-img.game8.co/2216553/80c8b422f03ce97ccc0ff9959d4ea95b.png/show?1540444402,Fighting&Psychic,Pure Power&Telepathy
+162,Medicham,https://j-img.game8.co/2216514/52ade9c2849ba6bdf5f29482e61a8872.png/show?1540444401,Fighting&Psychic,Pure Power&Telepathy
+163,Riolu,https://j-img.game8.co/4506968/406817e307bd2a5310a735a6dcbc0d34.png/show,Fighting,Steadfast&Inner Focus&Prankster
+164,Lucario,https://j-img.game8.co/4506981/33cc426b4a381f8434ac922446bd4a2c.png/show,Fighting&Steel,Steadfast&Inner Focus&Justified
+165,Charcadet,https://j-img.game8.co/7641803/7f5187a29c5a34d72bc319abc032e3e6.png/show,Fire,Flash Fire&Flame Body
+166,Armarouge,https://j-img.game8.co/7641808/a40b6dce96e7df62964daf21546a6342.png/show,Fire&Psychic,Flash Fire&Weak Armor
+167,Ceruledge,https://j-img.game8.co/7641849/feb2833d48ce6602e22b92e8ba7b67db.png/show,Fire&Ghost,Flash Fire&Weak Armor
+168,Barboach,https://j-img.game8.co/4506679/4cdbbedccae3785bdd55b9d3fc914737.png/show,Water&Ground,Oblivious&Anticipation&Hydration
+169,Whiscash,https://j-img.game8.co/4506802/5fabe6a29d13c4104e81f39b6c1a7f29.png/show,Water&Ground,Oblivious&Anticipation&Hydration
+170,Tadbulb,https://j-img.game8.co/7641740/e1a808dba74cf271baa01326ddcc8d89.png/show,Electric,Own Tempo&Static&Damp
+171,Bellibolt,https://j-img.game8.co/7641754/14c4073fd551d5095555513b67a184ae.png/show,Electric,Electromorphosis&Static&Damp
+172,Goomy,https://j-img.game8.co/2217709/da150e6cb58261a0af0e1e1af276a71b.png/show?1540450165,Dragon,Hydration&Sap Sipper&Gooey
+173,Sliggoo,https://j-img.game8.co/2217696/57174365232902bda3271cdbd05d2916.png/show?1540450165,Dragon,Hydration&Sap Sipper&Gooey
+174,Goodra,https://j-img.game8.co/2217704/adcd67d46e892c0718a482e53d94a708.png/show?1540450165,Dragon,Hydration&Sap Sipper&Gooey
+175,Croagunk,https://j-img.game8.co/4506999/5462359d0fbdd335b25dff39107175c9.png/show,Poison&Fighting,Anticipation&Dry Skin&Poison Touch
+176,Toxicroak,https://j-img.game8.co/4507067/5044b6cff778aa482efd2896f393b739.png/show,Poison&Fighting,Anticipation&Dry Skin&Poison Touch
+177,Wattrel,https://j-img.game8.co/7641820/563b22945c48a7b78e87fb3f62563f24.png/show,Electric&Flying,Wind Power&Volt Absorb&Competitive
+178,Kilowattrel,https://j-img.game8.co/7641814/c1ca1a8a983d398d9a9bb9eb658ed48f.png/show,Electric&Flying,Wind Power&Volt Absorb&Competitive
+179,Eevee,https://j-img.game8.co/2216329/b793cf9cd88afa7053cb29d21f5e5e1c.png/show?1540444222,Normal,Run Away&Adaptability&Anticipation
+180,Vaporeon,https://j-img.game8.co/2216332/2cabc8f8793d7c2a061bb909628ae223.png/show?1540444222,Water,Water Absorb&Hydration
+181,Jolteon,https://j-img.game8.co/2216324/f5d762cf172c7fa03799384bf0494656.png/show?1540444222,Electric,Volt Absorb&Quick Feet
+182,Flareon,https://j-img.game8.co/2216313/3def5d9b11dbea89642492361ef8b588.png/show?1540444221,Fire,Flash Fire&Guts
+183,Espeon,https://j-img.game8.co/2216383/82f7188c95cc6b64b4e15eab149471e3.png/show?1540444326,Psychic,Synchronize&Magic Bounce
+184,Umbreon,https://j-img.game8.co/2216377/2c7d610897ba9a711f2d664b2714cfbc.png/show?1540444326,Dark,Synchronize&Inner Focus
+185,Leafeon,https://j-img.game8.co/2216749/d425986c20cf33167bd38e4877be201e.png/show?1540444736,Grass,Leaf Guard&Chlorophyll
+186,Glaceon,https://j-img.game8.co/2216717/49b1d472ef3764153e477b102536c6c2.png/show?1540444735,Ice,Snow Cloak&Ice Body
+187,Sylveon,https://j-img.game8.co/2217699/c19fa8bfc665dc63d41b260e44284f82.png/show?1540450165,Fairy,Cute Charm&Pixilate
+188,Dunsparce,https://j-img.game8.co/2216398/7eadbe608fb65731307b42c1313a7df9.png/show?1540444327,Normal,Serene Grace&Run Away&Rattled
+189,Dudunsparce,https://j-img.game8.co/7641778/74c5626035a6935da78ca6f001464927.png/show,Normal,Serene Grace&Run Away&Rattled
+190,Deerling,https://j-img.game8.co/2217473/c7b3c9ff0b042d46c33d5ee76a975435.png/show?1540449214,Normal&Grass,Chlorophyll&Sap Sipper&Serene Grace
+191,Sawsbuck,https://j-img.game8.co/2217452/207a17d2bd91a67f9f7f4ac3ced060ce.png/show?1540449213,Normal&Grass,Chlorophyll&Sap Sipper&Serene Grace
+192,Girafarig,https://j-img.game8.co/2216378/2f2b433042747bbd3334c6f920b2a495.png/show?1540444326,Normal&Psychic,Inner Focus&Early Bird&Sap Sipper
+193,Farigiraf,https://j-img.game8.co/7641783/eecafd5cdc0065b389ea1eaeef0faad6.png/show,Normal&Psychic,Cud Chew&Armor Tail&Sap Sipper
+194,Grimer,https://j-img.game8.co/2216207/187b2a36228942ecdcb89334d0fb11fa.png/show?1540444219,Poison,Stench&Sticky Hold&Poison Touch
+195,Muk,https://j-img.game8.co/2216176/8023f7123ad05a3edbb464a0564f8b6e.png/show?1540444218,Poison,Stench&Sticky Hold&Poison Touch
+196,Maschiff,https://j-img.game8.co/7641747/af989a928863b5a8f4ddd64a8a4e28dd.png/show,Dark,Intimidate&Run Away&Stakeout
+197,Mabosstiff,https://j-img.game8.co/7641839/2a718eda0905ff7ae71bec704f2593aa.png/show,Dark,Intimidate&Guard Dog&Stakeout
+198,Toxel,https://j-img.game8.co/4508645/abed3ac8097bee616f15dcbb2510046f.png/show,Electric&Poison,Static&Rattled&Klutz
+199,Toxtricity (Amped Form),https://j-img.game8.co/4508573/909494e4d6ccc6d4757bc7b181c90016.png/show,Electric&Poison,Punk Rock&Plus&Technician
+199.1,Toxtricity (Low Key Form),https://j-img.game8.co/7462459/45b2c39bc1e55a8f33c4e0d837a14bca.png/show,Electric&Poison,Punk Rock&Minus&Technician
+200,Dedenne,https://j-img.game8.co/3930135/0ed17437c2fd0b35516eaf17167be4d0.png/show,Electric&Fairy,Cheek Pouch&Pickup&Plus
+201,Pachirisu,https://j-img.game8.co/2216673/19669ea9be36f7c1177cfb3fdd0f6bef.png/show?1540444735,Electric,Run Away&Pickup&Volt Absorb
+202,Shroodle,https://j-img.game8.co/7641765/8c538ee45b6491ea84c80ab60b7ceba7.png/show,Poison&Normal,Unburden&Pickpocket&Prankster
+203,Grafaiai,https://j-img.game8.co/7641757/b5ca9b252bd76d1d9e393473ad1b6cfb.png/show,Poison&Normal,Unburden&Poison Touch&Prankster
+204,Stantler,https://j-img.game8.co/2216408/e21b50b01da0f75d042b6bca75f56c8a.png/show?1540444327,Normal,Intimidate&Frisk&Sap Sipper
+205,Foongus,https://j-img.game8.co/4649625/afc0de5b4a97fbfa0a400ca93da42b9d.png/show,Grass&Poison,Effect Spore&Regenerator
+206,Amoonguss,https://j-img.game8.co/4649626/953458af993d737a5a2b3038b9f67238.png/show,Grass&Poison,Effect Spore&Regenerator
+207,Voltorb,https://j-img.game8.co/2216285/a9315e01fcbc4cb0970fe0a261a28a45.png/show?1540444220,Electric,Soundproof&Static&Aftermath
+208,Electrode,https://j-img.game8.co/2216236/9d01f8f4f6e1003af886615e1760466b.png/show?1540444219,Electric,Soundproof&Static&Aftermath
+209,Magnemite,https://j-img.game8.co/4515223/007bc9041fbcfb59702b6ed3c81a709c.png/show,Electric&Steel,Magnet Pull&Sturdy&Analytic
+210,Magneton,https://j-img.game8.co/4515227/0132709dfe19020bfd464792c3ad8b48.png/show,Electric&Steel,Magnet Pull&Sturdy&Analytic
+211,Magnezone,https://j-img.game8.co/3930112/762e15befec4b05b19f88db0c6d6f613.png/show,Electric&Steel,Magnet Pull&Sturdy&Analytic
+212,Ditto,https://j-img.game8.co/4505953/9facc67ce0d0a21bcd321d6d894bd49c.png/show,Normal,Limber&Imposter
+213,Growlithe,https://j-img.game8.co/2216220/38877676dc7e536266c269ea08e9e61a.png/show?1540444219,Fire,Intimidate&Flash Fire&Justified
+214,Arcanine,https://j-img.game8.co/2216258/3cd6240bb276fefa6f2f16ee2438a8a8.png/show?1540444219,Fire,Intimidate&Flash Fire&Justified
+215,Teddiursa,https://j-img.game8.co/2216399/bfec3a6e6f86f16f7e6626ef7a1db557.png/show?1540444326,Normal,Pickup&Quick Feet&Honey Gather
+216,Ursaring,https://j-img.game8.co/2216436/e9bd3c6a4df8ad41fd3647a6bae51dd0.png/show?1540444328,Normal,Guts&Quick Feet&Unnerve
+217,Zangoose,https://j-img.game8.co/2216581/4ee934f7bd3a43c315ee538116218c43.png/show?1540444403,Normal,Immunity&Toxic Boost
+218,Seviper,https://j-img.game8.co/2216609/8a0f612e77d00b55b217a3e70b2cf78d.png/show?1540444404,Poison,Shed Skin&Infiltrator
+219,Swablu,https://j-img.game8.co/2216496/b8a19a35218fef3df13563906532d39d.png/show?1540444401,Normal&Flying,Natural Cure&Cloud Nine
+220,Altaria,https://j-img.game8.co/2216560/ff7a90363a123415c7d7211ecd512d4e.png/show?1540444403,Dragon&Flying,Natural Cure&Cloud Nine
+221,Skiddo,https://j-img.game8.co/2217722/01b6c3d3cdf3578407391f6067611896.png/show?1540450165,Grass,Sap Sipper&Grass Pelt
+222,Gogoat,https://j-img.game8.co/2217739/650d24cec00b59875112454f3c0ad52a.png/show?1540450166,Grass,Sap Sipper&Grass Pelt
+223,Paldean Tauros (Fighting Form),https://j-img.game8.co/7641746/21abdadb4f0f04d30e939b6232af9aa3.png/show,Fighting,Intimidate&Anger Point&Cud Chew
+223.1,Paldean Tauros (Fighting&Fire Form),https://j-img.game8.co/7641741/bb38b2f144cd5d7d2b71d8deea12fb88.png/show,Fighting&Fire,Intimidate&Anger Point&Cud Chew
+223.2,Paldean Tauros (Fighting&Water Form),https://j-img.game8.co/7641737/861e2eff09cbdfa8a1c059a90ddd120a.png/show,Fighting&Water,Intimidate&Anger Point&Cud Chew
+224,Litleo,https://j-img.game8.co/2217703/508c4365c95060c1b930c77cd43be340.png/show?1540450165,Fire&Normal,Rivalry&Unnerve&Moxie
+225,Pyroar,https://j-img.game8.co/2217734/47b7b360f3cfada5fde6dd58780a8ec4.png/show?1540450165,Fire&Normal,Rivalry&Unnerve&Moxie
+226,Stunky,https://j-img.game8.co/4507074/c6b691c1dd2a663097ce9ddf31dc0059.png/show,Poison&Dark,Stench&Aftermath&Keen Eye
+227,Skuntank,https://j-img.game8.co/4507079/06a27bcee150fca8eacdbfa54b3db069.png/show,Poison&Dark,Stench&Aftermath&Keen Eye
+228,Zorua,https://j-img.game8.co/3930119/cf1ce308c06c2119ab76df431b894c51.png/show,Dark,Illusion
+229,Zoroark,https://j-img.game8.co/4515219/b4c42a5d2b3513d1d55a96d40e1dab4f.png/show,Dark,Illusion
+230,Sneasel,https://j-img.game8.co/2216367/503d0365a1c12409a72261e5a055fe8c.png/show?1540444326,Dark&Ice,Inner Focus&Keen Eye&Pickpocket
+231,Weavile,https://j-img.game8.co/2216729/88793feee6dea8577070400e2bb0995c.png/show?1540444736,Dark&Ice,Pressure&Pickpocket
+232,Murkrow,https://j-img.game8.co/2216386/6123910ac3784d0dd4a39516b1783938.png/show?1540444326,Dark&Flying,Insomnia&Super Luck&Prankster
+233,Honchkrow,https://j-img.game8.co/2216671/436913e14f92e3b3f7a22c5b173b5046.png/show?1540444735,Dark&Flying,Insomnia&Super Luck&Moxie
+234,Gothita,https://j-img.game8.co/4507431/623fbb1e79c4516a33afa0f96632452c.png/show,Psychic,Frisk&Competitive&Shadow Tag
+235,Gothorita,https://j-img.game8.co/4507446/9b8a7c0d0aa8e685137d6587d7870def.png/show,Psychic,Frisk&Competitive&Shadow Tag
+236,Gothitelle,https://j-img.game8.co/4507524/979760183befb0fab0f835387f6accba.png/show,Psychic,Frisk&Competitive&Shadow Tag
+237,Sinistea,https://j-img.game8.co/4508639/4aab1ee703479a414b7cd1d8f738c8f3.png/show,Ghost,Weak Armor&Cursed Body
+238,Polteageist,https://j-img.game8.co/4508621/eea1815f74af796c7c416f38b07304c3.png/show,Ghost,Weak Armor&Cursed Body
+239,Mimikyu,https://j-img.game8.co/4508432/11fb973156147bf798f37a274d40524f.png/show,Ghost&Fairy,Disguise
+240,Klefki,https://j-img.game8.co/4649640/623eaf8b708c8a5243e2079b62de3bd8.png/show,Steel&Fairy,Prankster&Magician
+241,Indeedee (Male),https://j-img.game8.co/7498454/fbcb4cf56cba38633dae38e5e57f261a.png/show,Psychic&Normal,Inner Focus&Synchronize&Psychic Surge
+241.1,Indeedee (Female),https://j-img.game8.co/7461047/a9486b371c82550e17ce1001f05ca9a0.png/show,Psychic&Normal,Own Tempo&Synchronize&Psychic Surge
+242,Bramblin,https://j-img.game8.co/7641748/b5369244b850cf34134ce0c4e1e65c0b.png/show,Grass&Ghost,Wind Rider&Infiltrator
+243,Brambleghast,https://j-img.game8.co/7641782/adf92f9cf820aab99bce615769edc2d2.png/show,Grass&Ghost,Wind Rider&Infiltrator
+244,Toedscool,https://j-img.game8.co/7641842/804b5cd126a1f6f6a50b936dbb51f3fb.png/show,Ground&Grass,Mycelium Might
+245,Toedscruel,https://j-img.game8.co/7641815/84c7f17fa3743d46e1d20b19ce7c15d9.png/show,Ground&Grass,Mycelium Might
+246,Tropius,https://j-img.game8.co/2216586/42e31ccdaafc7f81e07c54af9b5483b6.png/show?1540444403,Grass&Flying,Chlorophyll&Solar Power&Harvest
+247,Fomantis,https://j-img.game8.co/4649657/8b3532518ac4066843e8eb54d18aff14.png/show,Grass,Leaf Guard&Contrary
+248,Lurantis,https://j-img.game8.co/4649658/137ab4d125d48ee567f402a4979371f8.png/show,Grass,Leaf Guard&Contrary
+249,Klawf,https://j-img.game8.co/7641825/0ab2f7eac78fff70bd9fa438b9df3942.png/show,Rock,Anger Shell&Shell Armor&Regenerator
+250,Capsakid,https://j-img.game8.co/7641835/f420f5fe3a44ebecf905a8b73107c75c.png/show,Grass,Chlorophyll&Insomnia&Klutz
+251,Scovillain,https://j-img.game8.co/7641811/6ee257c4281f8d70e914812449c572cd.png/show,Grass&Fire,Chlorophyll&Insomnia&Moody
+252,Cacnea,https://j-img.game8.co/2216593/6d6f0b95098cb3e226cc94ace20a8b19.png/show?1540444403,Grass,Sand Veil&Water Absorb
+253,Cacturne,https://j-img.game8.co/2216506/d15449c9ad06646c125709d1f9a55ddd.png/show?1540444402,Grass&Dark,Sand Veil&Water Absorb
+254,Rellor,https://j-img.game8.co/7641781/69b40d53361f9d301cb3d05069ed2f5a.png/show,Bug,Compound Eyes&Shed Skin
+255,Rabsca,https://j-img.game8.co/7641768/6ca4c922100c2ca0d671ada162805d08.png/show,Bug&Psychic,Synchronize&Telepathy
+256,Venonat,https://j-img.game8.co/2216240/34a459751a21813f651bdc8f66b64487.png/show?1540444219,Bug&Poison,Compound Eyes&Tinted Lens&Run Away
+257,Venomoth,https://j-img.game8.co/2216192/6ca5fc956bdf93c29a254fffa49eba20.png/show?1540444218,Bug&Poison,Shield Dust&Tinted Lens&Wonder Skin
+258,Pineco,https://j-img.game8.co/2216428/281ca636ba3b1ee89596202927b3182d.png/show?1540444328,Bug,Sturdy&Overcoat
+259,Forretress,https://j-img.game8.co/2216414/b3060015b809f3a3d3e0d8a42e1b8919.png/show?1540444327,Bug&Steel,Sturdy&Overcoat
+260,Scyther,https://j-img.game8.co/2216314/ad08bcd9884abf12b9a3826f946f6b80.png/show?1540444222,Bug&Flying,Swarm&Technician&Steadfast
+261,Scizor,https://j-img.game8.co/2216431/230cd940ac43d386bbd1037c96f10105.png/show?1540444327,Bug&Steel,Swarm&Technician&Light Metal
+262,Heracross,https://j-img.game8.co/4649581/0f50e0a252eac361f6a747ca929fe79c.png/show,Bug&Fighting,Swarm&Guts&Moxie
+263,Flittle,https://j-img.game8.co/7641831/3652a57200a906357563e25df2355ff6.png/show,Psychic,Anticipation&Frisk&Speed Boost
+264,Espathra,https://j-img.game8.co/7641817/fa592ab537c9234d90cc973f5a3d133e.png/show,Psychic,Opportunist&Frisk&Speed Boost
+265,Hippopotas,https://j-img.game8.co/4506973/a23cac2e4f2faee1b3f3e91568798a9f.png/show,Ground,Sand Stream&Sand Force
+266,Hippowdon,https://j-img.game8.co/4507009/f5e4bc90f9b4f0732194a1ef2915b9e7.png/show,Ground,Sand Stream&Sand Force
+267,Sandile,https://j-img.game8.co/2217513/ca77dced8ed1e980bacf05c8726700e0.png/show?1540449214,Ground&Dark,Intimidate&Moxie&Anger Point
+268,Krokorok,https://j-img.game8.co/2217524/dfe9857059456183fd978ccd2a7d1c52.png/show?1540449214,Ground&Dark,Intimidate&Moxie&Anger Point
+269,Krookodile,https://j-img.game8.co/2217523/e6828bec93fdffcdecc39b2078294998.png/show?1540449214,Ground&Dark,Intimidate&Moxie&Anger Point
+270,Silicobra,https://j-img.game8.co/4508572/344f305d68df3a67f3394cb5c99ace4e.png/show,Ground,Shed Skin&Sand Spit&Sand Veil
+271,Sandaconda,https://j-img.game8.co/4508620/de27018827eaf8ebdd645fe594d20e55.png/show,Ground,Shed Skin&Sand Spit&Sand Veil
+272,Mudbray,https://j-img.game8.co/2217813/d86b0fb6cb94aeca6ec8365ade96c12c.png/show?1540450839,Ground,Own Tempo&Stamina&Inner Focus
+273,Mudsdale,https://j-img.game8.co/2217852/32f7c705d97bc07423714e3f38036a7b.png/show?1540450839,Ground,Own Tempo&Stamina&Inner Focus
+274,Larvesta,https://j-img.game8.co/4515228/2b1bfc0eaa2ac56e7ae1f464a79a4fdb.png/show,Bug&Fire,Flame Body&Swarm
+275,Volcarona,https://j-img.game8.co/3930123/1a6a09fe71ec75e5bc4477b072fceada.png/show,Bug&Fire,Flame Body&Swarm
+276,Bagon,https://j-img.game8.co/2216590/08b40aa4a24d511fe282d73976c30e34.png/show?1540444403,Dragon,Rock Head&Sheer Force
+277,Shelgon,https://j-img.game8.co/2216622/2c4db16334c68d104f45018780e1f3e8.png/show?1540444404,Dragon,Rock Head&Overcoat
+278,Salamence,https://j-img.game8.co/2216579/55a84238576ca7272fb22b8feb1e732c.png/show?1540444403,Dragon&Flying,Intimidate&Moxie
+279,Tinkatink,https://j-img.game8.co/7641810/05e59151205fa31c566b9f78a288f499.png/show,Fairy&Steel,Mold Breaker&Own Tempo&Pickpocket
+280,Tinkatuff,https://j-img.game8.co/7641819/7e0d3f8dced111244b1fdfface09f2cc.png/show,Fairy&Steel,Mold Breaker&Own Tempo&Pickpocket
+281,Tinkaton,https://j-img.game8.co/7641784/034a2778a7ccdebcfb9efc6149ee9f50.png/show,Fairy&Steel,Mold Breaker&Own Tempo&Pickpocket
+282,Hatenna,https://j-img.game8.co/4508625/4cb3db2568cd0d08184c73bbbe929a2a.png/show,Psychic,Healer&Anticipation&Magic Bounce
+283,Hattrem,https://j-img.game8.co/4508615/f926d2cbc6c09987c698685ef3cabf99.png/show,Psychic,Healer&Anticipation&Magic Bounce
+284,Hatterene,https://j-img.game8.co/4508629/fd4579e022399f4866bbbf5d316aa8e8.png/show,Psychic&Fairy,Healer&Anticipation&Magic Bounce
+285,Impidimp,https://j-img.game8.co/4508589/0bae84e04aa3e23946165dc48c94d918.png/show,Dark&Fairy,Prankster&Frisk&Pickpocket
+286,Morgrem,https://j-img.game8.co/4508583/384e5d53ef96f5a505d24d5be20c2e8a.png/show,Dark&Fairy,Prankster&Frisk&Pickpocket
+287,Grimmsnarl,https://j-img.game8.co/4508548/8a1d7f7812768461b740983e84a1f73a.png/show,Dark&Fairy,Prankster&Frisk&Pickpocket
+288,Wiglett,https://j-img.game8.co/7641745/4cc7becc5d74141bccb8efda00c9826d.png/show,Water,Gooey&Rattled&Sand Veil
+289,Wugtrio,https://j-img.game8.co/7641771/b17c7342f40f11bfc5efabc557ebdc36.png/show,Water,Gooey&Rattled&Sand Veil
+290,Bombirdier,https://j-img.game8.co/7641845/0776f4d65d0e7c4c548189139619830a.png/show,Flying&Dark,Big Pecks&Keen Eye&Rocky Payload
+291,Finizen,https://j-img.game8.co/7641755/2e0837226b5b288a0d43146f3dbed492.png/show,Water,Water Veil
+292,Palafin,https://img.game8.co/3678636/9ece2fc9e6de27d69272cedb7943540b.png/show,Water,Zero to Hero
+292.1,Palafin (Hero Form),https://j-img.game8.co/7476304/4ee5607e1718ac4d3898cd07009b1afe.png/show,Water,Zero to Hero
+293,Varoom,https://j-img.game8.co/7641843/da1508e5afec76b7280c3f9586b35c8e.png/show,Steel&Poison,Overcoat&Slow Start
+294,Revavroom,https://j-img.game8.co/7641792/6192f2034ec10d972e407fb17b9f4a03.png/show,Steel&Poison,Overcoat&Filter
+295,Cyclizar,https://j-img.game8.co/7641773/96c77232fc45db6d489daafd607c2097.png/show,Dragon&Normal,Shed Skin&Regenerator
+296,Orthworm,https://j-img.game8.co/7641786/c4a056c44123631438f327202bbc5e36.png/show,Steel,Earth Eater&Sand Veil
+297,Sableye,https://j-img.game8.co/4506786/fc020ed8441347c955d59121d89f63ff.png/show,Dark&Ghost,Keen Eye&Stall&Prankster
+298,Shuppet,https://j-img.game8.co/2216529/bb41ef616011869c7cd51295252ce65c.png/show?1540444402,Ghost,Insomnia&Frisk&Cursed Body
+299,Banette,https://j-img.game8.co/2216563/a4eed2756a74b539c5a2000502f3faec.png/show?1540444403,Ghost,Insomnia&Frisk&Cursed Body
+300,Falinks,https://j-img.game8.co/4508628/6fefae4443bbaf7863ff3b26dd639e31.png/show,Fighting,Battle Armor&Defiant
+301,Hawlucha,https://j-img.game8.co/4507978/61fc7162a303bd66d30a14f8be632db7.png/show,Fighting&Flying,Unburden&Limber&Mold Breaker
+302,Spiritomb,https://j-img.game8.co/2216780/54824cccde9c167f95e442672151d109.png/show?1540444737,Ghost&Dark,Pressure&Infiltrator
+303,Noibat,https://j-img.game8.co/2217718/eace4c132e37c750fb1842209b546319.png/show?1540450165,Flying&Dragon,Frisk&Infiltrator&Telepathy
+304,Noivern,https://j-img.game8.co/2217688/44f0eb0c511cb7739323feed20c50ec4.png/show?1540450165,Flying&Dragon,Frisk&Infiltrator&Telepathy
+305,Dreepy,https://j-img.game8.co/4508656/127935bb7d60410a092f11b90ddfba52.png/show,Dragon&Ghost,Clear Body&Infiltrator&Cursed Body
+306,Drakloak,https://j-img.game8.co/4508607/d471207148d4468e9b5d071aef414284.png/show,Dragon&Ghost,Clear Body&Infiltrator&Cursed Body
+307,Dragapult,https://j-img.game8.co/4508581/200fb1512565ca65c8ee1c8fc269ca57.png/show,Dragon&Ghost,Clear Body&Infiltrator&Cursed Body
+308,Glimmet,https://j-img.game8.co/7641801/9c9195ffa79edc58f0ecc638fd10d477.png/show,Rock&Poison,Toxic Debris&Corrosion
+309,Glimmora,https://j-img.game8.co/7641827/2ab730d02f343c98ef1a47972416ab1a.png/show,Rock&Poison,Toxic Debris&Corrosion
+310,Rotom,https://j-img.game8.co/2216678/41a3fac2e82cff11cc1c38b3f96cbeae.png/show?1540444735,Electric&Ghost,Levitate
+310.1,Heat Rotom,https://j-img.game8.co/4507004/1019124afbc49a25d7f4d2b8168109b0.png/show,Electric&Fire,Levitate
+310.2,Wash Rotom,https://j-img.game8.co/4507018/a7da8a8b7d737ff768cc63aafa144fd8.png/show,Electric&Water,Levitate
+310.3,Frost Rotom,https://j-img.game8.co/4507088/3b748af3e25f3435fd2806fe861a6307.png/show,Electric&Ice,Levitate
+310.4,Fan Rotom,https://j-img.game8.co/4507059/8ab1f59c4a78b5222acbc0c7c51e6d3c.png/show,Electric&Flying,Levitate
+310.5,Mow Rotom,https://j-img.game8.co/4506974/aa164faa561a1ba005119ef555d4d912.png/show,Electric&Grass,Levitate
+311,Greavard,https://j-img.game8.co/7641840/91bb3ad0713161abe6047324d65f0d32.png/show,Ghost,Pickup&Fluffy
+312,Houndstone,https://j-img.game8.co/7641844/e4bff31eb07e2323b5e818a83ee071c3.png/show,Ghost,Sand Rush&Fluffy
+313,Oranguru,https://j-img.game8.co/4508355/183d79d61c842337c43ce83943ae992b.png/show,Normal&Psychic,Inner Focus&Telepathy&Symbiosis
+314,Passimian,https://j-img.game8.co/4508333/db595cd63ad14863920ce44cc85674fb.png/show,Fighting,Receiver&Defiant
+315,Komala,https://j-img.game8.co/2217865/0f1004e76d63c0e22157cb160a932c34.png/show?1540450840,Normal,Comatose
+316,Larvitar,https://j-img.game8.co/4506542/aaa710dcb64c1bcf5980e7dac645d2ae.png/show,Rock&Ground,Guts&Sand Veil
+317,Pupitar,https://j-img.game8.co/4506487/31c7fce386b19e7e85a2fea12f1dea7f.png/show,Rock&Ground,Shed Skin
+318,Tyranitar,https://j-img.game8.co/4506493/cbe3474d2e3b36e9eabfce8c21ba53da.png/show,Rock&Dark,Sand Stream&Unnerve
+319,Stonjourner,https://j-img.game8.co/4508631/dc299061c2155d6bd54e6d9cfcfdf96a.png/show,Rock,Power Spot
+320,Eiscue (Ice Face),https://j-img.game8.co/4508593/1a53370986b5387ed585ee8ee972339f.png/show,Ice,Ice Face
+321,Pincurchin,https://j-img.game8.co/4508632/44573d459be162458e6e830dc91c53b2.png/show,Electric,Lightning Rod&Electric Surge
+322,Sandygast,https://j-img.game8.co/4649661/9ea7ddc7de57fc8d644025ffcc2deba2.png/show,Ghost&Ground,Water Compaction&Sand Veil
+323,Palossand,https://j-img.game8.co/4649662/f9b9de89166c3bdaa6284fed9fa5c682.png/show,Ghost&Ground,Water Compaction&Sand Veil
+324,Slowpoke,https://j-img.game8.co/2216231/89250aa303e56c5cd31d5ff5d73785a9.png/show?1540444219,Water&Psychic,Oblivious&Own Tempo&Regenerator
+325,Slowbro,https://j-img.game8.co/2216271/a84d88b1667876e1d3b3c0da3018b503.png/show?1540444219,Water&Psychic,Oblivious&Own Tempo&Regenerator
+326,Slowking,https://j-img.game8.co/2216388/435033ae20e8a2cc2810348d0aee96cd.png/show?1540444326,Water&Psychic,Oblivious&Own Tempo&Regenerator
+327,Shellos (East Sea),https://j-img.game8.co/4507078/525ff9a761249b4b31b7e8f0989b1ee0.png/show,Water,Sticky Hold&Storm Drain&Sand Force
+327.1,Shellos (West Sea),https://img.game8.co/3398172/be243f022a97972c3f8d278e656d3c35.png/show,Water,Sticky Hold&Storm Drain&Sand Force
+328,Gastrodon (East Sea),https://j-img.game8.co/4507016/0293c5282a7b9736a14f328026da3d40.png/show,Water&Ground,Sticky Hold&Storm Drain&Sand Force
+328.1,Gastrodon (West Sea),https://img.game8.co/3398158/66d7912195e9461660e31914d29d27e8.png/show,Water&Ground,Sticky Hold&Storm Drain&Sand Force
+329,Shellder,https://j-img.game8.co/4506025/497fcbc37e5020d5f78918a41b255c6d.png/show,Water,Shell Armor&Skill Link&Overcoat
+330,Cloyster,https://j-img.game8.co/4506028/512980cc3c22311731f509d77ab7b77f.png/show,Water&Ice,Shell Armor&Skill Link&Overcoat
+331,Qwilfish,https://j-img.game8.co/4506461/c022f8bfed6f067949346b94ccbdb32f.png/show,Water&Poison,Poison Point&Swift Swim&Intimidate
+332,Luvdisc,https://j-img.game8.co/2216580/7d93c64bc2dfa6b4acbbbdc006537b30.png/show?1540444403,Water,Swift Swim&Hydration
+333,Finneon,https://j-img.game8.co/2216748/49fae31009f26c81465c1d09ebc3d4a5.png/show?1540444736,Water,Swift Swim&Storm Drain&Water Veil
+334,Lumineon,https://j-img.game8.co/2216741/dab9b3a1c5bfda991e871a927563f442.png/show?1540444736,Water,Swift Swim&Storm Drain&Water Veil
+335,Bruxish,https://j-img.game8.co/2217847/d4f247762e00ce81adad20153307d9c5.png/show?1540450839,Water&Psychic,Dazzling&Strong Jaw&Wonder Skin
+336,Alomomola,https://j-img.game8.co/2217456/feb6806297f244174f294e5ec8cb4a9d.png/show?1540449213,Water,Healer&Hydration&Regenerator
+337,Skrelp,https://j-img.game8.co/2217730/6d6c9519ad75f36dd4cfe57e628b70e1.png/show?1540450165,Poison&Water,Poison Point&Poison Touch&Adaptability
+338,Dragalge,https://j-img.game8.co/2217682/7da5434067979bce44a2390974fd2185.png/show?1540450165,Poison&Dragon,Poison Point&Poison Touch&Adaptability
+339,Clauncher,https://j-img.game8.co/4649637/7575b161c38c6b6ef1311009921ea8db.png/show,Water,Mega Launcher
+340,Clawitzer,https://j-img.game8.co/4649638/a3538ca008317a5c782ea472c690881d.png/show,Water,Mega Launcher
+341,Tynamo,https://j-img.game8.co/2217462/553ac0f18cd0e8b07dfe5fe6f1167ffb.png/show?1540449214,Electric,Levitate
+342,Eelektrik,https://j-img.game8.co/2217455/bf5f3315cc2d16efddbc6ddb6a24a449.png/show?1540449214,Electric,Levitate
+343,Eelektross,https://j-img.game8.co/2217506/8f407df86dfa8643894f4b657fe928f4.png/show?1540449214,Electric,Levitate
+344,Mareanie,https://j-img.game8.co/4508384/ddd6e122a5e152e28fe0ba0607fa1abf.png/show,Poison&Water,Merciless&Limber&Regenerator
+345,Toxapex,https://j-img.game8.co/4508412/af8d2d880dedd82456fb35008bd7af30.png/show,Poison&Water,Merciless&Limber&Regenerator
+346,Flamigo,https://j-img.game8.co/7641787/053f70d81c235a75d05b59d2f767546e.png/show,Flying&Fighting,Scrappy&Tangled Feet&Costar
+347,Dratini,https://j-img.game8.co/2216318/9fe17269cb78183fa276f58de280b048.png/show?1540444222,Dragon,Shed Skin&Marvel Scale
+348,Dragonair,https://j-img.game8.co/2216317/ea7a89d41b34ef5e056bbc3f0150f6b7.png/show?1540444222,Dragon,Shed Skin&Marvel Scale
+349,Dragonite,https://j-img.game8.co/2216316/1ddc46b27b20b340218f9d3562a2358d.png/show?1540444222,Dragon&Flying,Inner Focus&Multiscale
+350,Snom,https://j-img.game8.co/4508633/291ca7a663b3a53a0a32eb47592aea90.png/show,Ice&Bug,Shield Dust&Ice Scales
+351,Frosmoth,https://j-img.game8.co/4508540/3e6d99eaa1e55f7acfe30d0d3ba3e6cb.png/show,Ice&Bug,Shield Dust&Ice Scales
+352,Snover,https://j-img.game8.co/4506984/908777cb2c9c89a433f828c2767d2722.png/show,Grass&Ice,Snow Warning&Soundproof
+353,Abomasnow,https://j-img.game8.co/4507043/41f3cb81e3e643dc001eacca45bc5a09.png/show,Grass&Ice,Snow Warning&Soundproof
+354,Delibird,https://j-img.game8.co/4506462/c145989bb7878ffd04cc5f3983a0bba7.png/show,Ice&Flying,Vital Spirit&Hustle&Insomnia
+355,Cubchoo,https://j-img.game8.co/2217537/cb89052ae6b011bcb99ddd0a06708ab4.png/show?1540449214,Ice,Snow Cloak&Slush Rush&Rattled
+356,Beartic,https://j-img.game8.co/2217525/96692fecd71fe5fcc05e0ef24fdddfac.png/show?1540449214,Ice,Snow Cloak&Slush Rush&Swift Swim
+357,Snorunt,https://j-img.game8.co/2216548/f6fd3e841e9d5f1863077803d98d0c69.png/show?1540444402,Ice,Inner Focus&Ice Body&Moody
+358,Glalie,https://j-img.game8.co/2216570/26e796451a795153b5683dcec8b3ea8c.png/show?1540444403,Ice,Inner Focus&Ice Body&Moody
+359,Froslass,https://j-img.game8.co/2216776/1b4333c15da766ff66f1821d56a9fced.png/show?1540444736,Ice&Ghost,Snow Cloak&Cursed Body
+360,Cryogonal,https://j-img.game8.co/2217561/4bf17118c448369b1ac1f7902c8055ef.png/show?1540449214,Ice,Levitate
+361,Cetoddle,https://j-img.game8.co/7641800/6fed0eea02008eed90b8197dd647c478.png/show,Ice,Thick Fat&Snow Cloak&Sheer Force
+362,Cetitan,https://j-img.game8.co/7641772/672c71cc9e4d8f432b21f67a31ea7296.png/show,Ice,Thick Fat&Slush Rush&Sheer Force
+363,Bergmite,https://j-img.game8.co/4508009/0b1669c4b98d4a92efdb63cc1ec96e55.png/show,Ice,Ice Body&Own Tempo&Sturdy
+364,Avalugg,https://j-img.game8.co/4508030/b49987143fbc2724b5eaecb68bf0bff0.png/show,Ice,Ice Body&Own Tempo&Sturdy
+365,Rufflet,https://j-img.game8.co/4507562/1617041743328b07aec3980d405b8428.png/show,Normal&Flying,Keen Eye&Sheer Force&Defiant
+366,Braviary,https://j-img.game8.co/4507537/14aaf165e7abb6a25ec50bc6f81eb1bf.png/show,Normal&Flying,Keen Eye&Sheer Force&Defiant
+367,Pawniard,https://j-img.game8.co/4507518/64702575bdb2555ac7f7f2bb46a7711e.png/show,Dark&Steel,Inner Focus&Defiant&Pressure
+368,Bisharp,https://j-img.game8.co/4507491/d9b6de97b6f8a1b11c35ebefaf07559f.png/show,Dark&Steel,Inner Focus&Defiant&Pressure
+369,Kingambit,https://j-img.game8.co/7641847/177466697a1a8858e4e2a72c19b7696d.png/show,Dark&Steel,Defiant&Supreme Overlord&Pressure
+370,Deino,https://j-img.game8.co/2217601/09831232f17a46007392c6d8062894ed.png/show?1540449215,Dark&Dragon,Hustle
+371,Zweilous,https://j-img.game8.co/2217567/8b96342fef75a01e90faebc062639232.png/show?1540449214,Dark&Dragon,Hustle
+372,Hydreigon,https://j-img.game8.co/2217569/a245b44458ebabbca84fbc7725cf5c15.png/show?1540449214,Dark&Dragon,Levitate
+373,Veluza,https://j-img.game8.co/7641789/4b2163f1b9b520fff7b311a0bc989874.png/show,Water&Psychic,Mold Breaker&Sharpness
+374,Dondozo,https://j-img.game8.co/7641837/15732eddcc9855d75da7864f499b7568.png/show,Water,Unaware&Oblivious&Water Veil
+375,Tatsugiri,https://j-img.game8.co/7641794/2c3e5f9e5fa97745a40042aff5175780.png/show,Dragon&Water,Commander&Storm Drain
+376,Great Tusk,https://j-img.game8.co/7641777/1b1ce0e92e173aca37339e18aabad396.png/show,Ground&Fighting,Protosynthesis
+377,Scream Tail,https://j-img.game8.co/7641743/0b7eda27592aa823d0c9f1b80a47c045.png/show,Fairy&Psychic,Protosynthesis
+378,Brute Bonnet,https://j-img.game8.co/7641770/a9c172d41f614d2e147782df3fdd6014.png/show,Grass&Dark,Protosynthesis
+379,Flutter Mane,https://j-img.game8.co/7641804/60365137d11bf3749ccd66972d589a74.png/show,Ghost&Fairy,Protosynthesis
+380,Slither Wing,https://j-img.game8.co/7641779/d2c1d38477ad1d268837d53f1b84a470.png/show,Bug&Fighting,Protosynthesis
+381,Sandy Shocks,https://j-img.game8.co/7641818/e0bea83995d9606cd7e4dd87c0ab428f.png/show,Electric&Ground,Protosynthesis
+382,Iron Treads,https://j-img.game8.co/7641823/3dac05e6d6c07f9a9aa2451e317010fd.png/show,Ground&Steel,Quark Drive
+383,Iron Bundle,https://j-img.game8.co/7641791/0b4951025d71366446869c6a816f221a.png/show,Ice&Water,Quark Drive
+384,Iron Hands,https://j-img.game8.co/7641813/0701bcd1a22ae117dbf4b86bff816d64.png/show,Fighting&Electric,Quark Drive
+385,Iron Jugulis,https://j-img.game8.co/7641833/0a945cb474fd71200a55454926838760.png/show,Dark&Flying,Quark Drive
+386,Iron Moth,https://j-img.game8.co/7641793/64086e03d7f0a87d973817453918d152.png/show,Fire&Poison,Quark Drive
+387,Iron Thorns,https://j-img.game8.co/7641805/5be26c97c048dc466242a3878889f76e.png/show,Rock&Electric,Quark Drive
+388,Frigibax,https://j-img.game8.co/7641848/0caef91cc5a0571968969750851a86df.png/show,Dragon&Ice,Thermal Exchange&Ice Body
+389,Arctibax,https://j-img.game8.co/7641769/89311259d43a9e7dd1f5398cbea00c78.png/show,Dragon&Ice,Thermal Exchange&Ice Body
+390,Baxcalibur,https://j-img.game8.co/7641826/61c6d5dbe80972a7be5a6fc5e8e8a85f.png/show,Dragon&Ice,Thermal Exchange&Ice Body
+391,Gimmighoul (Chest Form),https://j-img.game8.co/7641822/ae167d0dfd628384b27194a1fe91f687.png/show,Ghost,Rattled
+392,Gholdengo,https://j-img.game8.co/7641841/30631a3f55219a0128209c642c5922b2.png/show,Steel&Ghost,Good as Gold
+393,Wo-Chien,https://j-img.game8.co/7641752/a30d9917fd60fc0d673fa980c0d27006.png/show,Dark&Grass,Tablets of Ruin
+394,Chien-Pao,https://j-img.game8.co/7641761/ef459f83a19786c6f963775096e8acb2.png/show,Dark&Ice,Sword of Ruin
+395,Ting-Lu,https://j-img.game8.co/7641785/d1316cef335029737f0c39c07e23b957.png/show,Dark&Ground,Vessel of Ruin
+396,Chi-Yu,https://j-img.game8.co/7641809/24d19a0fb77eb1987edc205e0f6cbf15.png/show,Dark&Fire,Beads of Ruin
+397,Roaring Moon,https://j-img.game8.co/7641829/6baa95118384b921a2ebf60b47ed71ed.png/show,Dragon&Dark,Protosynthesis
+398,Iron Valiant,https://j-img.game8.co/7641836/91b455aa68653012a778f1eaf84ffc5b.png/show,Fairy&Fighting,Quark Drive
+399,Koraidon,https://j-img.game8.co/7641799/2fb561d7c8a6f56e1afc6be5e59fd26a.png/show,Fighting&Dragon,Orichalcum Pulse
+400,Miraidon,https://j-img.game8.co/7641766/ed7c2558feef535652f3a62ebeaf7ab9.png/show,Electric&Dragon,Hadron Engine
