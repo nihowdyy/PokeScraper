@@ -15,6 +15,7 @@ HEADERS = [
     'No.',
     'Name',
     'Image',
+    'Game8 Link',
     'Type',
     'Abilities',
 ]
@@ -48,6 +49,7 @@ with open(file_path, 'w',
         cells = row.find_all('td')
         name = cells[0].text.strip()
         image = cells[0].findAll('img')[0]['data-src']
+        game8 = cells[0].findAll('a')[0]['href']
         # Seperate the Pokemon Types
         text_pieces = [str(piece).strip() for piece in cells[1].stripped_strings]
         combined_text = '&'.join(text_pieces)
@@ -57,5 +59,5 @@ with open(file_path, 'w',
         combined_text = '&'.join(text_pieces)
         abilities = combined_text
 
-        data_out = [number, name, image, type, abilities]
+        data_out = [number, name, image, game8, type, abilities]
         writer.writerow(data_out)

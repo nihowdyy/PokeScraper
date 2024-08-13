@@ -1,86 +1,86 @@
-No.,Name,Image,Type,Abilities,Base
-26.1,Alolan Raichu,https://img.game8.co/3397597/5c4d8869231d3722c2781ae7294c7b87.png/show,Electric&Psychic,Surge Surfer,Pichu
-52.1,Alolan Meowth,https://img.game8.co/3397591/76d107c25da2659587141b878a84d61d.png/show,Dark,Pickup&Technician&Rattled,Meowth
-52.2,Galarian Meowth,https://j-img.game8.co/4506345/2d05bdaf29ae803881e72d570b2a6429.png/show,Steel,Pickup&Tough Claws&Unnerve,Meowth
-53.1,Alolan Persian,https://img.game8.co/3397592/ac6c18532e90341b9903996b4b5a50b6.png/show,Dark,Fur Coat&Technician,Meowth
-58.1,Hisuian Growlithe,https://img.game8.co/3405367/c599b29a9c662fc1ddcd56e541d630c9.png/show,Fire&Rock,Intimidate&Flash Fire&Rock Head,Growlithe
-59.1,Hisuian Arcanine,https://img.game8.co/3559232/279c3f53ea2f45619190677a290bb1df.png/show,Fire&Rock,Intimidate&Flash Fire&Rock Head,Growlithe
-100.1,Hisuian Voltorb,https://img.game8.co/3458545/63226e8ca338d10c9ca1c5a35e508d4f.png/show,Electric&Grass,Soundproof&Static&Aftermath,Voltorb
-101.1,Hisuian Electrode,https://img.game8.co/3559392/0b0ce3aeb421a75a4b0aa19192462ecf.png/show,Electric&Grass,Soundproof&Static,Voltorb
-110.1,Galarian Weezing,https://img.game8.co/3396989/ea114a1425e57a712ab52469007ec9cd.png/show,Poison&Fairy,Levitate&Neutralizing Gas&Misty Surge,Koffing
-144.1,Galarian Articuno,https://img.game8.co/3397184/36e0839ea900812104b24b36cfa9bc96.png/show,Psychic&Flying,Competitive,Articuno
-145.1,Galarian Zapdos,https://img.game8.co/3397185/ef0e0934eaad9a175d4b322bd8b693e0.png/show,Fighting&Flying,Defiant,Zapdos
-146.1,Galarian Moltres,https://img.game8.co/3397182/db9f583fa6c7ec20aacb7abd64297f36.png/show,Dark&Flying,Berserk,Moltres
-150,Mewtwo,https://img.game8.co/3559574/5607d4ab2a8f3e0cab6000a51bbf5604.png/show,Psychic,Pressure&Unnerve,Mewtwo
-151,Mew,https://img.game8.co/3559575/9c9ae86cf65c1dea79b02c8ae304beee.png/show,Psychic,Synchronize,Mewtwo
-157.1,Hisuian Typhlosion,https://img.game8.co/3487536/b73e42f1346cbb9da3553593fd9a5154.png/show,Fire&Ghost,Blaze&Frisk,Cyndaquil
-215.1,Hisuian Sneasel,https://img.game8.co/3487720/ad931bef80a9cef239a048e4b43cf174.png/show,Poison&Fighting,Inner Focus&Pickpocket,Sneasel
-377,Regirock,https://j-img.game8.co/2216617/c3d908985eb4dd074cbbc83ead1cf742.png/show?1540444404,Rock,Clear Body&Sturdy,Regirock
-378,Regice,https://j-img.game8.co/2216612/87e6db55676be368785f0f8beecc8f64.png/show?1540444404,Ice,Clear Body&Ice Body,Regice
-379,Registeel,https://j-img.game8.co/2216610/4c9c8ed8a803ce0fa6f0b65c073ffcff.png/show?1540444404,Steel,Clear Body&Light Metal,Registeel
-385,Jirachi,https://img.game8.co/3559582/aaed749d5ac9c76252771a4ab5db7fb2.png/show,Steel&Psychic,Serene Grace,Jirachi
-386,Deoxys (Normal Forme),https://j-img.game8.co/2216626/b6c6e91485e0af0b908f6c9da287f45b.png/show?1540444404,Psychic,Pressure,Deoxys
-386.1,Deoxys (Attack Forme),https://j-img.game8.co/2216605/89d350eef95fefe12e385e62d0363a33.png/show?1540444404,Psychic,Pressure,Deoxys
-386.2,Deoxys (Defense Forme),https://j-img.game8.co/2216627/e0757c527b14ba2554f7e61e27ad6dc4.png/show?1540444405,Psychic,Pressure,Deoxys
-386.3,Deoxys (Speed Forme),https://j-img.game8.co/2216621/16e83b9789b226754cbd06b33f06f1f2.png/show?1540444404,Psychic,Pressure,Deoxys
-480,Uxie,https://img.game8.co/3559683/62d88bf8b03afefb0f62bb80e3a5508d.png/show,Psychic,Levitate,Uxie
-481,Mesprit,https://img.game8.co/3559680/db637ad95e7d8e17e3cf82f37ed36cc0.png/show,Psychic,Levitate,Mesprit
-482,Azelf,https://img.game8.co/3559670/678a17e679ed5f0ae74b124dad0a6c9e.png/show,Psychic,Levitate,Azelf
-483,Dialga,https://img.game8.co/3559684/ef0b1fb553b120cfc3b4ffe8c47d7404.png/show,Steel&Dragon,Pressure&Telepathy,Dialga
-483.1,Dialga (Origin Forme),https://img.game8.co/3487540/61bff7e14693e0bb205c608c62c54d48.png/show,Steel&Dragon,Pressure&Telepathy,Dialga
-484,Palkia,https://img.game8.co/3559686/918e68e4389f0de4f809cbec18b7812e.png/show,Water&Dragon,Pressure&Telepathy,Palkia
-484.1,Palkia (Origin Forme),https://img.game8.co/3487535/9ed95fe905a72f3c727ac5a25483c0c3.png/show,Water&Dragon,Pressure&Telepathy,Palkia
-485,Heatran,https://img.game8.co/3412555/4fc7583d89ce1af9a38c744c628fc1be.png/show,Fire&Steel,Flash Fire&Flame Body,Heatran
-486,Regigigas,https://img.game8.co/3412559/057f2a25b020a4a39827d11aaced7480.png/show,Normal,Slow Start,Regigigas
-487,Giratina (Altered Forme),https://img.game8.co/3397565/ab9ffeb08cb447ac245a1fe431363fb1.png/show,Ghost&Dragon,Pressure&Telepathy,Giratina
-487.1,Giratina (Origin Forme),https://img.game8.co/3412551/f2aba8ac16cd8e62117c47b2a27fc437.png/show,Ghost&Dragon,Levitate,Giratina
-488,Cresselia,https://img.game8.co/3412556/1f0b1ef90fa7e99961c387083c276b3a.png/show,Psychic,Levitate,Cresselia
-489,Phione,https://img.game8.co/3559661/70abe4deb8ee4ed463150feacbaebbde.png/show,Water,Hydration,Phione
-490,Manaphy,https://img.game8.co/3559659/db71dfa581873d7878bba3a64e533a62.png/show,Water,Hydration,Manaphy
-491,Darkrai,https://img.game8.co/3412558/a6d3723c6fc7ff43276e67146126de8c.png/show,Dark,Bad Dreams,Darkrai
-492,Shaymin (Land Forme),https://img.game8.co/3412552/22d4e081437e6dab31f824b9b15e7876.png/show,Grass,Natural Cure,Shaymin
-492.1,Shaymin (Sky Forme),https://img.game8.co/3412557/b7de3aec931ec3b018829b89e73ce02d.png/show,Grass&Flying,Serene Grace,Shaymin
-493,Arceus,https://img.game8.co/3412553/e605f6d01bc26a13fb6ca3f8540c597d.png/show,Normal,Multitype,Arceus
-503.1,Hisuian Samurott,https://img.game8.co/3487538/1df75de33bd6bde749f25c9e2433bca6.png/show,Water&Dark,Torrent&Sharpness,Oshawott
-549.1,Hisuian Lilligant,https://img.game8.co/3487719/6668f3bedda512af7e2402cf58edc7eb.png/show,Grass&Fighting,Chlorophyll,Petilil
-570.1,Hisuian Zorua,https://j-img.game8.co/6448274/94477f51410665f013355148993d174e.png/show,Normal&Ghost,Illusion,Zorua
-571.1,Hisuian Zoroark,https://j-img.game8.co/6448273/62fd6ee4c4bca3276349b8df3329b25b.png/show,Normal&Ghost,Illusion,Zorua
-628.1,Hisuian Braviary,https://img.game8.co/3405369/0c8ff75398f96048882d4333d54f5991.png/show,Psychic&Flying,Keen Eye&Sheer Force&Tinted Lens,Rufflet
-641,Tornadus (Incarnate Forme),https://img.game8.co/3397864/65db01abc2d1c6da11fb8279e040bd4d.png/show,Flying,Prankster&Defiant,Tornadus
-641.1,Tornadus (Therian Forme),https://img.game8.co/3397858/03d78559322d53ba74f63dd1842131f5.png/show,Flying,Regenerator,Tornadus
-642,Thundurus (Incarnate Forme),https://img.game8.co/3397859/af7dab318a469bc7b45a3a0af8b7bfe1.png/show,Electric&Flying,Prankster&Defiant,Thundurus
-642.1,Thundurus (Therian Forme),https://img.game8.co/3397863/e57205dbefce6679ec23cb53df7df5da.png/show,Electric&Flying,Volt Absorb,Thundurus
-645,Landorus (Incarnate Forme),https://img.game8.co/3397851/9b22e4a5ded42b4e4cec2798c6d741df.png/show,Ground&Flying,Sand Force&Sheer Force,Landorus
-645.1,Landorus (Therian Forme),https://img.game8.co/3397850/055c0be4ecb5b552d21ca0663129113f.png/show,Ground&Flying,Intimidate,Landorus
-647,Keldeo,https://img.game8.co/3397856/049b28eb9e711b982bbf62c215488453.png/show,Water&Fighting,Justified,Keldeo
-648,Meloetta (Aria Forme),https://j-img.game8.co/2217590/c4dd2d1acf87cec7015ef8387ddfe9e5.png/show?1540449215,Normal&Psychic,Serene Grace,Meloetta
-648.1,Meloetta (Pirouette Forme),https://img.game8.co/3716015/be97b1e05197831fa1ba560fc214e165.png/show,Normal&Fighting,Serene Grace,Meloetta
-705.1,Hisuian Sliggoo,https://img.game8.co/3487718/ebcdd6181b7b0e85f1e9a9eef94e01fd.png/show,Steel&Dragon,Sap Sipper&Shell Armor&Gooey,Goomy
-706.1,Hisuian Goodra,https://img.game8.co/3487723/346ff033d8d0cabd9ed159a8fef3e8b0.png/show,Steel&Dragon,Sap Sipper&Shell Armor&Gooey,Goomy
-713.1,Hisuian Avalugg,https://img.game8.co/3487722/a6b95287c585498d7913ca9baa40cee6.png/show,Ice&Rock,Strong Jaw&Ice Body&Sturdy,Bergmite
-719,Diancie,https://img.game8.co/3397118/9178a7629eced9c76c1141546406a815.png/show,Rock&Fairy,Clear Body,Diancie
-720,Hoopa Confined,https://j-img.game8.co/2217741/6ab0a5e3022edff1e568162c8e357612.png/show?1540450166,Psychic&Ghost,Magician,Hoopa
-720.1,Hoopa Unbound,https://img.game8.co/3716111/bd93bd09f79455c05894e505dd10f079.png/show,Psychic&Dark,Magician,Hoopa
-721,Volcanion,https://img.game8.co/3397125/8f2bf07a2f59557ccff7769b57e382cc.png/show,Fire&Water,Water Absorb,Volcanion
-724.1,Hisuian Decidueye,https://img.game8.co/3487539/1649edc83e9038ee979f13ce94d47370.png/show,Grass&Fighting,Overgrow&Scrappy,Rowlet
-789,Cosmog,https://img.game8.co/3397800/8503bb98c25704c6455839187a74053e.png/show,Psychic,Unaware,Cosmog
-790,Cosmoem,https://img.game8.co/3397803/f4353af94bfecbc3948b2ba2be9c394d.png/show,Psychic,Sturdy,Cosmoem
-801,Magearna,https://img.game8.co/3397838/d667dca77c05661d3ef57783ab9d35de.png/show,Steel&Fairy,Soul-Heart,Magearna
-863,Perrserker,https://j-img.game8.co/4508582/56ed3a00c0001737511a8a35c921c1de.png/show,Steel,Tough Claws&Battle Armor&Steely Spirit,Meowth
-888,Zacian (Crowned Sword),https://img.game8.co/3397183/4e6cbbaa32c5e03e3226922277f576de.png/show,Fairy&Steel,Intrepid Sword,Zacian
-888.1,Zacian (Hero of Many Battles),https://img.game8.co/3397172/35c5c0ee260c4a0fbb5f99dc4a637e66.png/show,Fairy,Intrepid Sword,Zacian
-889,Zamazenta (Crowned Shield),https://img.game8.co/3397181/e049f68d6866acc8b8bdd6df4074023b.png/show,Fighting&Steel,Dauntless Shield,Zamazenta
-889.1,Zamazenta (Hero of Many Battles),https://img.game8.co/3397175/bff3da2a15dc5d73a8d3a275d95517b4.png/show,Fighting,Dauntless Shield,Zamazenta
-890,Eternatus,https://img.game8.co/3397174/bb5ffe3769e96a1ca5615fc5b925a636.png/show,Poison&Dragon,Pressure,Eternatus
-893,Zarude,https://img.game8.co/3397186/7bea4319d2fc9342ad48a5ab9c6424f8.png/show,Dark&Grass,Leaf Guard,Zarude
-894,Regieleki,https://img.game8.co/3397189/3eaea8e28ce40a843b6d6d84d48f4a37.png/show,Electric,Transistor,Regieleki
-895,Regidrago,https://img.game8.co/3397179/699d6aef53ff818fd02123dac0878e9b.png/show,Dragon,Dragon’s Maw,Regidrago
-898,Calyrex,https://img.game8.co/3397191/9356217d66a3dad75e290c5b244d1793.png/show,Psychic&Grass,Unnerve,Calyrex
-898.1,Calyrex (Ice Rider),https://img.game8.co/3397187/11b3e5e57ee728354e1f861bf5b08d6b.png/show,Psychic&Ice,As One (Ice Rider),Calyrex
-898.2,Calyrex (Shadow Rider),https://img.game8.co/3397178/b1063c3da8ad15cb505df789b6aea956.png/show,Psychic&Ghost,As One (Shadow Rider),Calyrex
-899,Wyrdeer,https://img.game8.co/3405368/438e14a5269ca20238be6a323b36d9f7.png/show,Normal&Psychic,Intimidate&Frisk&Sap Sipper,Stantler
-901,Ursaluna,https://img.game8.co/3487726/ba488e87f34b8c18ac0fc4c65a0e1781.png/show,Normal&Ground,Guts&Bulletproof&Unnerve,Teddiursa
-903,Sneasler,https://img.game8.co/3487727/b39f41ab1cfff0bd2762daa5aa8457b3.png/show,Poison&Fighting,Pressure&Unburden,Sneasel
-905,Enamorus (Incarnate Forme),https://img.game8.co/3487724/d47903f844913487fd52dc1e45ce806c.png/show,Fairy&Flying,Cute Charm&Contrary,Enamorus
-905.1,Enamorus (Therian Forme),https://img.game8.co/3487715/e3f1faeae0fff69993b8ab80d31cca3c.png/show,Fairy&Flying,Overcoat,Enamorus
-999.1,Gimmighoul (Roaming Form),https://img.game8.co/3715726/1d27303189e06547f14caadf23c01fd6.png/show,Ghost,Run Away,Gimmighoul
+No.,Name,Image,Game8 Link,Type,Abilities
+26.1,Alolan Raichu,https://img.game8.co/3397597/5c4d8869231d3722c2781ae7294c7b87.png/show,https://game8.co/games/Pokemon-Scarlet-Violet/archives/413487,Electric&Psychic,Surge Surfer
+52.1,Alolan Meowth,https://img.game8.co/3397591/76d107c25da2659587141b878a84d61d.png/show,https://game8.co/games/Pokemon-Scarlet-Violet/archives/413491,Dark,Pickup&Technician&Rattled
+52.2,Galarian Meowth,https://j-img.game8.co/4506345/2d05bdaf29ae803881e72d570b2a6429.png/show,https://game8.co/games/Pokemon-Scarlet-Violet/archives/397603,Steel,Pickup&Tough Claws&Unnerve
+53.1,Alolan Persian,https://img.game8.co/3397592/ac6c18532e90341b9903996b4b5a50b6.png/show,https://game8.co/games/Pokemon-Scarlet-Violet/archives/413492,Dark,Fur Coat&Technician
+58.1,Hisuian Growlithe,https://img.game8.co/3405367/c599b29a9c662fc1ddcd56e541d630c9.png/show,https://game8.co/games/Pokemon-Scarlet-Violet/archives/413493,Fire&Rock,Intimidate&Flash Fire&Rock Head
+59.1,Hisuian Arcanine,https://img.game8.co/3559232/279c3f53ea2f45619190677a290bb1df.png/show,https://game8.co/games/Pokemon-Scarlet-Violet/archives/413494,Fire&Rock,Intimidate&Flash Fire&Rock Head
+100.1,Hisuian Voltorb,https://img.game8.co/3458545/63226e8ca338d10c9ca1c5a35e508d4f.png/show,https://game8.co/games/Pokemon-Scarlet-Violet/archives/413499,Electric&Grass,Soundproof&Static&Aftermath
+101.1,Hisuian Electrode,https://img.game8.co/3559392/0b0ce3aeb421a75a4b0aa19192462ecf.png/show,https://game8.co/games/Pokemon-Scarlet-Violet/archives/413500,Electric&Grass,Soundproof&Static
+110.1,Galarian Weezing,https://img.game8.co/3396989/ea114a1425e57a712ab52469007ec9cd.png/show,https://game8.co/games/Pokemon-Scarlet-Violet/archives/425514,Poison&Fairy,Levitate&Neutralizing Gas&Misty Surge
+144.1,Galarian Articuno,https://img.game8.co/3397184/36e0839ea900812104b24b36cfa9bc96.png/show,https://game8.co/games/Pokemon-Scarlet-Violet/archives/413503,Psychic&Flying,Competitive
+145.1,Galarian Zapdos,https://img.game8.co/3397185/ef0e0934eaad9a175d4b322bd8b693e0.png/show,https://game8.co/games/Pokemon-Scarlet-Violet/archives/413505,Fighting&Flying,Defiant
+146.1,Galarian Moltres,https://img.game8.co/3397182/db9f583fa6c7ec20aacb7abd64297f36.png/show,https://game8.co/games/Pokemon-Scarlet-Violet/archives/413507,Dark&Flying,Berserk
+150,Mewtwo,https://img.game8.co/3559574/5607d4ab2a8f3e0cab6000a51bbf5604.png/show,https://game8.co/games/Pokemon-Scarlet-Violet/archives/413508,Psychic,Pressure&Unnerve
+151,Mew,https://img.game8.co/3559575/9c9ae86cf65c1dea79b02c8ae304beee.png/show,https://game8.co/games/Pokemon-Scarlet-Violet/archives/413509,Psychic,Synchronize
+157.1,Hisuian Typhlosion,https://img.game8.co/3487536/b73e42f1346cbb9da3553593fd9a5154.png/show,https://game8.co/games/Pokemon-Scarlet-Violet/archives/413510,Fire&Ghost,Blaze&Frisk
+215.1,Hisuian Sneasel,https://img.game8.co/3487720/ad931bef80a9cef239a048e4b43cf174.png/show,https://game8.co/games/Pokemon-Scarlet-Violet/archives/413513,Poison&Fighting,Inner Focus&Pickpocket
+377,Regirock,https://j-img.game8.co/2216617/c3d908985eb4dd074cbbc83ead1cf742.png/show?1540444404,https://game8.co/games/Pokemon-Scarlet-Violet/archives/437205,Rock,Clear Body&Sturdy
+378,Regice,https://j-img.game8.co/2216612/87e6db55676be368785f0f8beecc8f64.png/show?1540444404,https://game8.co/games/Pokemon-Scarlet-Violet/archives/437206,Ice,Clear Body&Ice Body
+379,Registeel,https://j-img.game8.co/2216610/4c9c8ed8a803ce0fa6f0b65c073ffcff.png/show?1540444404,https://game8.co/games/Pokemon-Scarlet-Violet/archives/437207,Steel,Clear Body&Light Metal
+385,Jirachi,https://img.game8.co/3559582/aaed749d5ac9c76252771a4ab5db7fb2.png/show,https://game8.co/games/Pokemon-Scarlet-Violet/archives/425865,Steel&Psychic,Serene Grace
+386,Deoxys (Normal Forme),https://j-img.game8.co/2216626/b6c6e91485e0af0b908f6c9da287f45b.png/show?1540444404,https://game8.co/games/Pokemon-Scarlet-Violet/archives/437212,Psychic,Pressure
+386.1,Deoxys (Attack Forme),https://j-img.game8.co/2216605/89d350eef95fefe12e385e62d0363a33.png/show?1540444404,https://game8.co/games/Pokemon-Scarlet-Violet/archives/437212,Psychic,Pressure
+386.2,Deoxys (Defense Forme),https://j-img.game8.co/2216627/e0757c527b14ba2554f7e61e27ad6dc4.png/show?1540444405,https://game8.co/games/Pokemon-Scarlet-Violet/archives/437212,Psychic,Pressure
+386.3,Deoxys (Speed Forme),https://j-img.game8.co/2216621/16e83b9789b226754cbd06b33f06f1f2.png/show?1540444404,https://game8.co/games/Pokemon-Scarlet-Violet/archives/437212,Psychic,Pressure
+480,Uxie,https://img.game8.co/3559683/62d88bf8b03afefb0f62bb80e3a5508d.png/show,https://game8.co/games/Pokemon-Scarlet-Violet/archives/413519,Psychic,Levitate
+481,Mesprit,https://img.game8.co/3559680/db637ad95e7d8e17e3cf82f37ed36cc0.png/show,https://game8.co/games/Pokemon-Scarlet-Violet/archives/413520,Psychic,Levitate
+482,Azelf,https://img.game8.co/3559670/678a17e679ed5f0ae74b124dad0a6c9e.png/show,https://game8.co/games/Pokemon-Scarlet-Violet/archives/413521,Psychic,Levitate
+483,Dialga,https://img.game8.co/3559684/ef0b1fb553b120cfc3b4ffe8c47d7404.png/show,https://game8.co/games/Pokemon-Scarlet-Violet/archives/413522,Steel&Dragon,Pressure&Telepathy
+483.1,Dialga (Origin Forme),https://img.game8.co/3487540/61bff7e14693e0bb205c608c62c54d48.png/show,https://game8.co/games/Pokemon-Scarlet-Violet/archives/413522,Steel&Dragon,Pressure&Telepathy
+484,Palkia,https://img.game8.co/3559686/918e68e4389f0de4f809cbec18b7812e.png/show,https://game8.co/games/Pokemon-Scarlet-Violet/archives/413523,Water&Dragon,Pressure&Telepathy
+484.1,Palkia (Origin Forme),https://img.game8.co/3487535/9ed95fe905a72f3c727ac5a25483c0c3.png/show,https://game8.co/games/Pokemon-Scarlet-Violet/archives/413523,Water&Dragon,Pressure&Telepathy
+485,Heatran,https://img.game8.co/3412555/4fc7583d89ce1af9a38c744c628fc1be.png/show,https://game8.co/games/Pokemon-Scarlet-Violet/archives/413524,Fire&Steel,Flash Fire&Flame Body
+486,Regigigas,https://img.game8.co/3412559/057f2a25b020a4a39827d11aaced7480.png/show,https://game8.co/games/Pokemon-Scarlet-Violet/archives/437208,Normal,Slow Start
+487,Giratina (Altered Forme),https://img.game8.co/3397565/ab9ffeb08cb447ac245a1fe431363fb1.png/show,https://game8.co/games/Pokemon-Scarlet-Violet/archives/413525,Ghost&Dragon,Pressure&Telepathy
+487.1,Giratina (Origin Forme),https://img.game8.co/3412551/f2aba8ac16cd8e62117c47b2a27fc437.png/show,https://game8.co/games/Pokemon-Scarlet-Violet/archives/413525,Ghost&Dragon,Levitate
+488,Cresselia,https://img.game8.co/3412556/1f0b1ef90fa7e99961c387083c276b3a.png/show,https://game8.co/games/Pokemon-Scarlet-Violet/archives/413526,Psychic,Levitate
+489,Phione,https://img.game8.co/3559661/70abe4deb8ee4ed463150feacbaebbde.png/show,https://game8.co/games/Pokemon-Scarlet-Violet/archives/425866,Water,Hydration
+490,Manaphy,https://img.game8.co/3559659/db71dfa581873d7878bba3a64e533a62.png/show,https://game8.co/games/Pokemon-Scarlet-Violet/archives/425867,Water,Hydration
+491,Darkrai,https://img.game8.co/3412558/a6d3723c6fc7ff43276e67146126de8c.png/show,https://game8.co/games/Pokemon-Scarlet-Violet/archives/425868,Dark,Bad Dreams
+492,Shaymin (Land Forme),https://img.game8.co/3412552/22d4e081437e6dab31f824b9b15e7876.png/show,https://game8.co/games/Pokemon-Scarlet-Violet/archives/421535,Grass,Natural Cure
+492.1,Shaymin (Sky Forme),https://img.game8.co/3412557/b7de3aec931ec3b018829b89e73ce02d.png/show,https://game8.co/games/Pokemon-Scarlet-Violet/archives/421535,Grass&Flying,Serene Grace
+493,Arceus,https://img.game8.co/3412553/e605f6d01bc26a13fb6ca3f8540c597d.png/show,https://game8.co/games/Pokemon-Scarlet-Violet/archives/413527,Normal,Multitype
+503.1,Hisuian Samurott,https://img.game8.co/3487538/1df75de33bd6bde749f25c9e2433bca6.png/show,https://game8.co/games/Pokemon-Scarlet-Violet/archives/413528,Water&Dark,Torrent&Sharpness
+549.1,Hisuian Lilligant,https://img.game8.co/3487719/6668f3bedda512af7e2402cf58edc7eb.png/show,https://game8.co/games/Pokemon-Scarlet-Violet/archives/413538,Grass&Fighting,Chlorophyll
+570.1,Hisuian Zorua,https://j-img.game8.co/6448274/94477f51410665f013355148993d174e.png/show,https://game8.co/games/Pokemon-Scarlet-Violet/archives/394496,Normal&Ghost,Illusion
+571.1,Hisuian Zoroark,https://j-img.game8.co/6448273/62fd6ee4c4bca3276349b8df3329b25b.png/show,https://game8.co/games/Pokemon-Scarlet-Violet/archives/388260,Normal&Ghost,Illusion
+628.1,Hisuian Braviary,https://img.game8.co/3405369/0c8ff75398f96048882d4333d54f5991.png/show,https://game8.co/games/Pokemon-Scarlet-Violet/archives/413530,Psychic&Flying,Keen Eye&Sheer Force&Tinted Lens
+641,Tornadus (Incarnate Forme),https://img.game8.co/3397864/65db01abc2d1c6da11fb8279e040bd4d.png/show,https://game8.co/games/Pokemon-Scarlet-Violet/archives/413531,Flying,Prankster&Defiant
+641.1,Tornadus (Therian Forme),https://img.game8.co/3397858/03d78559322d53ba74f63dd1842131f5.png/show,https://game8.co/games/Pokemon-Scarlet-Violet/archives/413531,Flying,Regenerator
+642,Thundurus (Incarnate Forme),https://img.game8.co/3397859/af7dab318a469bc7b45a3a0af8b7bfe1.png/show,https://game8.co/games/Pokemon-Scarlet-Violet/archives/413532,Electric&Flying,Prankster&Defiant
+642.1,Thundurus (Therian Forme),https://img.game8.co/3397863/e57205dbefce6679ec23cb53df7df5da.png/show,https://game8.co/games/Pokemon-Scarlet-Violet/archives/413532,Electric&Flying,Volt Absorb
+645,Landorus (Incarnate Forme),https://img.game8.co/3397851/9b22e4a5ded42b4e4cec2798c6d741df.png/show,https://game8.co/games/Pokemon-Scarlet-Violet/archives/413533,Ground&Flying,Sand Force&Sheer Force
+645.1,Landorus (Therian Forme),https://img.game8.co/3397850/055c0be4ecb5b552d21ca0663129113f.png/show,https://game8.co/games/Pokemon-Scarlet-Violet/archives/413533,Ground&Flying,Intimidate
+647,Keldeo,https://img.game8.co/3397856/049b28eb9e711b982bbf62c215488453.png/show,https://game8.co/games/Pokemon-Scarlet-Violet/archives/437241,Water&Fighting,Justified
+648,Meloetta (Aria Forme),https://j-img.game8.co/2217590/c4dd2d1acf87cec7015ef8387ddfe9e5.png/show?1540449215,https://game8.co/games/Pokemon-Scarlet-Violet/archives/413534,Normal&Psychic,Serene Grace
+648.1,Meloetta (Pirouette Forme),https://img.game8.co/3716015/be97b1e05197831fa1ba560fc214e165.png/show,https://game8.co/games/Pokemon-Scarlet-Violet/archives/413534,Normal&Fighting,Serene Grace
+705.1,Hisuian Sliggoo,https://img.game8.co/3487718/ebcdd6181b7b0e85f1e9a9eef94e01fd.png/show,https://game8.co/games/Pokemon-Scarlet-Violet/archives/413536,Steel&Dragon,Sap Sipper&Shell Armor&Gooey
+706.1,Hisuian Goodra,https://img.game8.co/3487723/346ff033d8d0cabd9ed159a8fef3e8b0.png/show,https://game8.co/games/Pokemon-Scarlet-Violet/archives/413537,Steel&Dragon,Sap Sipper&Shell Armor&Gooey
+713.1,Hisuian Avalugg,https://img.game8.co/3487722/a6b95287c585498d7913ca9baa40cee6.png/show,https://game8.co/games/Pokemon-Scarlet-Violet/archives/413486,Ice&Rock,Strong Jaw&Ice Body&Sturdy
+719,Diancie,https://img.game8.co/3397118/9178a7629eced9c76c1141546406a815.png/show,https://game8.co/games/Pokemon-Scarlet-Violet/archives/413539,Rock&Fairy,Clear Body
+720,Hoopa Confined,https://j-img.game8.co/2217741/6ab0a5e3022edff1e568162c8e357612.png/show?1540450166,https://game8.co/games/Pokemon-Scarlet-Violet/archives/413540,Psychic&Ghost,Magician
+720.1,Hoopa Unbound,https://img.game8.co/3716111/bd93bd09f79455c05894e505dd10f079.png/show,https://game8.co/games/Pokemon-Scarlet-Violet/archives/413540,Psychic&Dark,Magician
+721,Volcanion,https://img.game8.co/3397125/8f2bf07a2f59557ccff7769b57e382cc.png/show,https://game8.co/games/Pokemon-Scarlet-Violet/archives/413541,Fire&Water,Water Absorb
+724.1,Hisuian Decidueye,https://img.game8.co/3487539/1649edc83e9038ee979f13ce94d47370.png/show,https://game8.co/games/Pokemon-Scarlet-Violet/archives/413483,Grass&Fighting,Overgrow&Scrappy
+789,Cosmog,https://img.game8.co/3397800/8503bb98c25704c6455839187a74053e.png/show,https://game8.co/games/Pokemon-Scarlet-Violet/archives/437259,Psychic,Unaware
+790,Cosmoem,https://img.game8.co/3397803/f4353af94bfecbc3948b2ba2be9c394d.png/show,https://game8.co/games/Pokemon-Scarlet-Violet/archives/437260,Psychic,Sturdy
+801,Magearna,https://img.game8.co/3397838/d667dca77c05661d3ef57783ab9d35de.png/show,https://game8.co/games/Pokemon-Scarlet-Violet/archives/413542,Steel&Fairy,Soul-Heart
+863,Perrserker,https://j-img.game8.co/4508582/56ed3a00c0001737511a8a35c921c1de.png/show,https://game8.co/games/Pokemon-Scarlet-Violet/archives/397604,Steel,Tough Claws&Battle Armor&Steely Spirit
+888,Zacian (Crowned Sword),https://img.game8.co/3397183/4e6cbbaa32c5e03e3226922277f576de.png/show,https://game8.co/games/Pokemon-Scarlet-Violet/archives/413543,Fairy&Steel,Intrepid Sword
+888.1,Zacian (Hero of Many Battles),https://img.game8.co/3397172/35c5c0ee260c4a0fbb5f99dc4a637e66.png/show,https://game8.co/games/Pokemon-Scarlet-Violet/archives/413543,Fairy,Intrepid Sword
+889,Zamazenta (Crowned Shield),https://img.game8.co/3397181/e049f68d6866acc8b8bdd6df4074023b.png/show,https://game8.co/games/Pokemon-Scarlet-Violet/archives/413544,Fighting&Steel,Dauntless Shield
+889.1,Zamazenta (Hero of Many Battles),https://img.game8.co/3397175/bff3da2a15dc5d73a8d3a275d95517b4.png/show,https://game8.co/games/Pokemon-Scarlet-Violet/archives/413544,Fighting,Dauntless Shield
+890,Eternatus,https://img.game8.co/3397174/bb5ffe3769e96a1ca5615fc5b925a636.png/show,https://game8.co/games/Pokemon-Scarlet-Violet/archives/413545,Poison&Dragon,Pressure
+893,Zarude,https://img.game8.co/3397186/7bea4319d2fc9342ad48a5ab9c6424f8.png/show,https://game8.co/games/Pokemon-Scarlet-Violet/archives/413549,Dark&Grass,Leaf Guard
+894,Regieleki,https://img.game8.co/3397189/3eaea8e28ce40a843b6d6d84d48f4a37.png/show,https://game8.co/games/Pokemon-Scarlet-Violet/archives/413550,Electric,Transistor
+895,Regidrago,https://img.game8.co/3397179/699d6aef53ff818fd02123dac0878e9b.png/show,https://game8.co/games/Pokemon-Scarlet-Violet/archives/413551,Dragon,Dragon’s Maw
+898,Calyrex,https://img.game8.co/3397191/9356217d66a3dad75e290c5b244d1793.png/show,https://game8.co/games/Pokemon-Scarlet-Violet/archives/413554,Psychic&Grass,Unnerve
+898.1,Calyrex (Ice Rider),https://img.game8.co/3397187/11b3e5e57ee728354e1f861bf5b08d6b.png/show,https://game8.co/games/Pokemon-Scarlet-Violet/archives/413554,Psychic&Ice,As One (Ice Rider)
+898.2,Calyrex (Shadow Rider),https://img.game8.co/3397178/b1063c3da8ad15cb505df789b6aea956.png/show,https://game8.co/games/Pokemon-Scarlet-Violet/archives/413554,Psychic&Ghost,As One (Shadow Rider)
+899,Wyrdeer,https://img.game8.co/3405368/438e14a5269ca20238be6a323b36d9f7.png/show,https://game8.co/games/Pokemon-Scarlet-Violet/archives/413555,Normal&Psychic,Intimidate&Frisk&Sap Sipper
+901,Ursaluna,https://img.game8.co/3487726/ba488e87f34b8c18ac0fc4c65a0e1781.png/show,https://game8.co/games/Pokemon-Scarlet-Violet/archives/413557,Normal&Ground,Guts&Bulletproof&Unnerve
+903,Sneasler,https://img.game8.co/3487727/b39f41ab1cfff0bd2762daa5aa8457b3.png/show,https://game8.co/games/Pokemon-Scarlet-Violet/archives/413559,Poison&Fighting,Pressure&Unburden
+905,Enamorus (Incarnate Forme),https://img.game8.co/3487724/d47903f844913487fd52dc1e45ce806c.png/show,https://game8.co/games/Pokemon-Scarlet-Violet/archives/413561,Fairy&Flying,Cute Charm&Contrary
+905.1,Enamorus (Therian Forme),https://img.game8.co/3487715/e3f1faeae0fff69993b8ab80d31cca3c.png/show,https://game8.co/games/Pokemon-Scarlet-Violet/archives/413561,Fairy&Flying,Overcoat
+999.1,Gimmighoul (Roaming Form),https://img.game8.co/3715726/1d27303189e06547f14caadf23c01fd6.png/show,https://game8.co/games/Pokemon-Scarlet-Violet/archives/412787,Ghost,Run Away
