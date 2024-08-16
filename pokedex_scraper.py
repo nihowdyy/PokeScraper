@@ -115,7 +115,6 @@ with open(file_path, 'w',
                         base, hp, atk, defense, spatk, spdef, spd, total]
             writer.writerow(data_out)
             
-            print(name) # Delete PLS
             # Cooldown to not overload servers
             time.sleep(1)
 
