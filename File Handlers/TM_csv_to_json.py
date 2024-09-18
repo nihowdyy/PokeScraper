@@ -62,10 +62,12 @@ with open(csv_path, mode='r') as file:
             match = re.match(r'(.+?) x(\d+)', entry.strip())
             if match:
                 material_name = match.group(1).strip()
+                pokemon_name = material_name.split(' ')[0]
                 quantity = int(match.group(2))
                 # Append the material as a dictionary to the list
                 materials.append({
                     'material_name': material_name,
+                    'pokemon_name': pokemon_name,
                     'quantity': quantity
                 })
             filtered_row['tm_materials'] = materials

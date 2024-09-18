@@ -11,6 +11,14 @@ import time
 directory = 'CSV Files'
 file_name = 'SV_DEX.csv'
 file_path = os.path.join(directory, file_name)
+
+# New Directories
+new_directory = 'Pokemon Location images'
+
+# If Directory does not exist, create it
+if not os.path.exists(new_directory):
+    os.makedirs(new_directory)
+
 def image_downloader(file_path):
     with open(file_path, 'r') as csvfile:
         # Reader Object
@@ -34,7 +42,6 @@ def image_downloader(file_path):
                 img_data = request.content
 
                 # New Directories
-                new_directory = 'Pokemon Location images'
                 written_file_name = image["alt"] + ".jpg"
                 new_file_path = os.path.join(new_directory, written_file_name)
                 with open(new_file_path, 'wb') as handler:
