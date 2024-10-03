@@ -35,14 +35,15 @@ field_mapping = {
     'Location': 'tm_location',
     'LP Cost': 'tm_lp_cost',
     'Materials Needed': 'tm_materials',
-    'Sell Price': 'tm_sell_price'
+    'Sell Price': 'tm_sell_price',
+    'Description': 'tm_desc',
 }
 
 
 # 3. Read CSV and convert to list of dictionaries
 included_fields = ['TM Number', 'Name', 'Type', 'Category', 
                    'Power', 'Accuracy', 'PP', 'Location', 
-                   'LP Cost', 'Materials Needed', 'Sell Price']
+                   'LP Cost', 'Materials Needed', 'Sell Price', 'Description']
 
 data = []
 with open(csv_path, mode='r') as file:
@@ -82,7 +83,8 @@ def transform_data(entry):
             'location': entry['tm_location'],
             'lp_cost': entry['tm_lp_cost'],
             'materials': entry['tm_materials'],
-            'sell_price': entry['tm_sell_price']
+            'sell_price': entry['tm_sell_price'],
+            'description': entry['tm_desc']
         },
         'move_info': {
             'type': entry['move_type'],
