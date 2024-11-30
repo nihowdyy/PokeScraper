@@ -68,7 +68,11 @@ with open(file_path, 'w',
             td = row.find("td")
             moveLongEffect = td.text.strip()
         else:
-            moveLongEffect = 'N/A'
+            h2 = soup.find("h2", id="move-effects")
+
+            div = h2.find_parent("div")
+            p = div.find('p')
+            moveLongEffect = p.text.strip()
 
         data_out = [ moveName, moveType, moveCategory, 
                      movePower, moveAccuracy, movePP, 
