@@ -81,8 +81,11 @@ with open(file_path, 'w',
             spdef = cells[8].text.strip()
             spd = cells[9].text.strip()
 
+            # To track progress of the scraper
+            print(f"Processing {dex_type} #{dex_num}: {name}")
+            
             # Basic Stage
-            link = cells[0].findAll('a')[0]['href']
+            link = cells[0].find_all('a')[0]['href']
 
             # Find the basic stage of the Pokemon
             request = requests.get(link)
@@ -118,4 +121,5 @@ with open(file_path, 'w',
             # Cooldown to not overload servers
             time.sleep(1)
 
+print ("Pokedex Scraping Complete!")
             
