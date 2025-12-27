@@ -1,4 +1,6 @@
 # Pokemon Scarlet/Violet Item Scraper + Locations
+# Coded by Alex
+# Last Updated: December 26th, 2025
 import requests
 from bs4 import BeautifulSoup
 import csv
@@ -22,7 +24,6 @@ def scrape_items(url: str, file_path: str) -> None:
     # Use a session (faster + more reliable than repeated plain requests)
     session = requests.Session()
     req_headers = {"User-Agent": "Mozilla/5.0"}
-
     page = session.get(url, headers=req_headers, timeout=30)
     page.raise_for_status()
 
@@ -106,6 +107,7 @@ def scrape_items(url: str, file_path: str) -> None:
         # Final confirmation
         print ("Item scraping completed.")
 
+# Main execution
 if __name__ == "__main__":
     # URL from Game8
     url = "https://game8.co/games/Pokemon-Scarlet-Violet/archives/391045"
