@@ -82,7 +82,7 @@ with open(file_path, 'w',
             spd = cells[9].text.strip()
 
             # To track progress of the scraper
-            print(f"Processing {dex_type} #{dex_num}: {name}")
+            print(f"Processing {dex_num}: {name}")
             
             # Basic Stage
             link = cells[0].find_all('a')[0]['href']
